@@ -1,0 +1,293 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/terms-and-conditions/50-percent-deposit-bonus-offer/
+
+Topics: CFDs, MetaTrader 4
+
+
+Q: How do I deposit funds?
+
+Open main menu
+
+50% deposit bonus offer
+
+Terms and conditions
+
+Introduction
+
+Hantec Markets Limited, authorized and regulated by the Mauritius Financial Services Commission (FSC) under License Number C114013940 (hereafter referred to as “the Company” or “Hantec”), hereby offers the “50% DEPOSIT BONUS OFFER” (hereinafter referred to as the “50DBO”) to its Eligible Clients, subject exclusively to the terms and conditions set forth herein. This offer is made at Hantec’s absolute discretion.
+
+--------------------------------------------------------------------------------
+
+Q: What deposit methods are available?
+
+Open main menu
+
+50% deposit bonus offer
+
+Terms and conditions
+
+Introduction
+
+Hantec Markets Limited, authorized and regulated by the Mauritius Financial Services Commission (FSC) under License Number C114013940 (hereafter referred to as “the Company” or “Hantec”), hereby offers the “50% DEPOSIT BONUS OFFER” (hereinafter referred to as the “50DBO”) to its Eligible Clients, subject exclusively to the terms and conditions set forth herein. This offer is made at Hantec’s absolute discretion.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Conditions of Eligibility
+
+Subject to the Client Agreement and all other applicable business terms and policies, the 50DBO is available to Hantec clients who meet the Eligibility Criteria specified below (hereinafter referred to as the “Eligible Clients” or “Eligible Client”).
+
+Participation is contingent upon the existence of a Client Agreement between Hantec and the Eligible Client.
+
+The 50DBO may be offered by Hantec from time to time to clients who open live trading accounts with Hantec, where a Client Agreement is in place between the Eligible Client and Hantec. These clients may be referred to Hantec via specific websites and/or social network sites in the context of certain specific promotions, and/or surveys that Hantec may be running from time to time on such specific websites and/or social network sites.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Only individuals who are legally capable of forming binding contracts under the laws of their country of residence may participate in the 50DBO. Specifically, individuals under the age of 18, or the legal age of majority in their country of residence, are ineligible.
+
+The participation of Intermediaries/Related Parties is strictly prohibited. Hantec reserves the right at its sole discretion to disqualify any participant whose registration and/or trading data matches that of another participant, including, but not limited to, shared IP addresses. For the purposes hereof, the term “Intermediaries/Related Parties”, when used in these Terms & Conditions, unless the context otherwise requires, shall mean to include any person or entity bearing a relationship with any participant in the 50DBO, including, without limitation:
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+family members, such as brothers, sisters, spouses, ancestors, lineal descendants, and collateral descendants;
+person or entity, whom any participant in the 50DBO, directly or indirectly through one or more intermediaries, controls, or whom, directly or indirectly, through one or more intermediaries, is controlled by, or is under common control with any participant in the 50DBO; for purposes of this definition, the term control (including, with correlative meaning, the terms “controlled by” and “under common control with”), as used with respect to any participant in the 50DBO, shall mean the possession, directly or indirectly through one or more intermediaries, of the power to direct or cause the direction of management policies of such person or entity, whether through ownership of voting securities or otherwise.
+Similarly, persons associated in any manner whatsoever with Hantec and/or with the specific websites and/or social network sites on which Hantec may be running from time-to-time certain specific promotions, contests and/or surveys, in the context of which access to the 50DBO is offered, are not allowed to participate in the offer.
+Eligibility Criteria
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+To qualify for the 50DBO, prospective clients must:
+
+Possess an approved Hantec live trading account, in accordance with Hantec’s policies; and
+Deposit a minimum of 100USD/EUR in real funds during the promotion (the “New Funds”)
+
+This 50DBO is applicable to both new and existing clients of Hantec Markets.
+
+This 50DBO exclusively applies to conventional accounts, excluding PAMM or cent accounts.
+
+Eligible Clients may maintain only one trading account per client and per unique IP address for participation in the 50DBO. Multiple registrations from the same IP or related IPs are not permitted nor are multiple trading accounts registered with the same personal details. Hantec reserves the right to make a sole determination on whether this has been followed by the client(s).
+
+--------------------------------------------------------------------------------
+
+Q: What is the minimum deposit?
+
+To qualify for the 50DBO, prospective clients must:
+
+Possess an approved Hantec live trading account, in accordance with Hantec’s policies; and
+Deposit a minimum of 100USD/EUR in real funds during the promotion (the “New Funds”)
+
+This 50DBO is applicable to both new and existing clients of Hantec Markets.
+
+This 50DBO exclusively applies to conventional accounts, excluding PAMM or cent accounts.
+
+Eligible Clients may maintain only one trading account per client and per unique IP address for participation in the 50DBO. Multiple registrations from the same IP or related IPs are not permitted nor are multiple trading accounts registered with the same personal details. Hantec reserves the right to make a sole determination on whether this has been followed by the client(s).
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Specific Terms
+
+Eligible Clients meeting the above criteria are entitled to a 50% deposit bonus, subject to the constraints detailed herein (the “Bonus”)
+
+The Bonus cannot be lost, withdrawn from Eligible Clients’ accounts or transferred between live trading accounts within Hantec.
+The Bonus capped at a maximum of 10,000USD, irrespective of the New Funds amount.
+Bonus will not be provided to Eligible Clients if the latter engages in any trading activities utilising the New Funds prior to the crediting of the Bonus. Any trading activities undertaken before the Bonus is credited may not be taken into consideration and/or will result in the withholding of the Bonus by Hantec and disqualification of Eligible Clients.
+By participating in this promotion, Eligible Clients agree that the automatic liquidation level or stop-out level for the trading account to which the 50DBO is applied is set at an equity stop-out level equal to the Bonus amount, instead of a percentage stop out level. For clarity, as an example, if a Bonus of 500USD is applied, the account stop-out level will be reached once the account equity drops to 500USD or below.
+Leverage for the 50DBO trading accounts will be offered as a maximum of 500:1.
+General Terms
+
+--------------------------------------------------------------------------------
+
+Q: What is the minimum deposit?
+
+Specific Terms
+
+Eligible Clients meeting the above criteria are entitled to a 50% deposit bonus, subject to the constraints detailed herein (the “Bonus”)
+
+The Bonus cannot be lost, withdrawn from Eligible Clients’ accounts or transferred between live trading accounts within Hantec.
+The Bonus capped at a maximum of 10,000USD, irrespective of the New Funds amount.
+Bonus will not be provided to Eligible Clients if the latter engages in any trading activities utilising the New Funds prior to the crediting of the Bonus. Any trading activities undertaken before the Bonus is credited may not be taken into consideration and/or will result in the withholding of the Bonus by Hantec and disqualification of Eligible Clients.
+By participating in this promotion, Eligible Clients agree that the automatic liquidation level or stop-out level for the trading account to which the 50DBO is applied is set at an equity stop-out level equal to the Bonus amount, instead of a percentage stop out level. For clarity, as an example, if a Bonus of 500USD is applied, the account stop-out level will be reached once the account equity drops to 500USD or below.
+Leverage for the 50DBO trading accounts will be offered as a maximum of 500:1.
+General Terms
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+It may take up to 24 hours for the Bonus to be credited to an Eligible Client’s account after meeting the specified criteria.
+
+Any funds withdrawn from the Eligible Client’s real account(s) will result in the immediate removal of all previous and current awarded credits and/or bonuses, including this trading Bonus.
+
+Internal transfers between trading Accounts with Hantec will be treated the same as a withdrawal of funds with respect to the trading Bonus. The internal transfer of funds from an Eligible Client’s real account holding the Bonus will result in the instant nullification of the Bonus.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Any trading account deemed inactive (no trading activity for a period over 90 days) will have the Bonus removed.
+
+The Bonus cannot be separately transferred between, or from, Eligible Clients’ real trading accounts with Hantec.
+
+Hantec reserves the right, at its reasonable and sole discretion:
+
+to decline registration of any participant in the 50DBO; and
+ to disqualify and remove any relevant trading activity from any participant in the 50DBO who tampers or attempts to tamper with the operation of the 50DBO, or breaches these terms, the Client Agreement and/or any of the Hantec terms and policies set forth on in this document.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Under no circumstances will Hantec be liable for any consequences of any order cancelation or decline, including, but not limited to, any closure order by stop out.
+
+Hantec reserves the right, at its reasonable discretion, to discontinue the offering of this 50DBO at any time and to any of its clients, without having to explain the reasons.
+
+Clients can opt out from the 50DBO by contacting Hantec on info-mu @hmarkets.com. The relevant department will process your request and inform you accordingly.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+Hantec reserves the right to modify, amend or terminate the 50DBO or any aspect of it at any time. Prior notice of such changes will be given to clients and Hantec will post any such changes on its website. It is recommended that participants in the 50DBO consult these Terms & Conditions on Hantec’s website regularly. Please note that taking part in the 50DBO constitutes acceptance and agreement to abide by any such alterations, amendments and/or changes.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+By participating in this promotion, participants will be deemed to have accepted all the Terms & Conditions and disclaimers and hold harmless Hantec Markets, their respective parent companies, shareholders, subsidiaries, affiliates, managers, officers, employees, and agents, from any and all liability for any injuries, loss, damage, fines, penalties, actions, judgement, settlement, claims, demands, costs, and expenses of any kind, including legal fees, arising from or in connection with this competition or use of the prizes won or by reason of or related or incidental to any act, default or omission and/or any breach of representation and warranty set forth herein by you under these Terms and Conditions.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Any indication or suspicion, in Hantec’s sole discretion, of any form of arbitrage (including but not limited to risk free profiting), abuse (including but not limited to participant’s trading activity patterns that indicate that the participant solely aims to benefit financially from the Bonus without being genuinely interested in trading in the markets and/or taking market risk), fraud, manipulation, cash-back arbitrage connected to this promotion or any other forms of deceitful or fraudulent activity, will nullify all previously credited Bonus of the Eligible Client’s real trading accounts with Hantec and/or any and all transactions carried and/or profits or losses garnered therein. In these circumstances, Hantec reserves the right, at its sole discretion to close/suspend (either temporarily or permanently) all such Eligible Client’s real trading account(s) with Hantec, cancel all orders and annul all profits of such participant. In these circumstances, Hantec will not be liable for any consequences of the trading credit cancelation, including, but not limited to, order(s) closure by stop out.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+In case of discrepancy between English and non-English texts with regards to the interpretation of these terms and conditions or the scope of their application, the English text shall prevail.
+
+Promotion Disclaimer
+
+Trading on margin carries a high level of risk and is not suitable for all investors. The high degree of leverage can both amplify profits and losses. Investors should be fully aware of the risks involved and consider their investment objectives and level of experience before trading. It is advisable to seek independent financial advice if in doubt.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

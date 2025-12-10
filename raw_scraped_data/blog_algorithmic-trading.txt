@@ -1,0 +1,145 @@
+SOURCE: https://hmarkets.com/blog/algorithmic-trading/
+================================================================================
+
+Open main menu
+What is Algorithmic Trading? Basics, Strategies and Software
+📅 11.28.2022 👤 Steve Miley
+
+Algorithmic trading is an approach to trading financial markets where a set of instructions are decided upon beforehand and programmed into a computer model. This allows for an automated trading process that usually takes into consideration price, time and volume. This would usually involve complex formulas alongside mathematical models and can potentially even include some human interaction. The object being to make decisions about trading different financial markets; whether to buy or to sell, when to enter the trade, at which time or at which price, where to take profit, and where to place a stop-loss. Algorithmic trading is a rules-based strategy, with the definition of the rules as the critical input as to whether the approach is profitable or not.
+
+What is algorithmic trading?
+Algorithmic trading strategies
+Summary
+
+ 
+
+What is algorithmic trading?
+
+ Algorithmic trading works by first defining the objective of the strategy. When it comes to algorithmic trading, this does not necessarily mean that the objective is to achieve a profit. Many algorithmic trading programs are used to execute large orders on behalf of institutional investors who are seeking may be to achieve the best overall price to enter or exit a position in the market. Although this is similar to trying to make a profit, because the objective is different to actual profit making, the set of rules that are defined for the strategy will be different to a set of rules that are purely aiming to create a profit in the longer run.
+
+As traders, however, what we are looking for is profit! So, given that this is the objective, the next step would define be to define over what time period we would be looking to achieve this profit. Generally speaking, algorithmic trading is done on a short-term basis, with trades held for maybe days, but more likely for hours or less, maybe minutes or even for seconds.Once the algorithmic trader has decided on the strategy's timeframe, then a set of rules are decided upon, experimented with and applied to make up the strategy. We will look at this process in more depth below in the section "What are the best algorithmic trading strategies?" These rules and the overall strategy would need to be vigorously back-tested to ensure that the algorithmic trading strategy is at least profitable looking back. 
+
+Algorithmic traders
+
+ An algorithmic trader is simply a trader that uses an algorithmic approach to trading. The algorithmic trader decides upon the rules and processes that are used to define the algorithmic trading strategy, some of which we will look at in more detail below. Usually, an algorithmic trader will not only have strong market knowledge but will also gravitate towards the technical analysis side of trading, will have an interest in markets from a mathematical standpoint and probably also (though not necessarily) some programming knowledge and abilities.Algorithmic trading and the development of automated algorithmic trading strategies has continued to expand since the surge in this form of trading at the start of the 21st century. Alongside this expansion has seen a rise in the number of traders who see themselves as algorithmic traders. 
+
+Algorithmic trading software options
+
+ The best algorithmic trading software is not easily defined, with Matlab, Python, C++, JAVA, and Perl the common programming languages used to write trading software. However, given that you are not likely to be programmed directly in these languages, there are many software interfaces on offer for the individual trader. Probably the most commonly used and arguably the best for the individual trader is the Meta Trader suite of offerings, including MT4 and MT5 and the MQL5 and MQL4 programming languages. We would suggest giving these a try on a first move into algorithmic trading. 
+
+Why is algorithmic trading seen as important?
+
+ Algorithmic trading is important as it has been in and ascendancy since the 1980s, but with a particular explosion from the start of the 21st century. This has meant that algorithmic trading now makes up a significant percentage of global trading volumes each day. Although algorithmic trading programs provide significant liquidity to markets, they can also create heightened volatility and at times, trigger aggressive plunges or surges in markets. 
+
+Algorithmic trading strategies
+
+ The best algorithmic trading strategies are numerous, and any strategy is only as good as the results it generates. Although algorithmic trading strategies come and go, there are some more commonly used starting points that algorithmic traders use to begin designing algorithmic trading strategies.These include:
+
+Trend-following strategy
+Mean reversion strategy
+Mathematical model-based strategy
+
+We will now look at these in more depth. 
+
+Trend-following strategy
+
+ A trend-following strategy is probably the most common of the algorithmic trading strategies. The strategy would look to follow trends by using moving averages and channels, maybe try to identify trend lines, plus use various other technical analysis indicators that signal trend, such as trend momentum indicators, like an RSI. With a trend-following strategy, it is not necessary to make future price calculations, all that is required is to enter trades in the direction of trends on any defined time frame. Then to exit (and maybe reverse the position) when these trends are deemed by the strategy to have ended. A trend-following algorithmic trading strategy can also be viewed as a momentum-following algorithmic trading strategy. 
+
+Mean reversion strategy
+
+ Mean reversion strategies are based around the idea that market prices will revert to an average or mean price level over any time period. This is based on the mathematical concept of regression to the mean. Mean reversion strategies attempt to exploit situations when a particular market experiences significant price changes away from an average level, with the assumption that it will revert to its previous state. An algorithmic mean reversion trading strategy is simply one that uses this concept, but formalises it using defined rules and then packages it with an automated program. As with the trend-following strategies above, technical indicators such as Bollinger Bands or momentum indicators like Stochastics could be used in a mean reversion algorithmic trading strategy. 
+
+Mathematical model-based strategy
+
+ Most algorithmic trading strategies are in some ways, mathematical model-based strategies. Even those algorithmic trading strategies based on fundamentals, such as macroeconomic data, broader geopolitical events and news, still have a mathematical basis. There are, however, some algorithmic trading strategies that are very specifically based on mathematical models. Mathematical model examples would include:
+
+Delta-neutral strategies
+Arbitrage strategies
+Pairs trading strategies
+Index fund rebalancing strategies
+"Fixing" strategies
+
+ 
+
+Algorithmic trading summary
+
+ In this lesson on algorithmic trading strategies, we have looked at how algorithmic trading works, why it is important, the makeup of an algorithmic trader and various algorithmic trading approaches.The key takeaways from the lesson are:
+
+You need a strong understanding of technical analysis and mathematical models if you want to go down the road to be an algorithmic trader.
+Programming knowledge would be a big advantage too.
+
+If you’re interested in taking your automated strategies to the next level, discover how AI can supercharge your trading efficiency. Our guide explores practical ways to use artificial intelligence to refine your analysis, spot patterns faster, and execute smarter trading decisions.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

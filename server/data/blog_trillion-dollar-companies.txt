@@ -1,0 +1,500 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/trillion-dollar-companies/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+Trillion-Dollar Companies Club Gets a Shakeup: New Entrants and Shifting Order
+📅 09.29.2025 👤 Steve Miley
+
+In this post, we explore the largest companies in the world that currently boast a market capitalisation of over $1 trillion.
+
+The exclusive club of companies with a market capitalisation exceeding $1 trillion has seen dramatic changes lately. The United States now dominates with 9 of the 11 members, spanning technology, finance, consumer, and healthcare, while China’s representation has continued to shrink. US tech in particular has expanded its grip, with seven of the club’s giants (NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta, and Broadcom) all directly tied to technology and artificial intelligence. These changes are not just numbers; they are massive shifts that are significantly impacting the future of global markets, innovation and sector leadership. Buckle up, finance enthusiasts, because we’re dissecting the shakeup!
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Table of Contents:
+
+New Members Join the Party
+The Updated Trillion-Dollar Club
+Tesla’s Return to the Club 
+The Waiting List: Who’s Next?
+How Trillion-Dollar Companies Emerge
+Challenges and the Bigger Picture
+The Takeaway
+
+New Members Join the Party
+
+The trillion-dollar club has welcomed several fresh faces and a familiar return, marking one of the biggest reshuffles in its history.
+
+Broadcom’s Breakthrough: Riding the wave of surging demand for AI infrastructure and networking technology, Broadcom has powered past the trillion-dollar milestone. Its combination of cutting-edge semiconductor design and enterprise software strength underscores how vital connectivity and custom chips have become in the AI era. With a market cap of $1.628 trillion, Broadcom now stands shoulder-to-shoulder with the world’s most valuable giants.
+TSMC’s Chip Supremacy: The world’s leading chipmaker has officially crossed into trillion-dollar territory. With a market cap of $1.373 trillion, TSMC’s unrivalled manufacturing capabilities make it indispensable to Apple, NVIDIA, and countless other tech leaders. Its rise cements semiconductors as one of the most strategically important industries in the global economy.
+Berkshire Hathaway’s Milestone: Long regarded as the quintessential value investor’s vehicle, Warren Buffett’s Berkshire Hathaway has finally entered the trillion-dollar club. At $1.063 trillion, Berkshire proves that disciplined investing and diversified businesses, from insurance to railroads, can rival the tech titans in scale and resilience.
+Tesla’s Comeback: After a turbulent period that saw it fall below the threshold, Tesla has rejoined the trillion-dollar elite. Its market cap of $1.416 trillion reflects strong demand for its vehicles, growing energy storage projects, and bold moves in autonomous driving and AI. Tesla’s return highlights both the volatility and the enduring potential of disruptive innovation.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The Updated Trillion-Dollar Club (As of September 2025)
+Company	Market Capitalisation*
+NVIDIA	$4.301 trillion
+Microsoft	$3.849 trillion
+Apple	$3.643 trillion
+Alphabet (Google)	$3.084 trillion
+Amazon	$2.468 trillion
+Meta Platforms (Facebook)	$1.955 trillion
+Broadcom (AVGO)	$1.628 trillion
+Saudi Aramco	$1.578 trillion
+Tesla (TSLA)	$1.416 trillion
+TSMC (TSM)	$1.373 trillion
+Berkshire Hathaway (BRK.A)	$1.063 trillion
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+*According to Companies ranked by Market Cap - CompaniesMarketCap.com, as of September 2025.
+
+NVIDIA
+
+Market Cap: $4.301 trillion
+
+Founding Year: 1993
+
+Background: NVIDIA’s journey is a testament to the power of graphics. Founded by Jensen Huang, Chris Malachowsky, and Curtis Priem, the company started with a vision to unlock the potential of computer graphics. What began as a pioneer in Graphics Processing Units (GPUs) for gaming has since transcended into an AI and high-performance computing powerhouse. Its GPUs have become the backbone of AI, driving breakthroughs in fields like deep learning. Gaming-wise, NVIDIA’s GeForce GPUs have set the bar for immersive experiences. The company’s relentless pursuit of innovation has not only transformed the gaming world but also elevated its status as a leader in AI, data centres, and autonomous vehicles. NVIDIA’s story is one of innovation, where pixels and polygons paved the way for a brighter, AI-driven future.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Graphics Processing Units (GPUs), Data Centre solutions, and Artificial Intelligence (AI) technology.
+
+Recent Achievements: Solidified its position as a global leader in AI technology.
+
+Microsoft
+
+Market Cap: $3.849 trillion
+
+Founding Year: 1975
+
+Background: Microsoft is the brainchild of a college dropout turned tech visionary, Bill Gates. The software giant has shaped the modern computing world. From its early days, when Gates and Paul Allen wrote the BASIC programming language for the Altair 8800, to the revolutionary Windows operating system, Microsoft has been at the forefront of personal computing. Its rise to a tech titan highlights the profound influence of unwavering innovation and a mission to empower people and businesses through technology. It’s not merely about software; it’s a narrative of evolution, a world-altering odyssey that began as a garage startup and has propelled Microsoft into a global technology leader.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Windows OS, Microsoft Office, Azure
+
+Achievements: A strong presence in cloud computing and the acquisition of LinkedIn and GitHub.
+
+Apple
+
+Market Cap: $3.643 trillion
+
+Founding Year: 1976
+
+Background: Far more than just a tech company these days, Apple is an icon of innovation and style. All beginning in a garage and building on the vision of Steve Jobs and Steve Wozniak, it wanted to make personal computers a household item that was accessible to the masses. In the years since, Apple has become iconic with its elegant designs and groundbreaking innovations, which it sells to its loyal, worldwide customer base. From the Macintosh to the iPhone, Apple continually reshapes our interaction with technology. It’s a tale of resilience, creative genius, and an enduring dedication to making technology both aesthetically pleasing and accessible to all.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: iPhone, MacBook, iPad
+
+Recent Achievements: Unveiling innovative features, including the M4 chip, and expanding their services, such as Apple Music and Apple TV+.
+
+Alphabet (Google)
+
+Market Cap: $3.084 trillion
+
+Founding Year: 1998
+
+Background: What began in a Stanford dorm room as a research project by Larry Page and Sergey Brin has since evolved into a tech powerhouse known as Alphabet Inc. Google, a cornerstone of Alphabet, introduced us to the art of internet search and gave rise to a digital revolution. Its ingenious algorithms quickly became part of our daily lives. Beyond search, Alphabet’s reach extends to innovations in cloud computing, Android, and even self-driving cars through Waymo. The reorganisation into Alphabet in 2015 allowed the company to explore various ventures, making it a symbol of relentless curiosity and groundbreaking technology in the digital age.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Google Search, YouTube, Android
+
+Recent Achievements: Leading in online advertising, Android’s market dominance, and innovations in AI and self-driving technology.
+
+Amazon
+
+Market Cap: $2.468 trillion
+
+Founding Year: 1994
+
+Background: Created by Jeff Bezos, Amazon began as an online bookstore situated in a modest Seattle garage. Starting from these modest beginnings, it grew into the planet’s largest online retailer, leaving an indelible mark on the way we approach shopping. Amazon’s relentless spirit of innovation has extended well beyond traditional e-commerce. It now includes pioneering services such as Amazon Web Services (AWS), which plays a foundational role in powering a significant chunk of the internet, along with ventures into original content creation through Amazon Prime Video. Its ever-expanding reach even extends into our households through devices like the Amazon Echo. Amazon’s journey is not just a story of retail evolution; it’s a testament to the relentless invention and a visionary commitment to moulding the digital landscape.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Amazon.com, Amazon Web Services (AWS)
+
+Recent Achievements: Dominance in e-commerce, expanding into grocery stores with Amazon Fresh and entering the entertainment industry with Amazon Prime Video.
+
+Facebook (Meta)
+
+Market Cap: $1.955 trillion
+
+Founding Year: 2004
+
+Background: It all began in a Harvard dorm room when Mark Zuckerberg and his friends created a social platform called Facebook. What started as a way for college students to connect has grown into a global social media giant, rebranded as Meta in 2021. Beyond connecting friends and family, the company has introduced us to a new era of communication and virtual interaction. With acquisitions like Instagram and WhatsApp, Meta has expanded its social media empire. More recently, the concept of the Metaverse has become a focal point, pushing the boundaries of online connectivity. Meta’s journey is a remarkable tale of how a college startup transformed into a company, shaping the future of digital connection and immersive experiences.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Facebook, Instagram, WhatsApp
+
+Recent Achievements: Expansion of the Metaverse concept and continued growth in user engagement.
+
+Broadcom (AVGO)
+
+Market Cap: $1.628 trillion
+
+Founding Year: 1961
+
+Background: Broadcom traces its origins back to Hewlett-Packard’s semiconductor division, later transformed through a series of acquisitions into the powerhouse known today. The company designs semiconductors and enterprise software that form the backbone of modern data centres, networks, and communications systems. Its journey reflects a combination of technological innovation and strategic deal-making, most notably the acquisition of VMware, which broadened its reach beyond hardware into software infrastructure.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Custom AI/ASIC chips, networking and switch silicon, wireless/RF technology, enterprise infrastructure software including VMware.
+
+Recent Achievements: Surpassed the trillion-dollar threshold on record demand for AI and networking chips. Broadcom’s integration of VMware and expansion in AI-driven custom silicon have cemented its position as a key player in the digital infrastructure economy.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Saudi Aramco
+
+Market Cap: $1.578 trillion
+
+Founding Year: 1933
+
+Background: Saudi Aramco is an energy behemoth with roots dating back to the 1930s when oil reserves were discovered beneath the Arabian desert. What initially started as a joint venture between the United States and Saudi Arabia has blossomed into a cherished national asset for the Kingdom of Saudi Arabia. The journey of Saudi Aramco is intricately woven into the modern history of the oil industry, marked by the establishment of OPEC, significant geopolitical shifts, and evolving energy demands. Boasting coveted oil reserves, it’s more than a mere corporation; it stands as a linchpin of the Saudi economy and a global energy leader. The tale of Saudi Aramco is one of adaptation, unwavering strength, and a pivotal role in shaping the global energy landscape for nearly a century.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Crude oil, natural gas, refining, and petrochemicals.
+
+Achievements: A strong hold over the world’s supply of oil.
+
+Tesla (TSLA)
+
+Market Cap: $1.416 trillion
+
+Founding Year: 2003
+
+Background: Tesla began with a bold vision to revolutionise the automotive industry, founded by engineers Martin Eberhard and Marc Tarpenning, and later propelled to global prominence under Elon Musk’s leadership. From early struggles with the Roadster to the mainstream success of the Model S and Model 3, Tesla has transformed electric vehicles from a niche curiosity into a global standard. Its influence extends far beyond cars, shaping the future of renewable energy, battery storage, and autonomous driving. Tesla’s journey is one of relentless ambition, constant innovation, and bold risk-taking that redefined what a car company could be in the 21st century.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Model S, Model 3, Model X, Model Y, Cybertruck, Powerwall, Megapack, Supercharger network.
+
+Recent Achievements: Reclaimed its position in the trillion-dollar club with strong deliveries, leadership in EV adoption, and expanding energy storage projects. Tesla’s progress in autonomous driving and AI-driven robotics continues to make it a symbol of disruptive innovation.
+
+TSMC (Taiwan Semiconductor Manufacturing Company)(TSM)
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Market Cap: $1.373 trillion
+
+Founding Year: 1987
+
+Background: Taiwan Semiconductor Manufacturing Company, founded by Morris Chang, pioneered the pure-play foundry model that reshaped the global chip industry. Instead of designing its own processors, TSMC dedicated itself entirely to manufacturing chips for other companies, enabling tech giants like Apple, NVIDIA, and Qualcomm to innovate without the burden of fabrication. Its unmatched expertise in advanced process technology — from 7nm down to the latest 3nm nodes — has made it indispensable to modern computing, powering smartphones, data centres, and artificial intelligence.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Advanced semiconductor manufacturing services (N5, N3 nodes and beyond), specialty chip fabrication for AI, smartphones, and high-performance computing.
+
+Recent Achievements: Entered the trillion-dollar club on record demand for advanced chips, securing its position as the backbone of the AI and smartphone revolution. With global expansion projects in the US and Japan, TSMC continues to strengthen its leadership in the semiconductor supply chain.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Berkshire Hathaway (BRK.A)
+
+Market Cap: $1.063 trillion
+
+Founding Year: 1839
+
+Background: Berkshire Hathaway traces its roots to a struggling New England textile company before transforming into one of the most successful conglomerates in history under Warren Buffett’s stewardship. Known as the “Oracle of Omaha,” Buffett built Berkshire into a holding company with unparalleled diversification, spanning insurance, railroads, utilities, retail, manufacturing, and vast equity stakes in leading corporations such as Apple and Coca-Cola. The company embodies a disciplined approach to value investing, long-term thinking, and the power of compounding. Berkshire’s evolution from a failing mill to a trillion-dollar titan is a case study in patience, strategic foresight, and financial acumen.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Key Products: Insurance (GEICO), rail transport (BNSF Railway), utilities and energy (Berkshire Hathaway Energy), consumer and industrial subsidiaries, and a portfolio of major equity investments.
+
+Recent Achievements: Entered the trillion-dollar club for the first time, cementing its legacy as the ultimate diversified holding company. Berkshire continues to generate robust earnings from its operating businesses while maintaining one of the largest cash reserves in corporate America, providing both stability and optionality for future opportunities.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Tesla’s Return to the Club
+
+Tesla, the electric car pioneer, briefly dipped below the trillion-dollar threshold during a period of sharp market volatility. That stumble highlighted how even the most disruptive innovators are vulnerable to shifting sentiment in high-growth industries. Yet the setback was temporary. Strong deliveries, expansion in energy storage, and growing investor confidence have since lifted Tesla back above the trillion-dollar mark, reaffirming its place among the world’s most valuable companies.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The Waiting List: Who’s Next?
+
+With Tesla, TSMC, and Berkshire Hathaway now firmly inside the trillion-dollar club, the focus shifts to the next contenders approaching the mark:
+
+Eli Lilly (LLY) – The Pharmaceutical Powerhouse: A healthcare leader driven by groundbreaking treatments in diabetes, oncology, and obesity. With a market cap of around $882 billion, Eli Lilly is steadily advancing and could soon give the healthcare sector a stronger presence in the club.
+JPMorgan Chase (JPM) – The Banking Giant: The largest US bank, valued at roughly $695 billion, remains the dominant force in global finance. While still some distance from $1 trillion, its scale and consistent profitability keep it on the radar.
+Walmart (WMT) – The Retail Titan: At about $520 billion in market value, Walmart continues to dominate retail worldwide. Though not an immediate contender, its vast reach and adaptation to e-commerce ensure it remains a long-term candidate.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+How Trillion-Dollar Companies Emerge
+
+So, how do companies reach the astronomical valuation of one trillion dollars? It’s a path characterised by unwavering resolve, creative brilliance, and at times, a touch of unexpected luck. Let’s take a peek into the key elements that play a pivotal role in the rise of these colossal financial giants.
+
+Innovative Technologies: In the digital era, innovation is the very foundation of triumph. Trillion-dollar companies consistently lead the charge in pioneering cutting-edge technologies. They aren’t simply trend followers; they are trendsetters. Whether it’s breakthrough hardware, game-changing software, or pioneering services, innovation is their driving force.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Market Dominance: Trillion-dollar companies aren’t content with a small slice of the pie; they aim for the whole bakery. They achieve market dominance by consistently outperforming their competitors. They don’t just lead the industry; they become the industry standard.
+
+Global Reach: To reach the trillion-dollar mark, companies must expand their influence worldwide. They establish a global presence, serving diverse markets and fostering a massive user base. Their products and services resonate with people around the globe.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Consistent Growth: Sustainable growth is a key element. These companies don’t just skyrocket briefly and then fizzle out. They maintain consistent, long-term growth, which builds investor trust and solidifies their status as market leaders.
+
+Challenges and Bigger Picture
+
+Reaching the trillion-dollar mark brings prestige, but it also comes with unique risks. These companies are under constant scrutiny from regulators, policymakers, and the public, whether it is over data privacy, antitrust issues, or labour practices. Retaining talent and staying agile is another challenge: as organisations scale, the innovative spirit that fuelled their early rise can be harder to preserve. At the same time, their influence extends far beyond quarterly earnings. Trillion-dollar companies now shape supply chains, energy policy, and even the pace of global innovation. Their fortunes are closely tied to macro themes such as interest rates, trade tensions, and the rapid evolution of artificial intelligence. For investors and policymakers alike, the bigger picture is clear - the performance and direction of these giants will continue to set the tone for markets worldwide.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+How This Article Helps a Stock Trader
+Identifies Market Leaders and Trends: The trillion-dollar list makes clear which sectors are driving global markets. With AI, semiconductors, and cloud computing now dominating alongside energy, traders can use this insight for sector rotation, overweighting areas of strength like chips and AI infrastructure while trimming exposure to sectors struggling with regulation or slowing demand.
+Spot Potential Breakouts: Companies just below the trillion-dollar threshold, such as Eli Lilly, JPMorgan, or Walmart, represent possible momentum opportunities. Traders who track these firms can position early for breakouts when valuations cross the symbolic $1 trillion line, often triggering increased media attention and investor flows.
+Macro and Geopolitical Awareness: The make-up of the club reflects broader global themes. Oil majors, chipmakers, and cloud leaders all respond differently to changes in rates, supply chains, or international tensions. For traders who use macro drivers to anticipate volatility, understanding which giants dominate helps frame how events like Fed moves, tariffs, or regulation ripple through markets.
+Fundamental and Long-term Insight: Beyond short-term trading, the club highlights companies with deep competitive channels and lasting value. Apple’s ecosystem, Nvidia’s leadership in AI and TSMC’s role in global chip supply chains are not just stories of scale but of fundamentals. For long-term investors, they serve as anchors for portfolio construction and themes around innovation and resilience.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The Takeaway: A Changing Landscape
+
+The trillion-dollar club’s reshuffling reflects a dynamic global economy. While US companies dominate, the presence of TSMC and Saudi Aramco demonstrates the crucial role of global interdependence in tech and energy markets. As these markets evolve, the next chapter will be defined by technological innovation, geopolitical dynamics, and the ability of these giants to navigate shifting landscapes.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+If you are interested in more, check out our articles:
+
+Top 10 Largest US Companies
+Top Ten Largest Non-US Companies in 2025
+Africa's Top 10 Leading Companies
+10 Biggest UK-based Companies
+Top 10 Largest Latin American Companies
+Top 10 Largest Companies in China
+Titans of the East: The 10 Largest Companies Shaping Asia’s Future in 2025
+Top 10 Largest Companies in India
+
+Also, we recommend that you find out Who Tops the Global GDP Rankings.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

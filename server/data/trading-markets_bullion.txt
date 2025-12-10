@@ -1,0 +1,557 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/trading-markets/bullion/
+
+Topics: CFDs, MetaTrader 4
+
+
+Q: What CFD products does Hantec offer?
+
+Open main menu
+Home
+>
+Markets
+>
+Metal CFDs
+Trade metal CFDs
+Trade precious metals with our world-leading platforms.
+Global market access
+
+Select from a huge range of instruments with competitive spreads and exceptional execution speed.
+
+Advanced trading platforms
+
+Utilise cutting-edge platforms on mobile, desktop or web, for a seamless trading experience.
+
+Comprehensive support and education
+
+Benefit from dedicated customer support and extensive educational resources to enhance your trading skills.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Open main menu
+Home
+>
+Markets
+>
+Metal CFDs
+Trade metal CFDs
+Trade precious metals with our world-leading platforms.
+Global market access
+
+Select from a huge range of instruments with competitive spreads and exceptional execution speed.
+
+Advanced trading platforms
+
+Utilise cutting-edge platforms on mobile, desktop or web, for a seamless trading experience.
+
+Comprehensive support and education
+
+Benefit from dedicated customer support and extensive educational resources to enhance your trading skills.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Why choose Hantec Markets
+
+Competitive spreads
+
+Ultra-fast execution
+
+Negative balance protection
+
+Instant deposits and fast withdrawals
+
+START TRADING NOW
+Trade with better conditions
+Global Account
+
+Instrument
+
+	
+
+Spread
+
+on pips (from)
+
+	
+
+Commission*
+
+per lot (from)
+
+	
+
+Margin
+
+% (from)
+
+	
+
+Long Swap
+
+pips
+
+	
+
+Short Swap
+
+pips
+
+	
+
+Balance Guard
+
+eligible
+
+XAUUSD	0.7	$0	1.00%	-67.0098	45.8150	
+
+XAGUSD	0.8	$0	1.50%	-13.0584	0.7336
+
+--------------------------------------------------------------------------------
+
+Q: What is the minimum deposit?
+
+Why choose Hantec Markets
+
+Competitive spreads
+
+Ultra-fast execution
+
+Negative balance protection
+
+Instant deposits and fast withdrawals
+
+START TRADING NOW
+Trade with better conditions
+Global Account
+
+Instrument
+
+	
+
+Spread
+
+on pips (from)
+
+	
+
+Commission*
+
+per lot (from)
+
+	
+
+Margin
+
+% (from)
+
+	
+
+Long Swap
+
+pips
+
+	
+
+Short Swap
+
+pips
+
+	
+
+Balance Guard
+
+eligible
+
+XAUUSD	0.7	$0	1.00%	-67.0098	45.8150	
+
+XAGUSD	0.8	$0	1.50%	-13.0584	0.7336
+
+--------------------------------------------------------------------------------
+
+Q: How do I deposit funds?
+
+XAUXAG	3	$0	1.00%	-2.1404	-2.5805	
+
+XAGEUR	3.3	$0	1.50%	-4.2120	2.1448	
+
+XAGGBP	3.5	$0	1.50%	-1.0206	0.3180	
+
+XAGAUD	3.7	$0	1.50%	-7.3200	3.6000	
+
+XAGSGD	4.4	$0	1.00%	-0.4032	0.1056	
+
+XAUGBP	6.3	$0	1.00%	-58.9835	35.1029	
+
+XAUEUR	6.5	$0	1.00%	-39.5738	20.1456	
+
+XAUAUD	8.2	$0	1.00%	-64.4416	53.9008	
+1
+2
+3
+Market conditions
+Trading conditions
+
+Minimum deposit
+
+$10
+
+Spread type
+
+Floating
+
+Execution
+
+Market
+
+--------------------------------------------------------------------------------
+
+Q: What deposit methods are available?
+
+XAUXAG	3	$0	1.00%	-2.1404	-2.5805	
+
+XAGEUR	3.3	$0	1.50%	-4.2120	2.1448	
+
+XAGGBP	3.5	$0	1.50%	-1.0206	0.3180	
+
+XAGAUD	3.7	$0	1.50%	-7.3200	3.6000	
+
+XAGSGD	4.4	$0	1.00%	-0.4032	0.1056	
+
+XAUGBP	6.3	$0	1.00%	-58.9835	35.1029	
+
+XAUEUR	6.5	$0	1.00%	-39.5738	20.1456	
+
+XAUAUD	8.2	$0	1.00%	-64.4416	53.9008	
+1
+2
+3
+Market conditions
+Trading conditions
+
+Minimum deposit
+
+$10
+
+Spread type
+
+Floating
+
+Execution
+
+Market
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Minimum order size
+
+0.01 lot
+
+Stopout level
+
+From 20%
+
+Server time
+
+GMT+3
+
+Account denomination
+
+USD, EUR, GBP, CHF, AUD, JPY, SGD, BRL
+
+Trading hours
+
+24 hours a day as follows:
+
+The metals market is open from Sunday 23:05 (London time) to Friday 21:55 (London time) with a daily break between 22:00 (London time) and 23:00 (London time).
+
+Please take note that trading hours may change during holidays. Clients will be informed of any changes by email.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Want to learn how to trade?
+
+We offer a range of educational resources, including tutorials, webinars, and market analysis. Our market leading Learning Hub is a free resource to help you improve your trading knowledge.
+
+Online resources
+
+VISIT LEARNING HUB
+Metals CFD explained
+
+Metals CFD (Contracts for Difference) allow traders to speculate on the price movements of precious metals without owning the physical assets. This type of trading offers the flexibility to potentially earn from both rising and falling markets.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Metals CFDs cover a range of commodities, including gold, silver, platinum, and copper. Trading on margin means only a portion of the trade's total value is required as a deposit. Effective risk management strategies, such as setting stop-loss orders and using appropriate position sizes, are crucial to protecting capital.
+
+Metals trading
+
+Learn the basics of trading precious metals such as gold and silver using leveraged CFDs.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Leverage explained
+
+Understand how leverage works in CFD trading and how to manage its associated risks.
+
+Risk management
+
+Explore essential risk management techniques to protect your trading capital and minimize losses.
+
+Market drivers
+
+Discover the key factors that drive metal prices and how they impact trading decisions.
+
+Get started now
+
+Join us today and dive into the dynamic world of CFD trading with a trusted and reliable partner. Enjoy competitive spreads, advanced technology, and personalised support to enhance your trading experience.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+1
+Register
+2
+Fund
+3
+Download
+4
+Trade
+TRADE NOW
+Why Trade With Hantec Markets
+Trade on desktop or mobile
+
+Access global markets seamlessly with our cutting-edge trading platforms or MetaTrader®.
+
+Copy trading with Hantec Social
+
+Follow successful traders and mirror their strategies with Hantec Social copy trading.
+
+Tight spreads and fast execution
+
+Spreads starting from as low as 0.1 pips and lightning-fast execution.
+
+--------------------------------------------------------------------------------
+
+Q: What are the account spreads?
+
+1
+Register
+2
+Fund
+3
+Download
+4
+Trade
+TRADE NOW
+Why Trade With Hantec Markets
+Trade on desktop or mobile
+
+Access global markets seamlessly with our cutting-edge trading platforms or MetaTrader®.
+
+Copy trading with Hantec Social
+
+Follow successful traders and mirror their strategies with Hantec Social copy trading.
+
+Tight spreads and fast execution
+
+Spreads starting from as low as 0.1 pips and lightning-fast execution.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+8 regulations and 12 local offices
+
+Trade with a regulated broker and receive localized support from our dedicated team.
+
+Award-winning customer services
+
+Experience exceptional customer support from our award-winning service team.
+
+Instant deposits and fast withdrawals
+
+Benefit from quick and secure deposit and withdrawal options with Hantec Markets.
+
+Latest posts
+Metals CFD
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+Gold outlook 2030: Explore scenarios shaping XAU/USD—from inflation and rates to central bank demand. Predictions range $800–$9,000 per ounce.
+Read more
+>
+Metals CFD
+A Beginners Guide on How to Trade Gold
+This post gives you better understanding of what gold is, why it is beneficial to trade gold and the key factors that will affect how you trade gold.
+Read more
+>
+Metals CFD
+Unveiling the Secrets: Effective Gold Trading Strategies for Maximum Profits
+This article explores gold trading strategies, providing insights into why you should trade gold, and an analysis of the advantages and disadvantages of each strategy.
+Read more
+>
+Metals CFD
+Investing in Gold in 2023: Top Trends and Projections for the Near Future
+An investor can enjoy many benefits from investing in gold. We hope this article will give you better insight into the prospects for gold in 2023.
+Read more
+>
+Frequently asked questions
++
+What are metal CFDs?
++
+How do margin and leverage work?
++
+What are the typical trading hours for the metal market?
++
+What factors influence the prices of different metals?
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

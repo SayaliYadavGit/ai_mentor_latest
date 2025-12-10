@@ -1,0 +1,170 @@
+SOURCE: https://hmarkets.com/blog/percentage-points-and-pips/
+================================================================================
+
+Open main menu
+Mastering Percentage Points and Pips: A Guide for Forex Traders
+📅 05.16.2023 👤 N Razlozhki
+
+When trading in the forex markets, it is important to understand the concepts of percentage points and pips. These terms serve as fundamental units of measurement that determine profit or loss in forex trading, and going into forex trading without a clear grasp of these concepts is like going into an exam without a pen. Having a good grasp of pips and percentage points will improve your ability to analyse trades and make informed decisions quickly and efficiently. In this article, we will explore pips and percentage points, how they are calculated, and why they are essential in forex trading.
+
+
+ 
+
+
+
+
+
+
+Percentage Points
+
+
+What are Pips?
+
+
+Lot Sizes and Pips
+
+
+Why Pips and Percentage Points Matter
+
+
+
+
+ 
+
+Percentage Points
+
+
+ 
+
+Percentage points represent a numerical value used to express a change in percentage terms. In forex trading, percentage points are not equivalent to pips (in some contexts, they are used interchangeably). Instead, they are used to describe larger changes in exchange rates or interest rates, as you might see in the news. For example, if the interest rate of a country's central bank increases from 1% to 3%, it means there has been a change of 2 percentage points. Notice that we do not say an increase of 2%, this is because a 2% increase would imply that the interest rate has risen by 2% of the original value, which would be an increase of 0.02%. In this instance, the percentage increase in the interest rate is actually 200%, so it would be catastrophic to get percentage points and percentages mixed up. Percentage points are essential in analysing economic data, central bank policies, and their impact on currency values.
+
+
+ 
+
+What are Pips?
+
+
+ 
+
+Pips, which are short for "percentage in point", are the smallest unit of measurement in forex trading. In other fields, they can be referred to as basis points, but this can get confusing, as we will explain below. A pip is essentially the smallest unit of measurement of a currency pair, and as most currency pairs are quoted to 4 decimal places, this makes a pip a one-hundredth of a percentage point. They represent the fourth decimal place in most currency pairs, except the Japanese yen, where they represent the second decimal place. This is confusing as the pip is only defined as the smallest increment a currency pair can change in and not a set value like a percentage point. For example, if GBP/USD improves from 1.2466 to 1.2467, that is an increase in 1 pip, and if GBP/JPY improves from 172.29 to 172.30, that is also an increase in 1 pip. Pips are used to calculate the price movement of a currency pair and measure profits or losses.
+
+
+ 
+
+Lot Sizes and Pips
+
+
+ 
+
+The size of your trade, referred to as the lot size, determines the value to you of each pip. There are four types of lot sizes in forex trading: standard lots, mini lots, micro lots, and nano lots. A standard lot consists of 100,000 units of the base currency, while a mini lot is 10,000 units, a micro lot is 1,000 units, and a nano lot is 100 units of the base currency. These then affect the size of a pip. Say you are trading a mini lot on the GBP/USD currency pair, and the price moves by 50 pips. Using the pip value mentioned earlier (0.0001), each pip, in this case, would be worth $1. If the price moves by 50 pips, your profit or loss would amount to $50.
+
+
+ 
+
+Why Pips and Percentage Points Matter
+
+
+ 
+
+Pips and percentage points are crucial in forex trading as they are the base increment in which everything is valued for several reasons:
+
+
+
+
+
+
+Profit and Loss Calculation: Pips allow you to calculate their potential profit or loss accurately. By knowing your lot, the value of each pip, and the number of pips change, you can determine their financial outcomes.
+
+Risk Management: Pips play a significant role in managing risk. Traders use stop-loss orders, which are placed a certain number of pips away from the entry price, to limit potential losses.
+
+Trade Analysis: Pips help traders analyse the performance of currency pairs over time. By tracking the number of pips gained or lost in a trade, traders can identify trends, patterns, and potential entry or exit points.
+
+Economic Data Interpretation: Percentage points are essential in interpreting economic data. Changes in interest rates, inflation rates, or other key economic indicators are always expressed in percentage points.
+
+
+
+ 
+
+Percentage Points and Pips Takeaways
+
+
+ 
+
+Pips and percentage points are essential concepts in forex trading that every trader should understand. Pips represent the smallest unit of measurement for price movement, while percentage points are used to express larger changes in percentage terms. Both pips and percentage points play important roles in calculating profits and losses, managing risk, analysing trades, and interpreting economic data. You will need to familiarise yourself with these concepts totally before doing any trading.
+
+
+ 
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

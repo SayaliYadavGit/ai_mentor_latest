@@ -1,0 +1,96 @@
+# MT4 Trading Platform
+
+MetaTrader 4 (MT4) is one of the world's most popular trading platforms. It offers advanced charting tools, technical analysis capabilities, and automated trading through Expert Advisors (EAs).
+
+Key features include:
+- Advanced charting with multiple timeframes
+- Technical indicators and drawing tools
+- Automated trading with Expert Advisors
+- Real-time market data and news
+- Mobile trading capabilities
+
+MT4 is available for Windows, Mac, iOS, and Android devices.
+
+---
+
+# MetaTrader 5 Platform
+
+MetaTrader 5 (MT5) is the next generation trading platform offering enhanced features over MT4. It provides more timeframes, technical indicators, and an economic calendar.
+
+Key improvements:
+- 21 timeframes vs 9 in MT4
+- 38 technical indicators
+- Built-in economic calendar
+- Depth of Market (DOM)
+- More order types
+
+---
+
+# Hantec Social
+
+Hantec Social is a social trading platform that allows traders to follow and copy the trades of experienced investors. It facilitates collaborative trading and learning.
+
+Features:
+- Copy trading functionality
+- Follow top traders
+- Social trading community
+- Performance tracking
+- Risk management tools
+
+Perfect for beginners who want to learn from experienced traders.
+
+---
+
+# InsightPro
+
+InsightPro is Hantec's advanced market analysis tool. It provides real-time market insights, technical analysis, and trading signals to help traders make informed decisions.
+
+Key capabilities:
+- Real-time market analysis
+- Technical indicators and signals
+- Market sentiment analysis
+- Economic calendar integration
+- Custom alerts and notifications
+
+Available on the Market Analysis page at hmarkets.com.
+
+---
+
+# Hantec Mobile App
+
+Trade on the go with the Hantec Markets mobile app. Available for iOS and Android, it provides full trading functionality in a mobile-optimized interface.
+
+Features:
+- Full trading capabilities
+- Real-time quotes and charts
+- Push notifications for price alerts
+- Touch ID / Face ID security
+- Multi-language support
+
+Download from the App Store or Google Play.
+
+---
+
+# Client Portal
+
+The Hantec Client Portal is your central hub for account management. Access your account information, deposit/withdraw funds, and manage your trading settings.
+
+Features:
+- Account overview and balance
+- Deposit and withdrawal requests
+- Document uploads for verification
+- Trading history and reports
+- Account settings management
+
+---
+
+# WebTrader
+
+Hantec WebTrader allows you to trade directly from your browser without downloading any software. Access your trading account from any device with an internet connection.
+
+Advantages:
+- No download required
+- Works on any device
+- Automatic updates
+- Secure browser-based trading
+- Same features as desktop platform

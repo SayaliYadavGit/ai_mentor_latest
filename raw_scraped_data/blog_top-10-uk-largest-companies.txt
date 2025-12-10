@@ -1,0 +1,273 @@
+SOURCE: https://hmarkets.com/blog/top-10-uk-largest-companies/
+================================================================================
+
+Open main menu
+Top 10 UK-Based Companies by Market Capitalisation (2025 Update)
+📅 10.29.2025 👤 Steve Miley
+
+For all traders, especially those located in the UK, it is essential to have a basic knowledge of the biggest companies based here. These companies have widely reached impacts within and beyond the UK’s borders. Traders can use knowledge of their operations to better understand the markets and create opportunities for themselves.
+
+Our Definition of ‘Largest’ Companies
+
+There is not one straightforward way to define how large a company is. However, the most common measure, and the one we will use, is market capitalisation. This is calculated by multiplying a company’s number of outstanding shares by the company’s share price, giving the market value of a publicly traded company’s outstanding shares. This value provides traders with information on the public’s valuation of a company in the market, helping them to make key decisions easier.
+
+Influence on the FTSE 100
+
+These companies are all listed on the London Stock Exchange and are part of the FTSE 100, which tracks the largest UK stocks. Because the FTSE 100 is weighted by market capitalisation, the largest companies carry the most influence. The top 10 companies now represent approximately 46% of the entire FTSE 100 index, meaning that strong price movements in any one of them can impact the UK market overall.
+
+Changes since our last edition: AstraZeneca remains No. 1, HSBC and Arm Holdings climb into the top-five, Shell and Unilever edge lower, while Rolls-Royce re-enters the list for the first time since 2014, replacing RELX.
+
+10 Biggest UK-Based Companies (Updated Table)
+Rank	Company	Market Capitalisation ($ billions)
+1	AstraZeneca	258.63
+2	HSBC	230.38
+3	Shell	218.15
+4	Linde	209.13
+5	Arm Holdings	180.79
+6	Unilever	153.65
+7	Rolls-Royce Holdings	125.38
+8	Rio Tinto	114.99
+9	British American Tobacco	113.39
+10	BP	89.69
+
+Source: CompaniesMarketCap (accessed 27/10/2025). Figures are USD and update daily. 
+
+1. AstraZeneca (AZN)
+
+AstraZeneca is the biggest UK company by market capitalisation and also one of the largest multinational pharmaceutical and biotechnology companies in the world, with their headquarters in Cambridge, England. They were formed in 1999 through the merger of Swedish and English pharmaceutical companies and have continued to grow since. This growth has been helped by their multiple acquisitions, for example, Cambridge Antibody Technology and Spirogen.
+
+Being a pharmaceutical company, AstraZeneca has a massive outlay on R&D, with three main centres located in the UK, Sweden, and the USA, facilitating the $6-9 billion yearly spend. Over the last few years, AstraZeneca has become more relevant to the average person, with its role in helping develop and distribute the COVID-19 vaccine.
+
+Key Financial Metrics: Approx. revenue $56bn; dividend yield typically modest.
+
+Key Risks: Patent expiry cycles and continued reliance on successful late-stage drug development.
+
+2. HSBC (HSBA)
+
+The second place on our list goes to the British multinational investment bank and financial services institution HSBC. Its headquarters are located in the UK, but it does have a subsidiary located in the USA while performing its operations in over 60 countries. It is the largest bank not only in the UK but in Europe, with €2.681 trillion of assets as of 2022. The company caters to around 39 million customers worldwide.
+
+HSBC aligns its business into three specific groups: wealth and personal banking, commercial banking, and global banking and markets. In each of these areas, it serves different types of customers, ranging in scale and background, from average individuals to large companies. HSBC has multiple large shareholders, many of which are global investment institutions, such as J.P. Morgan Securities, Renaissance Technologies, and Dimensional Fund Advisors.
+
+Over the years, HSBC has found itself amidst multiple controversies, for which it has been fined multiple times. These include several accounts of money laundering and the setup of large-scale tax avoidance schemes.
+
+Key Financial Metrics: Approx. revenue $69bn; dividend yield around 4–5%.
+
+Key Risks: Credit cycle fluctuations and high exposure to economic conditions in Asia.
+
+3. Shell (SHEL)
+
+A recent riser to becoming one of the UK’s largest companies by market capitalisation, Shell has seen a huge rise in its value, more than doubling its valuation since the end of 2021 when it was valued at just under $90 billion. This increase was mainly down to Shell combining its two shares (A and B) in January 2022 from their Dutch and British operations in an effort to ‘simplify’ the company.
+
+Shell was formed in 1907 through the merger of Dutch and British petroleum and transport companies. By 1920 it had become the largest producer of oil in the world and has continued to thrive, being the second largest investor-owned oil company in the world, behind only ExxonMobil. The company is active worldwide in over 140 countries and has over 40,000 service stations.
+Over the last few decades, gas has become increasingly significant to Shell’s business, resulting in the 2016 acquisition of the BG group. The Shell company is also the owner of multiple other brands, such as Pennzoil, Quaker State and Jiffey Lube. The company benefits from its vertical integration, being active in all parts of the oil and gas industry, from exploration to transport to trading. The growth of the company has made it the world’s ninth-largest corporate producer of greenhouse gases from 1988-2015 and the owner of the second-largest headquarters in Europe, behind Volkswagen.
+
+Key Financial Metrics: Approx. revenue $270bn; dividend yield around 3–4%.
+
+Key Risks: Price volatility in oil & gas and increasing pressure to transition to lower-carbon operations.
+
+4. Linde (LIN)
+
+Originally two separate companies founded in Germany and the US over a century ago, Linde is a chemical company formed by the merger of these two companies in 2018. The resulting company, Linde PLC, was incorporated in Ireland, with its headquarters being located in Guilford, England.
+
+Linde serves its customers in multiple different areas ranging from healthcare and petroleum refining to fibre optics, chemicals and many more. Despite this, Linde’s core business is still processing plants that extract or produce gas, being the global leader in industrial gas production. It manufactures and distributes many gases that include oxygen, nitrogen, helium and many more.
+
+In recent years Linde has moved towards sustainable energy and transport, being a member of the Hydrogen Council, which invests in hydrogen vehicles. Over the next few decades, Linde expects these vehicles to compete with electric vehicles. They appear to be in a good position to make this happen, being the global leader in the production, processing, storage, and distribution of hydrogen, helped by their investment in wind-powered plants that convert water to hydrogen.
+
+Key Financial Metrics: Approx. revenue $33bn; dividend yield around 1–2%.
+
+Key Risks: Industrial demand fluctuations and long-term capital investment risks.
+
+5. Arm Holdings (ARM)
+
+Arm Holdings is a semiconductor and chip design company headquartered in Cambridge, England. The company does not manufacture chips itself but licenses processor architectures to other companies. Its chip designs are widely used in smartphones, personal computers, data centres and increasingly in devices connected to the Internet of Things. Many major technology companies rely on Arm’s designs, making the firm highly influential across global computing technology.
+
+Arm benefits from a licensing and royalty business model, where revenue is generated both upfront and through ongoing production volumes from customers. The company has played a central role in advancing energy-efficient chip performance and continues to expand into emerging computing and AI markets.
+
+Key Financial Metrics: Approx. revenue $4bn; no standard dividend.
+
+Key Risks: Dependence on technology adoption cycles and competition in chip design architectures.
+
+6. Unilever (ULVR)
+
+Number six on our list is the consumer goods holding company Unilever. They produce many different types of consumer products, ranging from beauty products and personal care items to food, condiments and many more. These products are sold worldwide in over 190 countries and are differentiated by the 400-plus brands that Unilever owns. The most famous of these brands include Dove, Lynx/Axe, Ben & Jerry’s, Magnum, Sunsilk, Hellman’s and many more. Unilever relies on these recognisable brands as a strategy to sell its products. This leaves it in competition with other large, diverse companies such as Johnson & Johnson and Nestlé.
+
+Unilever was founded in 1929 through the merger of a soap and margarine company and it is still the largest soap producer in the world today. Over the following decades, Unilever would diversify its product lines and acquire multiple companies in an effort to expand. In the last ten years, the company has put more of a focus on its beauty and healthcare product lines, as opposed to the slow-growing food brands.
+
+Key Financial Metrics: Approx. revenue $58bn; dividend yield around 3%.
+
+Key Risks: Input cost inflation and competitive brand pressure.
+
+7. Rolls-Royce Holdings (RR)
+
+Rolls-Royce Holdings is a British multinational aerospace and defence company headquartered in London. The company is best known for manufacturing aircraft engines used in commercial and military aviation. Rolls-Royce also develops power and propulsion systems used in marine vessels and energy applications. It has played a major role in the development of global aviation since the early 20th century.
+
+The company generates a significant portion of its revenue from servicing engines already in commercial operation. This means that global air travel volumes are a key factor in Rolls-Royce’s financial performance. In recent years, the company has focused on restructuring, improving financial stability, and investing in cleaner aviation technologies.
+
+Key Financial Metrics: Approx. revenue $24bn; dividend recently reinstated but modest.
+
+Key Risks: Dependence on aviation industry recovery and complexity of large-scale engineering programs.
+
+8. Rio Tinto (RIO)
+
+In eighth place is Rio Tinto, which is a dual-listed company traded on both the London Stock Exchange and the Australian Securities Exchange while also having joint headquarters in London and Melbourne. Rio Tinto Group was founded in 1873 when some investors purchased a mine in the Rio Tinto area in Spain. Through a long process of acquisitions and mergers, it has become the world’s second-largest metal and mining corporation, behind only BHP, with its core business still focusing on the extraction of minerals. Some of the minerals it mines are aluminium, coal, gold, iron ore and diamond, amongst many more.
+
+Rio Tinto is another company with controversy surrounding it, with it being heavily criticised by environmental groups and Norway’s government over its negative environmental impacts. It has also been criticised in Australia in 2020 after it demolished an ancient cave.
+
+Key Financial Metrics: Approx. revenue $54bn; dividend yield around 5%.
+
+Key Risks: Commodity price reliance and environmental regulatory risk.
+
+9. British American Tobacco (BATS)
+
+Next on our list is the largest tobacco company in the world by net sales as of 2019. British American Tobacco (BAT) was founded in 1902 and is headquartered in London, offering over 200 brands, including Lucky Strike, Pall Mall, Javaanse Jongens, HB and Viceroy, along with multiple others.
+
+As an effort to expand, the company has used a strategy of acquisitions, mainly of other tobacco brands. More recently, in an attempt to diversify, BAT purchased 20% of the cannabis-produced OrganiGram, which is based in Canada, for £126 million. Alongside its tobacco and nicotine products, the company now offers vapour, modern oral and tobacco heating products.
+
+Key Financial Metrics: Approx. revenue $22bn; dividend yield around 5–7%.
+
+Key Risks: Ongoing regulatory restrictions and declining demand for traditional products.
+
+10. BP (BP)
+
+Formerly the British Petroleum Company, BP is an oil and gas company whose headquarters are located in the UK. It is the world’s fourth-largest oil company in terms of revenue as of 2020, but the company’s market cap has seen a significant decrease over the last 15 years. Much like Shell, it is one of the world’s seven oil and gas ‘supermajors’ and is also vertically integrated, operating in all areas of the oil and gas industry.
+
+Originally founded as the Anglo-Persian Oil Company in 1908, BP has gone through multiple acquisitions and name changes over the last century to become the global company it is today.
+BP is responsible for the production of 1.53% of global industrial gas emissions and has faced its fair share of controversies, the most significant being the 2010 Deepwater Horizon oil spill which was the largest oil spill accident in history. There were severe environmental and economic consequences, costing BP over $65 billion.
+
+Key Financial Metrics: Revenue around $186 billion; dividend yield approximately 5.5%.
+
+Key Risks: Exposure to volatile oil & gas prices and large-scale transition investment stressing capital allocation and shareholder returns.
+
+Companies Just Outside the Top 10 – Next to the Top
+GlaxoSmithKline (GSK)
+
+First on our list is the pharmaceutical and biotechnology company GlaxoSmithKline (GSK). The company was formed in 2000 through the merger of SmithKline Beecham and Glaxo Wellcome, today being the tenth largest pharmaceutical company in the world. Since 2022, GSK’s market cap has fallen substantially due to a lawsuit over its heartburn drug Zantac, losing around 40% from a peak of $118 billion in 2022.
+
+GSK’s research led it to be the producer of the first malaria vaccine, which it stated it would sell at just 5% above costs in 2014. The company has also produced multiple other products that are listed in the World Health Organisation’s List of Essential Medicines.
+
+Along with these successes, GSK has also been involved in controversy, mainly in 2012 when they pled guilty to multiple charges about their practices and drugs that led to them paying a $3 billion settlement. This is the largest settlement by a drug company and the largest healthcare fraud case in the US to this day.
+
+RELX (RELX)
+
+RELX is a British multinational information and analytics company headquartered in London. It provides data services, scientific research platforms, legal reference solutions and business analytics to customers around the world. It benefits from subscription-based business models that provide stable recurring revenue.
+
+National Grid (NGG)
+
+National Grid is an electricity and gas utility company responsible for the transmission network that supplies energy across regions in the UK and parts of the USA. It plays a critical role in maintaining and updating infrastructure to support long-term energy demand and renewable energy integration.
+
+Key Observations for Traders
+FTSE 100 Dominance
+
+The Top 10 companies now account for 46% of the entire FTSE 100 index. Price movements in any of the top three—AstraZeneca, HSBC, or Shell—will have a disproportionately large effect on the entire UK market’s direction. Traders must monitor these giants to gauge overall index sentiment.
+
+Rise of Tech and Aviation Recovery
+
+The market composition is shifting. Arm Holdings' entry into the top five signifies increasing influence from the high-growth semiconductor/licensing sector. Furthermore, Rolls-Royce Holdings' re-entry highlights the recovery and structural importance of the aerospace and defence sector, with its performance being highly tied to global air travel volumes (engine servicing revenue).
+
+High-Yield Core
+
+Companies in the Financial, Mining, and Tobacco sectors (specifically HSBC, Rio Tinto, British American Tobacco, and BP) continue to offer compelling high dividend yields, often in the 4% to 7% range. For income-focused traders, these stocks are central, but they carry distinct regulatory (BATS) and commodity-price (RIO, BP) volatility risks.
+
+Sector-Specific Risks to Watch
+Pharma (AstraZeneca): The key risk for the largest company remains non-market-related: successful late-stage drug development and patent expiry cycles.
+Banking (HSBC): Its performance is highly sensitive to the credit cycle and economic conditions in Asia, given its large international exposure.
+Energy Majors (Shell, BP): While vertically integrated, both face persistent long-term pressure from the transition to lower-carbon operations on top of oil and gas price volatility.
+
+Linde's Industrial Stability
+
+Linde provides a more defensive industrial play, being a global leader in industrial gases and hydrogen. Its main risk is tied to general industrial demand fluctuations, making it a proxy for global manufacturing health.
+
+Conclusion
+
+We trust this article has given you an introduction and basic knowledge of the history and operations of the UK’s 10 largest companies.
+
+An understanding of the financial landscape of the UK is crucial for UK-based and international traders to make informed decisions. Moreover, it can help you take advantage of movements in major stocks by trading on the MetaTrader 4 (MT4) platform.
+
+MT4 is a user-friendly and effortless platform that is widely used by traders around the globe. Begin trading on MT4 with your Hantec Markets trading account today.
+
+If you liked this post, you might also want to check out our other articles:
+
+Top-10 largest non-US companies by market capitalisation
+Top 10 Largest US Companies by Market Capitalisation
+Africa’s Top-10: Leading Companies by Market Capitalisation
+Top 10 Largest Latin American Companies
+Top 10 Largest Companies in China
+Economic Powerhouses: Trillion-Dollar Companies Club
+Titans of the East: The 10 Largest Companies Shaping Asia’s Future in 2025
+Top 10 Largest Companies in India
+
+Also, we recommend you find out more about top global economies with our Trader’s Guide to the 10 Major Global Economies by GDP.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

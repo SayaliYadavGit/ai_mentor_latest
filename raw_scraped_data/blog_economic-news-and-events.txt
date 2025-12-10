@@ -1,0 +1,202 @@
+SOURCE: https://hmarkets.com/blog/economic-news-and-events/
+================================================================================
+
+Open main menu
+Economic news and events: How do they affect markets?
+📅 10.07.2022 👤 N Razlozhki
+
+As a trader, it is extremely important to keep up with the latest economic news and events, as they can have drastic impacts on the returns on your portfolio. However, the volume of news and events that occur each day can be overwhelming and so it is important to understand the different types of news and events in order to better inform your trading decisions. The four types of economic news and events that we will cover are macroeconomic data, microeconomic data, central bank events, and stochastic socioeconomic/geopolitical events. The table below gives examples of recent news headlines from the BBC and which category they fall under.
+ 
+
+
+
+
+Macroeconomic data
+
+
+Microeconomic data
+
+
+Central Bank events
+
+
+Stochastic socioeconomic/geopolitical events
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Macroeconomic data	Microeconomic data (earnings reports)	Central Bank events	Stochastic socioeconomic/ geopolitical events
+People delay turning heating on as UK inflation soars	Google: India fines tech giant $161m for unfair practices	UK interest rates raised to 1.25% by Bank of England	Rishi Sunak warns of difficult decisions ahead in first speech as PM
+US jobs growth slows as policymakers fight inflation	Asos sees big loss as shoppers cut back on fashion	Fed rate hike: US interest rates hit 14-year high in inflation battle	Europe faces tough decisions over nuclear power
+Five reasons why China's economy is in trouble	Netflix hints at password sharing crackdown as subscribers fall	Eurozone raises interest rates for first time in 11 years	The ships full of gas waiting off Europe's coast
+
+
+ 
+
+Types of Economic News and How They Affect Markets
+
+
+ 
+
+1. Macroeconomic data
+
+
+ 
+
+Macroeconomic data is the most common form of economic news that a general member of the public will see and includes aggregated statistics such as GDP, inflation, and unemployment. Macroeconomic data can be analysed to gain insight into future broad trends in the economy, but traders need more information to be able to predict what will happen to specific stocks, shares, etc. For example, slowdowns in consumer spending are good indicators of recessions, which is likely to have a negative effect on pro-cyclical financial instruments (pro-cyclical meaning that when there is economic growth, the value of the instrument increases, the opposite is true for countercyclical financial instruments). But the 3 other forms of economic news may have greater influence on the actual price of an individual instrument.
+
+Macroeconomic data is used to decide whether the global economic environment is in risk on or risk off mode, and so understanding macroeconomic data can also give traders an insight into how to diversify their portfolio. For example, if the market is risk on mode, traders should hold more positions on riskier assets such as commodities and stocks. Macroeconomic data, however, requires a lot of manpower to produce and is almost always made publicly available to everyone about events that have already happened and by the time everyone has heard about it, it is common knowledge and will often be too late for a trader to make significant profits.
+
+ 
+
+2. Microeconomic data
+
+
+ 
+
+Microeconomic data is economic news that includes earnings reports and other company/market-specific data and statistics that may be relevant. Microeconomic data can be more useful than macroeconomic data when trying to predict the future behaviour of more specific financial instruments. However, the sheer volume of microeconomic data available about certain financial instruments is why macroeconomic data is still often useful.
+
+For example, suppose you hold shares in a FTSE 100 tracker fund, it will be much easier to examine macroeconomic data about the UK economy to predict the performance of the FTSE 100 than it would be to use microeconomic data from each company that makes up the FTSE 100. However, if you are about to invest a considerable amount in a specific company's shares, it is absolutely worth looking at microeconomic data, such as earnings reports and market share, to try and get a good grasp of how the company's performance is trending over time. Traders are able to then speculate on whether these trends will continue or reverse and act accordingly in order to increase their return but again, this data is made available to the public at the same time, and so unless a trader has a superior way of predicting trends, it will be hard to generate large returns from microeconomic data.
+
+ 
+
+3. Central Bank events
+
+
+ 
+
+Central Bank events are a key form of economic news, and cover discretionary monetary policy made by countries' Central Banks. The role of Central Banks in a country's economy is to maintain certain economic goals such as stable economic growth or low inflation. The UK's Central Bank is the Bank of England and the Central Bank in the US is the Federal Reserve. Their primary instruments for achieving these goals are open market operations to control the money supply and the setting of the interest rate. In the UK for example, the Bank of England aims to limit UK inflation to 2% each year. Therefore, the policy that Central Banks choose will have impacts on markets through two mechanisms.
+
+The first is the direct effect the monetary policy has on certain financial instruments, for example, the interest rate directly affects the exchange rate of that currency and so monetary policy will have a direct impact on foreign exchange markets.
+
+The second is the impact that monetary policy has on investor behaviour, as it is a good indicator of the Central Banks short and medium term expectations. If a Central Bank lowers the interest rate for example, this may indicate the Central Bank is expecting a slowdown in economic growth. Therefore, investors can use Central Bank behaviour as an indicator for macroeconomic data instead of waiting for the data to be publicly available.
+
+ 
+
+4. Stochastic socioeconomic/geopolitical events
+
+
+ 
+
+Stochastic socioeconomic/geopolitical events are economic events which are not necessarily entirely random (even though this is what stochastic means) but that they are not certain until they happen. For example, Russia's invasion of Ukraine would be characterised as a stochastic geopolitical event, despite it being a coordinated attack and not a random occurrence. It is important to be aware of major socioeconomic/ geopolitical events as they can affect markets in such an enormous variety of ways. It is worth looking at the example mentioned earlier and how, due to the interconnectedness of the global financial system, socioeconomic/ geopolitical events can have far-reaching impacts. Russia's invasion of Ukraine has caused a massive increase in the global oil price, which is an example of this interconnectedness.
+
+Traders with a keen understanding of how different events affect markets can also use the adage "buy the rumour, sell the fact" (or sometimes the opposite, as below) to predict how socioeconomic/ geopolitical events can affect the markets.
+
+For example, former UK Chancellor Kwazi Kwarteng's announcement of his new budget was unexpected and had a massive effect on the UK economy and financial instruments associated with it. This is an opportunity as traders with a good understanding of politics and economics would have been able to see that the government that former Prime Minister Liz Truss was forming was full of free market-oriented politicians and would have been able to act accordingly and sell the Pound, "selling the rumour". But after the news had broken and the Pound had sold off, then it was time to reverse this position once the news was "in the market", so "buying the fact" in this case.
+
+Again, the amount of information available in the world is incredibly overwhelming, but being aware of key events is vital for good trading practice, and being able to successfully predict the outcome of future events is incredibly valuable in the trading world.
+
+ 
+
+Top Takeaways
+
+
+ 
+
+A good trader should use every relevant piece of information in their power to try and maximise the returns on their portfolio. Understanding the different types of information available to them and when to let these different types inform behaviour is crucial to being a good trader. The publicly available information such as the macroeconomic data, microeconomic data, and Central Bank events will be useful in indicating the current economic state of the world, but traders can really profit off of their understanding on how socioeconomic/geopolitical events will affect markets.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

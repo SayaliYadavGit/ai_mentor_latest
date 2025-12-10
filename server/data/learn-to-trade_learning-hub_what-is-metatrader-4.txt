@@ -1,0 +1,578 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/learn-to-trade/learning-hub/what-is-metatrader-4/
+
+Topics: Forex, CFDs, MetaTrader 5, MetaTrader 4
+
+
+Q: What is MetaTrader 4?
+
+Open main menu
+Home
+>
+Education
+>Learning hub>MT4 For beginners
+What is MetaTrader 4 (MT4)? Beginners Guide
+
+Learn about MetaTrader4 (MT4), the world's most popular trading platform. You can use MT4 to trade forex, CFDs, and a range of popular indices and commodities. MT4 also allows you to automate your trades.
+
+Education Category
+Learning hub
+
+Written by Aaron Akwu, Head of Education Hantec Markets
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+MT4 is a popular electronic trading platform that is used by online forex traders for trading in the foreign exchange market. MT4 is a highly customizable platform that offers advanced charting, technical analysis, and automated trading capabilities. The platform is easy to use and provides a range of tools to help traders make informed trading decisions in forex trading. With its user-friendly interface and powerful features, MT4 is widely regarded as the leading forex trading platform for forex traders. There are other trading platforms like MT5 and CTrader.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What are the features of MT4?
+
+MT4 is a popular electronic trading platform that is used by online forex traders for trading in the foreign exchange market. MT4 is a highly customizable platform that offers advanced charting, technical analysis, and automated trading capabilities. The platform is easy to use and provides a range of tools to help traders make informed trading decisions in forex trading. With its user-friendly interface and powerful features, MT4 is widely regarded as the leading forex trading platform for forex traders. There are other trading platforms like MT5 and CTrader.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Download and install MT4 for PC and mobile
+Here's a step-by-step guide to downloading and installing MT4 on your PC:
+Visit the trading platform page to download it.
+Select the desired OS: Android (for mobile), Windows (for desktop), and iOS (for Mac users).
+Download the installation file and run it on your computer.
+Follow the on-screen instructions to complete the installation process.
+Launch MT4 and log in using your trading account credentials.
+Here's a step-by-step guide on how to download and install the MT4 app for mobile phones:
+Open your mobile device’s app store. On an iPhone, this would be the App Store, and on an Android device, this would be Google Play Store.
+Search for “MetaTrader 4” in the app store’s search bar.
+Select the official MetaTrader 4 app by MetaQuotes Software Corp.
+Click on the “Download” or “Install” button to begin the installation process.
+Once the installation is complete, open the app.
+You will be prompted to either log in to an existing account or create a new account.
+If you need to create a new account, click on this link: https://hmarkets.com/live-account-pre-registration/.
+Once you have logged in, you will be able to access the MT4 platform and start trading on your mobile device.
+Opening a live/demo trading account:
+
+--------------------------------------------------------------------------------
+
+Q: How do I download MT4?
+
+Download and install MT4 for PC and mobile
+Here's a step-by-step guide to downloading and installing MT4 on your PC:
+Visit the trading platform page to download it.
+Select the desired OS: Android (for mobile), Windows (for desktop), and iOS (for Mac users).
+Download the installation file and run it on your computer.
+Follow the on-screen instructions to complete the installation process.
+Launch MT4 and log in using your trading account credentials.
+Here's a step-by-step guide on how to download and install the MT4 app for mobile phones:
+Open your mobile device’s app store. On an iPhone, this would be the App Store, and on an Android device, this would be Google Play Store.
+Search for “MetaTrader 4” in the app store’s search bar.
+Select the official MetaTrader 4 app by MetaQuotes Software Corp.
+Click on the “Download” or “Install” button to begin the installation process.
+Once the installation is complete, open the app.
+You will be prompted to either log in to an existing account or create a new account.
+If you need to create a new account, click on this link: https://hmarkets.com/live-account-pre-registration/.
+Once you have logged in, you will be able to access the MT4 platform and start trading on your mobile device.
+Opening a live/demo trading account:
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+To open a live trading account, click on this link and follow the procedure: https://hmarkets.com/live-account-pre-registration/.
+
+To open a demo account, click on this link and follow the procedure: https://hmarkets.com/mt-demo-account/.
+
+How to login into the MT4 platform
+
+PC Login:
+
+Launch the MT4 platform.
+Click on the “File” menu and select “Login to Trade Account.”
+Enter your login credentials (account number and password) provided by your broker.
+Select the server you want to connect to and click on “Login.”
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Mobile Login:
+
+Launch the app and tap on the “Sign in” button.
+Enter your login credentials (account number and password) provided by your broker.
+Select the server you want to connect to and tap “Sign in”.
+Funding Your live account:
+
+Once you are comfortable with the demo account, you can open a live account and fund it with your preferred payment method.
+
+To fund your account, follow the following link: Funding Your Account | Minimum Deposit
+
+--------------------------------------------------------------------------------
+
+Q: What is the minimum deposit?
+
+Mobile Login:
+
+Launch the app and tap on the “Sign in” button.
+Enter your login credentials (account number and password) provided by your broker.
+Select the server you want to connect to and tap “Sign in”.
+Funding Your live account:
+
+Once you are comfortable with the demo account, you can open a live account and fund it with your preferred payment method.
+
+To fund your account, follow the following link: Funding Your Account | Minimum Deposit
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+After your account is funded and verified, you can start trading forex. Always follow a sound trading plan and use proper risk management techniques.
+
+Choosing your markets:
+
+Here are the steps to choose your market when using MT4 for forex trading:
+
+Open the MT4 platform: Make sure you have installed and logged into the MT4 platform on your computer or mobile device.
+Choose the “Market Watch” window: This window displays the list of available financial instruments that you can trade.
+Select your market: In the “Market Watch” window, choose the financial market that you want to trade, such as forex, stocks, commodities, or indices.
+Add instruments to the “Market Watch” window: To add a specific currency pair or instrument to the “Market Watch” window, right-click on it and select “Show.” This will allow you to monitor the price movements and place trades easily.
+Start trading: Once you have added the instruments you want to trade to the “Market Watch” window, you can start trading by placing a buy or sell order on the selected instrument.
+Selecting trading instruments:
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+The procedure of Selecting trading instruments on MT4 step by step:
+
+Open the MetaTrader 4 platform and log in to your trading account.
+Click on the “Market Watch” window, usually located on the left side of the screen.
+Right-click on the “Market Watch” window and select “Symbols”.
+A list of available trading instruments will appear, including Forex pairs, indices, commodities, and cryptocurrencies.
+Select the instrument you wish to trade by clicking on it once.
+Right-click on the selected instrument and select “Show” to add it to the “Market Watch” window.
+You can also add multiple instruments to the “Market Watch” window by repeating the process.
+Once you have added the instruments you wish to trade, you can place orders by right-clicking on the instrument and selecting “New Order”.
+Setting up your chart:
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+The platform offers a wide range of technical indicators and tools to help traders make informed decisions. Here's how you can set up MT4 charts for stock trading, forex market, and futures trading:
+
+Open the platform and create a new chart. You can do this by clicking on the “File” menu and selecting “New Chart.”
+Choose the asset you want to trade, whether it be a stock or a futures contract, and select the appropriate chart type.
+Customize your chart by adding technical indicators, such as moving averages, Bollinger Bands, or RSI. You can find these indicators in the “Insert” menu or by right-clicking on the chart and selecting “Indicators.”
+Adjust the parameters of your technical indicators to fit your trading style and strategy.
+Save your chart setup as a template by right-clicking on the chart and selecting “Save Template.” This way, you can quickly apply your preferred setup to future charts.
+Finally, use your chart to analyse market data, identify trading opportunities, and make informed trading decisions.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Setting up MT4 charts for financial markets is a straightforward process that can be done in a few steps. By incorporating technical indicators, traders can gain valuable insights into market trends and make better-informed trades.
+
+Some types of charts are represented as line, candle or market profile charts. There are many chart types traders use to make trading decisions (some could need additional downloads).
+
+--------------------------------------------------------------------------------
+
+Q: How do I download MT4?
+
+Setting up MT4 charts for financial markets is a straightforward process that can be done in a few steps. By incorporating technical indicators, traders can gain valuable insights into market trends and make better-informed trades.
+
+Some types of charts are represented as line, candle or market profile charts. There are many chart types traders use to make trading decisions (some could need additional downloads).
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+What tools are available
+
+Some types of charts are represented as line, candle or market profile charts. There are many chart types traders use to make trading decisions (some could need additional downloads).
+
+Support and resistance lines – let’s work out where your key levels are in the markets.
+Fibonacci Levels – is a common tool for technical traders.
+Relative Strength – a commonly-used indicator that lets you measure momentum.
+MACD – moving average convergence and divergence, a commonly-used trend indicator.
+Stochastics – is another momentum indicator.
+Gann Fans – is a technical tool developed by a world-renowned market timing analyst.
+Other indicators – ADX, ADR, Bollinger Bands and more.
+EA’s (Expert Advisors) – are trading robots that can be downloaded and used for signals.
+Placing a trade on MT4:
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: How do I download MT4?
+
+What tools are available
+
+Some types of charts are represented as line, candle or market profile charts. There are many chart types traders use to make trading decisions (some could need additional downloads).
+
+Support and resistance lines – let’s work out where your key levels are in the markets.
+Fibonacci Levels – is a common tool for technical traders.
+Relative Strength – a commonly-used indicator that lets you measure momentum.
+MACD – moving average convergence and divergence, a commonly-used trend indicator.
+Stochastics – is another momentum indicator.
+Gann Fans – is a technical tool developed by a world-renowned market timing analyst.
+Other indicators – ADX, ADR, Bollinger Bands and more.
+EA’s (Expert Advisors) – are trading robots that can be downloaded and used for signals.
+Placing a trade on MT4:
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Placing a trade on MT4 is a simple process that can be done in just a few steps. Here is a step-by-step guide to help you place your first trade on MT4:
+
+Open the MT4 trading platform and log in to your account.
+Select the currency pair you wish to trade. This can be done by clicking on the currency pair in the Market Watch window or by searching for it in the Symbol window.
+Set the trading volume: The volume of the trade is the amount of currency you want to buy or sell. You can set the trading volume by adjusting the number in the Volume field.
+Choose instant execution or pending orders: Instant execution allows you to immediately enter a trade at the current market price. On the other hand, a pending order allows you to enter a trade at a specific price in the future. You can choose the trade execution modes from the Order window.
+Choose to Buy or Sell: In the Trade window, you can select either “Buy” or “Sell” depending on whether you want to buy or sell the currency pair.
+Place the trade: Once you have set the trading volume, trade execution mode and decided to buy or sell, you can place the trade by clicking the “Execute” button. The trade will be executed at the current market price if you chose instant execution, or at the specified price if you chose a pending order.
+Monitor your trade: After you have placed the trade, you can monitor its progress in the Terminal window. You can also modify or close the trade if needed.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+By following these steps, you can easily place a trade on MT4 and take advantage of the current market price. Just remember to consider all the factors, such as trading volume, trade execution mode, and pending orders, before placing a trade.
+
+Monitoring Trades on MT4:
+
+Step-by-Step Guide to Monitoring Trades on MT4, a Popular Trading Platform:
+
+Launch MT4: Open the MT4 trading platform on your device.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Access the Terminal Window: Find the Terminal window at the bottom of the MT4 platform and click on it.
+
+Check Open Trades: In the Terminal window, go to the “Trade” tab to view all your open trades.
+
+Monitor Trade Details: In the “Trade” tab, you can view details such as the symbol, type of trade, size, open price, stop loss, take profit, and current profit/loss.
+
+Analyze Trade Performance: Use the information available in the Terminal window to analyze the performance of each trade and make decisions accordingly.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Modify Trades: If necessary, you can modify the stop loss, take profit, or close a trade directly from the Terminal window.
+
+Check Closed Trades: Go to the “History” tab in the Terminal window to view all your closed trades and analyze their performance.
+
+Monitoring trades on MT4, a popular trading platform, is a simple and straightforward process that allows you to keep track of your trading activity and make informed decisions. By following these steps, you can stay on top of your trades and improve your trading performance.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Closing trades and checking trade history:
+
+To close a trade on MT4 and check trade history:
+
+Open the MT4 platform.
+
+Go to the "Terminal" window, located at the bottom of the screen.
+
+In the "Terminal" window, click on the "Trades" tab.
+
+Find the trade you want to close in the list of open trades.
+
+Right-click on the trade and select "Close Order."
+
+A window will pop up displaying the details of the trade.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Confirm that you want to close the trade by clicking on the "Close" button.
+
+The trade will be closed, and the profit/loss will be updated in your account balance.
+
+To check trade history:
+
+In the "Terminal" window, click on the "History" tab.
+
+The trade history will be displayed, including information on opened and closed trades, profits, and losses.
+
+You can sort the trade history by date, symbol, type, ticket number, size, open time, and other parameters by clicking on the column headers.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Adding indicators to MT4
+
+The MetaTrader platform is a powerful trading platform that allows users to create automated trading systems, use trading strategies, add expert advisors and access a variety of trading software. One of the most useful features of the MT4 platform is the ability to add indicators to your charts. Indicators are tools used by traders to help identify market trends, and they can be used to make more informed decisions when trading. In this guide, we'll walk you through the steps of adding indicators to MT4.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What are the features of MT4?
+
+Adding indicators to MT4
+
+The MetaTrader platform is a powerful trading platform that allows users to create automated trading systems, use trading strategies, add expert advisors and access a variety of trading software. One of the most useful features of the MT4 platform is the ability to add indicators to your charts. Indicators are tools used by traders to help identify market trends, and they can be used to make more informed decisions when trading. In this guide, we'll walk you through the steps of adding indicators to MT4.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Step 1: Select a Chart
+
+The first step is to select the chart that you want to add indicators to. Begin by opening the MT4 terminal and then selecting the currency pair that you want to trade. Once you’ve done that, you can open the chart by clicking on the “Charts” tab at the top of the screen.
+
+Step 2: Add the Indicator
+
+Once you’ve opened the chart, you can add an indicator by clicking on the “Indicators” tab at the top of the screen. This will open a list of available indicators, which you can select and add to the chart. You can also customize the indicator’s parameters, such as its period and the source of the data.
+
+--------------------------------------------------------------------------------
+
+Q: How do I open an account?
+
+Step 3: Customize the Indicator
+
+Once the indicator is added to the chart, you can customize it to suit your trading style. You can do this by opening the indicator’s settings window, which can be accessed by right-clicking on the chart and selecting “Indicators List” from the menu. Here, you can adjust the indicator’s parameters, such as the period, range, and type of data.
+
+Step 4: Test the Indicator
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Once you’ve added and customized the indicator, you can test it by running a simulation. To do this, you can use the “Strategy Tester” feature, which will allow you to test the indicator against historical data. This will give you a better understanding of how the indicator performs in different market conditions.
+
+By following these steps, you can easily add indicators to MT4 and customize them to suit your trading style. Indicators can be a great tool for traders, as they can help identify market trends and make more informed decisions.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What are the features of MT4?
+
+Once you’ve added and customized the indicator, you can test it by running a simulation. To do this, you can use the “Strategy Tester” feature, which will allow you to test the indicator against historical data. This will give you a better understanding of how the indicator performs in different market conditions.
+
+By following these steps, you can easily add indicators to MT4 and customize them to suit your trading style. Indicators can be a great tool for traders, as they can help identify market trends and make more informed decisions.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Time frame in MT4
+
+A time frame in MetaTrader 4 (MT4) is a tool that allows traders to specify the time period they want to analyze the market data. In the context of exchange-traded futures, the time frame on MT4 can play an important role in determining the success of a trader's strategy.
+
+Traders can choose from a range of time frames on MT4, including minutes, hours, days, weeks, and months. By selecting the appropriate time frame, traders can effectively analyze market trends and make informed decisions about their trades. For example, if a trader is interested in short-term movements in the market, they may choose a one-minute or five-minute time frame. If they are looking for a long-term view, they may select a daily, weekly, or monthly time frame.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+In the context of forex trading, the time frame is an important factor in determining the type of strategy a trader will use. For example, if a trader is interested in trading futures contracts that are due to expire soon, they may choose a shorter time frame such as five minutes. If they are looking to hold onto a futures contract for a longer period, they may select a daily or weekly time frame to better assess market trends and movements.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+It's important to note that different time frames can give traders different perspectives on the market and that the time frame a trader selects can have a significant impact on their overall success. To determine the best time frame for a particular strategy, traders should consider their trading goals, risk tolerance, and the specific futures contract they are trading.
+
+Time frame in MT4 is a powerful tool that traders can use to analyze market data and make informed decisions about their trades.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Differences between MT4 and MT5
+
+The MetaTrader 4 (MT4) and MetaTrader 5 (MT5) trading platforms are two of the most widely used platforms for retail investor accounts. Both platforms offer access to numerous markets and a variety of trading tools, but there are some key differences between them.
+
+MT4 is the older of the two platforms, having been released in 2005. It is widely used by traders due to its user-friendly interface and comprehensive technical analysis options. It is mainly used for Forex, CFD, and futures markets, and offers automated trading, backtesting, and copy trading.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+MT5 was released in 2010 and is the successor of the MT4 platform. It offers more features than MT4, such as more advanced analysis tools and a larger range of markets. It is mainly used for stocks, futures, and options trading, and includes features such as economic calendars, price alerts, and more. It also offers hedging, but only for certain account types.
+
+Overall, both MT4 and MT5 are excellent trading platforms that offer traders a wide range of features and markets. The main difference between them is the range of markets they offer, with MT4 mainly used for Forex and CFDs and MT5 mainly used for stocks and futures.
+
+--------------------------------------------------------------------------------
+
+Q: What are the features of MT4?
+
+MT5 was released in 2010 and is the successor of the MT4 platform. It offers more features than MT4, such as more advanced analysis tools and a larger range of markets. It is mainly used for stocks, futures, and options trading, and includes features such as economic calendars, price alerts, and more. It also offers hedging, but only for certain account types.
+
+Overall, both MT4 and MT5 are excellent trading platforms that offer traders a wide range of features and markets. The main difference between them is the range of markets they offer, with MT4 mainly used for Forex and CFDs and MT5 mainly used for stocks and futures.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+The differences between the two platforms are described in more detail in our comparison guide - https://hmarkets.com/blog/metatrader-4-vs-metatrader-5/.
+
+New To trading
+What is CFD trading
+What Is Currency Trading
+MT4 For beginners
+Other Markets
+Asset Classes
+Chart Pattern
+Forex Trading Signals
+Novice Trader
+Intermediate Trader
+Experienced Trader
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

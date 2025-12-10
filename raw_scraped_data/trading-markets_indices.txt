@@ -1,0 +1,322 @@
+SOURCE: https://hmarkets.com/trading-markets/indices/
+================================================================================
+
+Open main menu
+Home
+>
+Markets
+>
+Index CFDs
+Trade index CFDs
+Trade a basket of stocks with our world-leading platforms. 
+Global market access
+
+Select from a huge range of instruments with competitive spreads and exceptional execution speed.
+
+Advanced trading platforms
+
+Utilise cutting-edge platforms on mobile, desktop or web, for a seamless trading experience.
+
+Comprehensive support and education
+
+Benefit from dedicated customer support and extensive educational resources to enhance your trading skills.
+
+Why choose Hantec Markets
+
+Competitive spreads
+
+Ultra-fast execution
+
+Negative balance protection
+
+Instant deposits and fast withdrawals
+
+START TRADING NOW
+Trade with better conditions
+Global Account
+
+Instrument
+
+	
+
+Spread
+
+on pips (from)
+
+	
+
+Commission*
+
+per lot (from)
+
+	
+
+Margin
+
+% (from)
+
+	
+
+Long Swap
+
+pips
+
+	
+
+Short Swap
+
+pips
+
+	
+
+Balance Guard
+
+eligible
+
+
+EU50	0.1	$0	5.00%	-71.0527	-9.0884	
+
+FR40	0.1	$0	5.00%	-101.7290	-12.9669	
+
+GER40	0.1	$0	5.00%	-303.1122	-37.7933	
+
+JP225	0.1	$0	5.00%	-518.4988	-311.0242	
+
+UK100	0.1	$0	5.00%	-179.9537	36.0728	
+
+US100	0.1	$0	5.00%	-520.5575	103.0197	
+
+US30	0.1	$0	5.00%	-1057.3295	192.1683	
+
+US500	0.1	$0	5.00%	-129.4019	27.6885	
+
+US2000	0.6	$0	5.00%	-3.9000	1.8000	
+
+HK50	0.9	$0	2.50%	-10.6812	1.1012	
+1
+2
+3
+Market conditions
+Trading conditions
+
+Minimum deposit
+
+$10
+
+Spread type
+
+Floating
+
+Execution
+
+Market
+
+Minimum order size
+
+0.01 lot
+
+Stopout level
+
+From 20%
+
+Server time
+
+GMT+3
+
+Trading hours
+
+The trading hours for Index CFDs are variable and depend on the specific instrument you are trading.
+
+Please take note that trading hours may change during holidays. Clients will be informed of any changes by email. 
+
+Want to learn how to trade?
+
+We offer a range of educational resources, including tutorials, webinars, and market analysis. Our market leading Learning Hub is a free resource to help you improve your trading knowledge.
+
+Online resources
+
+VISIT LEARNING HUB
+Indices CFD explained
+
+Index CFDs (Contracts for Difference) allow traders to speculate on the price movements of stock indices without owning the underlying assets. This enables traders to potentially earn from both rising and falling markets.
+
+With index CFDs, traders can access baskets of stocks within a single trade, allowing them to diversify their portfolio. Index CFDs are traded on margin, meaning only a fraction of the total trade value is required as a deposit.
+
+It's essential to employ risk management strategies, such as stop-loss orders and position sizing, to protect capital. 
+
+Indices basics
+
+Learn the fundamentals of trading indices and how they can help diversify your portfolio.
+
+Read More >
+
+Leverage explained
+
+Understand how leverage works in CFD trading and how to manage its associated risks.
+
+Read More >
+
+Risk management
+
+Explore essential risk management techniques to protect your trading capital and minimise losses.
+
+Read More >
+
+Market analysis
+
+Discover the importance of market analysis and how to use it to inform your trades.
+
+Read More >
+
+Get started now
+
+Join us today and dive into the dynamic world of CFD trading with a trusted and reliable partner. Enjoy competitive spreads, advanced technology, and personalised support to enhance your trading experience. 
+
+1
+Register
+2
+Fund
+3
+Download
+4
+Trade
+TRADE NOW
+Why trade with Hantec Markets
+Trade on desktop or mobile
+
+Access global markets seamlessly with our cutting-edge trading platforms or MetaTrader®.
+
+Copy trading with Hantec Social
+
+Follow successful traders and mirror their strategies with Hantec Social copy trading.
+
+Tight spreads and fast execution
+
+Spreads starting from as low as 0.1 pips and lightning-fast execution.
+
+8 regulations and 12 local offices
+
+Trade with a regulated broker and receive localised support from our dedicated team.
+
+Award-winning customer services
+
+Experience exceptional customer support from our award-winning service team.
+
+Instant deposits and fast withdrawals
+
+Benefit from quick and secure deposit and withdrawal options with Hantec Markets.
+
+Latest posts
+indices trading
+Top 10 UK-Based Companies by Market Capitalisation (2025 Update)
+Get the 2025 list of the UK's 10 biggest companies by market cap, including AstraZeneca & Shell. Learn their FTSE 100 influence and key risks for traders.
+Read more
+>
+indices trading
+Africa's Top-10: Leading Companies by Market Capitalisation (2025)
+Explore the top 10 largest companies in Africa by market capitalisation in 2025, dominated by South African banks and gold miners. Essential data for traders.
+Read more
+>
+indices trading
+Trillion-Dollar Companies Club Gets a Shakeup: New Entrants and Shifting Order
+In this post, we explore the largest companies in the world that currently boast a market capitalization of over $1 trillion.
+Read more
+>
+indices trading
+Your Ultimate Guide to Trading Synthetic Indices in 2025
+This article tells about synthetic indices trading. We'll cover the basics of this tool and end up looking at how you can use it effectively in your portfolio.
+Read more
+>
+indices trading
+Top Ten Largest Non-US Companies in 2025: Semiconductor Shifts, Luxury Surges, and Banking Power Plays
+This article will examine the Top 10 non-US companies, including Saudi Aramco, TSMC, Novo Nordisk, Tencent, ASML, Samsung, ICBC, and SAP.
+Read more
+>
+indices trading
+Trader's Guide: Top 10 Largest US Companies by Market Capitalisation
+In this article, we will look specifically at the ten largest US companies. These will be some of the most traded companies in the world.
+Read more
+>
+indices trading
+Top 10 Largest Companies in India by Market Capitalisation
+This article explores the leading Indian companies that are shaping the nation’s economy and influencing global markets.
+Read more
+>
+indices trading
+Titans of the East: The 10 Largest Companies Shaping Asia’s Future in 2025
+Discover the 10 largest companies shaping Asia’s future, from tech giants like Tencent and TSMC to energy powerhouse Saudi Aramco. Explore Asia’s corporate titans!
+Read more
+>
+Frequently asked questions
++
+What are index CFDs?
++
+What are the trading hours for indices?
++
+How is pricing determined when trading indices?
++
+How can technical analysis be applied to CFD indices?
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

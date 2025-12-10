@@ -1,0 +1,166 @@
+SOURCE: https://hmarkets.com/blog/what-are-currency-crosses/
+================================================================================
+
+Open main menu
+What Are Currency Crosses?
+📅 09.15.2022 👤 Steve Miley
+
+Currency crosses or cross rates may be terms you are unfamiliar with, but they simply refer to a transaction between two currencies, of which the US Dollar (USD) is not one. This means the USD is not used as an intermediary, and one currency is simply exchanged for the other. Naturally, the most commonly used currency crosses involve the world's other most widely traded currencies, such as the Japanese Yen and the Euro.
+
+History of Currency Exchange
+
+Most Commonly Used Currency Crosses
+
+How Currency Crosses are Calculated
+
+Advantages of Currency Crosses
+
+How Traders Can Use Currency Crosses
+
+Takeaways
+
+
+
+ 
+
+History of Currency Exchange
+
+
+Until the middle of the 20th Century, most currency exchanges would be performed by first converting the currency into USD and then converting the USD into the desired currency. Historically this stems from the strength and confidence in the USD formed decades ago, especially after World War 2, where many currencies were quoted against and even pegged to the USD. The US economy was the strongest during this time period, and the currency was fixed to gold, giving people confidence in it.
+
+ 
+
+The USD remains the world's reserve currency to this day, with over 80% of forex market transactions involving the USD. This dominance remains despite the massive increase in world trade, as most agricultural goods and commodities are still priced in USD, such as oil. This means many countries that import large quantities of these goods, such as China and Australia, hold large reserves of USD in order to quickly and efficiently purchase what they need.
+
+ 
+
+Although the USDs continued strength and dominance, the rise of the forex market has made it more accessible and efficient for cross-currency pairs to exist. This has led to the rise of some pairs we will look into further such as the GBP/JPY cross, making it easier to convert directly between these currencies and potentially increasing trade between the two.
+
+ 
+
+Most Commonly Used Currency Crosses
+
+
+Some of the most used currency crosses are, of course, the most traded and most abundant currencies, with common examples being the EUR/GBP, GBP/JPY, EUR/JPY and EUR/CHF. Only the former two are in the world's ten most traded currency pairs, all the rest involving the USD, showing it has maintained dominance in financial markets.
+
+ 
+
+How Currency Crosses are Calculated
+
+
+Currency crosses are now generally established as their own exchange rate, but if we did not have this rate, we could calculate it fairly accurately with the method below.
+
+ 
+
+When calculating what a currency cross should be valued at, we must first establish which currency is going to be our base rate, so set to equal one. For all currency crosses in which the Euro is involved, it becomes the base rate, if the GBP is involved and the Euro is not, GBP is instead established as the base rate.
+
+ 
+
+Once the currency we will use for the base rate is set, you must then find each currency's exchange rate against the USD, with these rates being referred to as the legs of our currency cross. We must make sure we are using the bid (buying price) or ask (selling price) for both exchange rates, and for simplicity, we can make sure our first currency (GBP) is the base rate in its exchange vs the USD and in the second exchange the USD is the base rate. If this is the case, we simply multiply the bid/ask price of the two legs and get the price of the currency cross.
+
+ 
+
+Example: Calculate GBP/JPY
+
+ 
+
+GBP/USD: 1.15 (bid)
+
+USD/JPY: 144.21 (bid)
+
+GBP/JPY: 1.15 * 144.21 = 165.84 (bid)
+
+ 
+
+Advantages of Currency Crosses
+
+
+As we have seen, currency crosses have become more prevalent as the forex market and trade have expanded into the end of the 20th Century. These direct exchanges provide multiple advantages for individuals, companies, and traders, which we will now look into. Naturally, currency crosses make it easier to make international transactions as there are fewer steps to go through and fewer currencies to deal with, with this also making the transaction cheaper as it then involves only crossing one spread. This benefit is furthered by the fact currency crosses have become much more frequently used for exchanges, meaning the spreads have narrowed, especially for the major currency crosses. This has occurred due to the demand for the currency cross increasing, decreasing the cost of international transactions further. This decreased cost can be seen clearly in our basic calculation above, where we established the GBP/JPY cross was 165.84 when calculating through the USD, but the actual GBP/JPY at the time of writing is 165.34. This seemingly small gap can make a huge difference when large sums are being converted.
+
+ 
+
+How Traders Can Use Currency Crosses
+
+
+Currency crossers can be used in multiple ways by traders in order to try and gain an edge and make profits. One-way traders may use a currency cross is to bet on world events, with an easy example being Brexit. The trader could set up a position in either direction by using the EUR/GBP, this would be less capital intensive, less complex and less expensive than using both the EUR/USD/ and GBP/USD to set up your position. Furthermore, the trader may want to use a currency cross in order to take up a position on a certain currency while removing the presence of the USD if they think it may also be impacted. Another reason for traders to use currency crosses as it gives them more options in how and what they trade. This can be seen by looking at the majors and the commodity currencies, all of which involve an exchange that involves the USD. Trading just these, which many traders do, not only restricts them to only seven exchanges to trade but also means a vast majority of their trade speculation depends on if the dollar is weak or strong on the day. Trading cross currencies eliminates this anti/pro USD restriction and opens up a vast array of other less popular currencies to trade.
+
+ 
+
+Currency Crosses Takeaways
+
+
+You should now understand what currency crosses are, why they are a popular form of trading and why you should consider trading Forex Crosses with Hantec Markets.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

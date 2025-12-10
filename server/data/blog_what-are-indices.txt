@@ -1,0 +1,326 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/what-are-indices/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+What are indices? How it works?
+📅 12.07.2022 👤 N Razlozhki
+
+If your aim is to become a successful trader, it is important to understand (and implement your understanding of) key financial concepts when choosing your trading strategy. Indices (sing. Index) are a widely used concept in the world of trading, so here provide you with an accessible but thorough introduction to the concept of indices.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+What are indices?
+Common financial market indices
+Stock indices
+Types of stock indices
+Well-known stock indices
+
+ 
+
+What are indices?
+
+ 
+
+Indices are a way of tracking the performance of a collection of assets in a way that is standardised and easy to understand. Indices typically use a subset of assets in an attempt to represent a specific area of financial markets (e.g. the S&P Dow Jones Consumer Staples Select Sector Index) but can also be used to attempt to represent broader markets (e.g. Standard & Poor's 500 Index). A general index formula is given below:
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Where the weighting of which is to be determined. This formula may not be clear now as it is very general, but as we go into more detail on some examples below, it should become more clear to you. In most cases, the variable of interest will likely be the market capitalisation of a company, with the asset being the company valuation.
+
+Indices are used as benchmarks for the performance of portfolios and individual stocks in comparison to the group of assets that they belong to. This is often used by investment funds to show investors how profitable investing in the fund may be compared to investing in an index fund. It is worth noting that you cannot invest in an index; instead, you must invest in an index fund. An index fund is a fund that uses "indexing" which is a passive form of investing (i.e. limits the amount of buying and spending) in which the fund manager attempts to match the components of an index.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Common financial market indices
+
+ 
+
+There are many types of financial market indices. By far, the most common type of index is a stock index but indices can be used to measure the performance of other financial assets such as bonds (e.g. Bloomberg Barclays US Treasury Index) and commodities (Standard & Poor's GCSI Index). Furthermore, although we will not cover this in detail today, indices can be used to measure the performance of other financial data such as output, inflation, and so on.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Stock indices
+
+ 
+
+Due to being the most popular type of indices, we will go into a bit more detail about stock indices and also to go into detail about some especially important stock indices. A stock index is an index that measures the performance of a stock market or a subset of a stock market. Well-known stock indices include the S&P 500 in the US and the FTSE 100 in the UK.
+
+The S&P 500 is an index with the top 500 companies in the US stock market. The top 500 is decided primarily by market capitalisation, but other factors are included, such as liquidity, trading history, and financial viability. The S&P 500 makes up 80% of the total value of the US stock market and is a good indicator of the performance of the US economy.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The FTSE 100, similarly to the S&P 500, is an index with the top 100 companies listed on the London Stock Exchange. The top 100 is again decided by market capitalisation, and as is the slightly smaller size of the London Stock Exchange, encompasses 80% of the stock exchange's market capitalisation, and so is also a good indicator for the performance of the UK economy.
+
+As mentioned above, stock indices can be used as a good indicator of the strength of particular economies, sectors, and markets. Therefore, if you are interested in the performance of these different segments of the economy, you should keep an eye on any index that represents them.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Types of stock indices
+
+ 
+
+The formula stated above is a general one for all kinds of indices, but there are specific ways of calculating different kinds of stock indices that we will go through the mathematical definitions of below.
+
+ 
+
+Price-Weighted Stock Indices
+
+A price-weighted stock index, such as the Dow Jones Industrial Average, is calculated by taking the sum of all the companies in the index's share price and dividing it by the number of companies in that index. The formula for this is given below:
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The price-weighted stock index is popular due to its simplicity, no calculation needs to be made beyond a simple sum and division. Price-weighted stock indices will better represent the sector they are trying to represent if the companies in that sector tend to be of similar size to each other. As the sizes of companies vary, the price-weighted stock index will become a poorer measure of a sector's performance.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+However, it is worth noting that a change in the share price of a stock will have an absolute impact on the index, regardless of the initial price. To put this in simpler terms, two companies with an initial share price of PS10 and PS100, respectively, will have the same impact on the index if their share price increases by PS10. The price-weighted stock index may not be a good indicator of performance as the company with the initial lower share price has increased in value (all other things being equal) by 100%, and the company with the higher share price has increased in value by 10%. The concept I have explained above is that each company gets given an arbitrary weight in the calculation of the price-weighted stock index.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Capitalisation-Weighted Stock Indices
+
+ 
+
+A capitalisation-weighted stock index, such as the S&P 500, is calculated by taking the total value of all companies in an index, and dividing it by the number of these companies, very similar to how the price-weighted capitalisation is calculated. The equation below gives the formula for the capitalisation-weighted stock index (it is important to remember that the total value, or market capitalisation of a company, is given by multiplying the price of a share of that company by the number of shares):
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+With a capitalisation-weighted index, it is important to note that an improvement in the market capitalisation of a single company has a different effect depending on the initial value of the company's market capitalisation. This has the added benefit of being more representative of the market's valuation of the company in comparison to the price-weighted index, and so is a better indicator of strong performance. It also means that larger companies contribute a greater amount to the performance of an index, as these companies tend to be less volatile, and so too does the index.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+There are some issues with the capitalisation-weighted stock index. For example, if a large company's stock rises significantly, it will begin to dominate the performance of the index. Therefore, the index will disproportionately be affected by a single company's performance and not do what it is designed to, which represents a broader sector of the economy.
+
+ 
+
+Well-known stock indices
+
+ 
+
+Below, we have compiled a list of some of the most popular stock market indices globally and whether they are capitalisation-weighted or price-weighted. Indices can be characterised in a number of ways: geographically, a number of companies, industry, and so on. Indices can also have sub-indices, for example, there is the FTSE 100, but there is also the FTSE SmallCap Index which covers London Stock Exchange also but instead only includes companies with a small market capitalisation. All indices have a multitude of sub-indices which are worth being aware of to give you more specific knowledge about certain sectors.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Country	Index	MT4 Symbol	Price-/Capitalisation-Weighted
+USA	S&P 500	US500	Capitalisation-Weighted
+USA	Dow Jones Industrial Average	US30	Price-Weighted
+USA	NASDAQ-100	US100	Capitalisation-Weighted
+USA	Russell 2000	US2000	Capitalisation-Weighted
+Japan	Nikkei 225	JP225	Price-Weighted
+UK	FTSE 100	UK100	Capitalisation-Weighted
+Hong Kong	Hang Seng Index	HK50	Capitalisation-Weighted
+Germany	DAX 30	GER30	Capitalisation-Weighted
+France	CAC 40	FR40	Capitalisation-Weighted
+Eurozone	Euro STOXX 50	EU50	Capitalisation-Weighted
+Brazil	Bovespa Index	IBOV	Capitalisation-Weighted
+Australia	ASX200	AU200	Capitalisation-Weighted
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Indices Takeaways
+
+ 
+
+Indices will be incredibly important to anyone investing or trading. They can be used as benchmarks for your performance as a trader, are useful to get high-level overviews of the performances of certain sectors of different economies and can also be used for low-risk investment strategies (e.g., pensions). So, why not come trade indices with Hantec Markets?
+
+For those interested in learning more about trading opportunities with major indices, please read the useful guide "Exploring the Top 10 Indices for Profitable Trading Opportunities."
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+While this article focuses primarily on traditional stock market indices, there is another category called synthetic indices that traders should be aware of. For those interested in learning more, we have an informative article explaining "What is Synthetic Indices Trading?"
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

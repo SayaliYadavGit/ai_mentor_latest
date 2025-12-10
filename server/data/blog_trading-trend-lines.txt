@@ -1,0 +1,285 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/trading-trend-lines/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+Trading Trend Lines: What are Trending and Range-Bound Markets?
+📅 05.22.2022 👤 N Razlozhki
+
+In the late 19th century, Charles Dow (who gave his name to the Dow Jones Industrial Average) identified ways of analysing financial markets, which are now collectively known as the Dow Theory. One of the primary lessons from Dow Theory is that markets move in trends, there are three types of trends: up, down, and sideways. For technical analysts and traders, identifying when a market is in a trend (up or down) or when it is in a sideways trend or is range-bound, is key to any trading strategy.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+In this article, we will look at:
+
+Add a header to begin generating the table of contents
+
+What Defines a Trending Market?
+
+Markets do not move in straight lines but in a series of peaks and troughs. A Dow Theory up trend is defined by a series of successively higher peaks and higher troughs. Whereas a downtrend is a series of sequentially lower peaks and lower troughs.
+
+What Defines a Range-Bound Market?
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Sometimes the market does not move with successively higher peaks and higher troughs, or sequentially lower peaks and lower troughs. But rather it moves with random peaks and troughs, some higher and some lower than previous peaks and troughs. We define this as a sideways trend, or more commonly, a range-bound market.
+
+Moving on from just looking at up, down, and sideways trends defined by peaks and troughs, technical analysts and traders also use trend lines to better define the limits of trending and range-bound markets.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+What Is a Trend Line?
+
+A trend line is a line that's drawn between two points -- generally off from the notable highs or lows. Traders use these lines to define a trend or a range-bound market. A trend line would be drawn off the highs in a downtrend, and the lows in an uptrend.
+
+How Do Trend Lines Work?
+
+Trend lines work by defining support and resistance, which you can then use to enter or exit trades. They also let you know when a market might change direction -- for example, from a bullish to a neutral phase. Or from a sideways stage to a bearish or bullish trend with a breakout. You can learn more about this in our Breakout Trading Guide.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+What Are the Different Types of Trend Lines?
+
+The different types of trend lines are broadly categorised as:
+
+An uptrend line
+A downtrend line
+A sideways, or consolidation trendline
+
+Up Trend (Higher Lows)
+
+An uptrend is a series of higher highs and higher lows. As you'll see in the image below, the trend line is drawn by connecting successive swing lows that define the uptrend. You can then use this uptrend line as support.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Down Trend (Lower Highs)
+
+You'll recognise a downtrend by a series of lower lows and lower highs, as seen in the image below. Simply connect the significant highs with your trend line and you'll be able to use it as resistance.
+
+Sideways Trend (Range-bound)
+
+In the sideways, range-bound market you can also draw trendlines that don't define an up or downtrend, but actually define the sideways trend or range-bound market. These trend lines in range-bound markets both define the range, but can also help signal breakouts from the range.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+What Are the Pros and Cons of Trend Line Trading?
+
+Pros Of Trend Line Trading
+
+The advantages of trend line trading are:
+
+A trend line break signals the end of a trend -- You can define when a trend concludes when the trend line is broken
+Can help to define trade entry levels-- You can use breaks of trend lines as entry levels for your trading strategies
+Can help to define trade exit levels-- You could use a breach of a trend line as a reason for exiting a trade, to place an exit stop on a break of a trend line
+Trend line trading can provide earlier signals (than when using other indicators) -- Earlier signals are often generated from using a trend line to enter or exit trades, as opposed to using other support and resistance levels for signals
+You can increase your profits -- The above uses of trend lines can improve your profits (though fake breaks could be negative for profits -- see the cons of trend line trading below)
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Cons Of Trend Line Trading
+
+The main disadvantage of trend line trading is that, sometimes, fake signals are given. For example, in an uptrend, the rising trend line might break, but the next support might hold, and the uptrend may then resume
+You may look to trade the range-bound market, by selling at the top of the range and buying at the top of the range. Or you might look for breakouts from sideways, ranges, but these breakouts can also sometimes be fake (or fakeouts as they are often called).
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Takeaways
+
+You should now have a better understanding of what trending and rangebound markets are, how to define them and how to use trend lines in up, down, and sideways, range-bound markets.
+
+These new technical analysis skills, when applied to your trading strategy should enable you to better define entry and exit levels for your trades, and with refinement, improve your trading results, and in the long run, your profitability.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

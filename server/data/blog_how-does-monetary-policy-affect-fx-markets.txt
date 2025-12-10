@@ -1,0 +1,304 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/how-does-monetary-policy-affect-fx-markets/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What Forex products does Hantec offer?
+
+Open main menu
+How does monetary policy affect FX markets?
+📅 03.22.2022 👤 Steve Miley
+
+The Forex markets are affected by many different factors, with currency pairs impacted by:
+
+the individual strength of the two economies in the currency pair
+the relative strength of the two economies in the currency pair
+The economic and sentiment data for these economies (which echo the current state of the economies), such as Gross Domestic Product (GDP), inflation, unemployment, etc.
+The political and geopolitical landscape
+Monetary policy
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Although this is not an exhaustive list of factors, these are the main drivers of the Forex markets, and we are going to take a closer look at the impact of monetary policy on the Forex markets. We will look at:
+
+What Monetary Policy is
+Types of Monetary Policy
+Expansionary Monetary Policy
+Contractionary Monetary Policy
+Monetary Policy Tools
+Interest rates
+Quantitative easing
+Bank Reserve Requirements
+How Monetary Policy affects the FX markets
+Takeaways
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+What Monetary Policy is
+
+Monetary policy is a set of economic tools, most often controlled by a country's central bank (on behalf of the government), that are used to keep inflation under control and ensure sustainable economic growth. Overall, monetary policy is the control of an economy's money supply that is available to many parts of the economy, including consumers, corporates and the banking sector. By adjusting these various tools (that we will explore below), the central bank is able to influence the economy in order to ensure steady growth rates.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Types of Monetary Policy
+
+The monetary policy falls into two main categories, expansionary and contractionary.
+
+Expansionary Monetary Policy
+
+If economic growth is slowing down with the threat of higher unemployment and a potential recession, and given inflation rates are low and not rising, then a central bank will likely follow an expansionary monetary policy with the aim of expanding economic growth and activity. As an example, most of the major global economies have followed an expansionary monetary policy approach since the 2008 global financial crisis.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Contractionary Monetary Policy
+
+If an economy is overheating, if economic growth is too strong, unemployment is very low, and there is a threat of rising inflation rates, which for most central banks is a core target to keep inflation rates low, usually below 2.0%. In this scenario, the central bank would likely follow a contractionary monetary policy approach, looking to slow down economic growth in order to ensure inflation rates do not start to climb significantly higher.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Monetary Policy Tools
+
+But how do central banks, on behalf of governments, achieve these expansionary or contractionary monetary policy goals? They have numerous tools at their disposal, of which the main three are changing interest rates, quantitative easing and changing bank reserve requirements. We will look at each of these in turn.
+
+Interest rates
+
+The primary monetary policy tool at the disposal of global central banks is changing the interest rate. In most countries, the central bank controls the interest rate that it lends to commercial banks as a lender of last resort (in the US for example this is known as the discount rate). Changing this interest rate most often has an impact on the interest rate that commercial banks lend to and borrow from their customers.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Quantitative easing
+
+Another tool that has become commonplace in the 21st century is quantitative easing. To simplify, this is when a central bank operates in the short-term bond market by buying and selling assets. The central bank effectively adds money into the banking system by buying assets, and in turn, banks respond by loaning money at lower rates. Or it removes money by selling assets leading to higher rates.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Bank Reserve Requirements
+
+Central banks also have control of bank reserve requirements. These are funds that commercial banks must hold as a proportion of their total customer deposits, to meet their liabilities. Raising reserve requirements restrains bank lending and is a contractionary policy. Lowering reserve requirements releases capital and is an expansionary policy.
+
+How Monetary Policy affects the FX markets
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+The various monetary policy tools have distinctive impacts on currencies, but overall if a policy tool is being used and is expansionary for the economy, it usually causes the currency to weaken, the currency will likely fall in value against other currencies (all else being equal). This is because of two factors that complement each other.
+
+Firstly, the reason that the expansionary tool is being used is that the economy is slowing or indicating the potential for a future slowdown, and there are concerns from the central bank that economic growth is going to move below optimal levels. Lower growth rates make the economy less attractive to invest in; hence the currency falls in value against other currencies.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Secondly, lower potential interest rates in that country's economy are also less attractive for investors and, again a reason for the currency to fall.
+
+Conversely, if a policy is seen as contractionary, it is usually positive for the currency and will see that currency appreciate against other currencies (again, all else being equal). Again, this is due to two factors.
+
+A contractionary tool highlights a strong economy that may however be at risk of overheating, but still highlights strong economic growth and attractiveness to investors and is positive for the currency. Higher interest rates are also a positive for investors, again encouraging a stronger currency.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+This is best summed up below.
+
+Policy tool	Expansionary/Contractionary	Likely currency outcome
+Interest rate rise	Contractionary	Currency rises
+Interest rate cut	Expansionary	Currency falls
+Reduced quantitative easing	Contractionary	Currency rises
+Increased quantitative easing	Expansionary	Currency falls
+Higher reserve requirements	Contractionary	Currency rises
+Lower reserve requirements	Expansionary	Currency falls
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Takeaways
+
+In summary, the main takeaways are:
+
+There are many factors that affect the Forex markets, one of which is monetary policy.
+There are two main types of monetary policy, expansionary and contractionary.
+There are three main monetary policy tools; interest rates, quantitative easing and bank reserve requirements.
+These different tools have different impacts on currencies, but a general rule of thumb is that if a policy is seen as expansionary for the economy, it is usually negative for the currency and will see that currency fall in value against other currencies (all else being equal). Conversely, if a policy is seen as contractionary, it is usually positive for the currency and will see that currency appreciate against other currencies (again, all else being equal).
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

@@ -1,0 +1,661 @@
+SOURCE: https://hmarkets.com/tools/market-analysis/terminal/
+================================================================================
+
+Open main menu
+Home
+>
+Tools
+>
+InsightPro
+>Terminal
+InsightPro for smarter trading
+
+Access the InsightPro terminal from your Hantec Markets client portal.
+
+OPEN AN ACCOUNT
+
+AI-powered trading signals
+
+Take the guesswork out of trading with InsightPro’s high-confidence signals.
+
+In today’s fast-moving markets, having access to the right information at the right time is the key to successful trading. That’s where InsightPro comes in—an all-in-one trading intelligence platform, built to provide real-time insights, actionable signals, and market sentiment analysis, in one place. Access detailed, real-time market intelligence on the top 50 assets, including forex, indices, commodities, and more.
+
+AI-powered trading signals for high-probability market opportunities
+Market sentiment indicators to track trader positioning and market psychology
+One-click trade execution on MT5® to act instantly on insights
+MetaTrader® plugin available so you can receive signals directly in your trading platform
+Daily signals via email and Telegram
+
+Disclaimer: InsightPro offers market data, signals, and insights for informational purposes only and does not constitute financial or investment advice provided by Hantec Markets.
+
+HOME
+ASSETS
+ANALYSISIQ
+Latest Insights
+FILTERS
+Equity
+Currency
+Commodity
+Index
+Crypto
+HOT TRADE IDEA
+AnalysisIQ
+Exp: 04/12/25
+16:00
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+US500
+Direction
+Period
+Stop
+Entry
+Target
+Confidence
+Status
+Stop
+Entry
+Target
+03/12/2025 16:23
+HOT TRADE IDEA
+AnalysisIQ
+Exp: 04/12/25
+10:00
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+XAG/USD
+Direction
+Period
+Stop
+Entry
+Target
+Confidence
+Status
+Stop
+Entry
+Target
+03/12/2025 11:56
+HOT TRADE IDEA
+AnalysisIQ
+Exp: 04/12/25
+10:00
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+FTSE100
+Direction
+Period
+Stop
+Entry
+Target
+Confidence
+Status
+Stop
+Entry
+Target
+03/12/2025 10:45
+HOT TRADE IDEA
+AnalysisIQ
+Exp: 04/12/25
+10:00
+XAU/USD
+Direction
+Buy
+Period
+Intraday
+Stop
+4094.00
+Entry
+4149.00
+Target
+4358.00
+Confidence
+Status
+Buy Limit
+Stop
+4094.00
+Entry
+4149.00
+Target
+4358.00
+03/12/2025 10:36
+HOT TRADE IDEA
+AnalysisIQ
+Exp: 04/12/25
+10:00
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+CL.1
+Direction
+Period
+Stop
+Entry
+Target
+Confidence
+Status
+Stop
+Entry
+Target
+03/12/2025 10:25
+MOST POPULAR
+News Volume
+FTSE100
+30 day average
++45%
+20/11
+02/12
+03/12/2025 05:07
+MOST POPULAR
+News Volume
+EUR/USD
+30 day average
++60%
+20/11
+02/12
+03/12/2025 05:07
+MOST POPULAR
+News Volume
+BRENT
+30 day average
++37%
+20/11
+02/12
+03/12/2025 05:07
+MOST POPULAR
+News Volume
+XRP
+30 day average
++41%
+20/11
+02/12
+03/12/2025 05:07
+PRICE
+Top Loser
+USDBRL
+R$5.3279
+-0.6%
+03/12/2025 01:06
+PRICE
+Top Gainer
+US100
+$25599
++1.2%
+03/12/2025 01:06
+PRICE
+Top Loser
+US2000
+$2476
+-0.7%
+03/12/2025 01:06
+PRICE
+Top Loser
+TSLA
+$428.98
++0%
+03/12/2025 01:06
+PRICE
+Top Gainer
+XAG/USD
+$58.37
++1.8%
+03/12/2025 01:05
+PRICE
+Top Gainer
+LINK
+$14.43
++11.6%
+03/12/2025 01:02
+PRICE
+Top Loser
+BRENT
+$63.614
+-1%
+03/12/2025 01:02
+PRICE
+Top Loser
+BTC
+$93031
++5.4%
+03/12/2025 01:02
+PRICE
+Top Gainer
+AUD/JPY
+￥102.41
++0.4%
+03/12/2025 00:57
+PRICE
+Top Gainer
+APPL
+$286.38
++3.3%
+03/12/2025 00:57
+Most Spoken About Assets
+VIEW ALL
+Asset
+USDBRL
+AUD/CAD
+GBP/CAD
+CHF/JPY
+XAG/USD
+CAD/JPY
+FTSE100
+US500
+GBP/AUD
+EUR/JPY
+Price
+R$5.3279
+$0.91888
+$1.85418
+￥194.242
+$58.37
+￥111.451
+£9692
+$6843
+$2.0179
+￥181.30
+	
+Opportunity
+Bearish
+Bullish
+Bullish
+Bullish
+Bullish
+Bullish
+Bullish
+Bullish
+Bearish
+Bullish
+	
+Price Trend
+Very Bearish
+-80
+Very Bullish
+70
+Very Bullish
+100
+Very Bullish
+80
+Very Bullish
+100
+Very Bullish
+60
+Very Bullish
+100
+Very Bullish
+90
+Bearish
+-20
+Very Bullish
+80
+	
+News Sentiment
+Bearish
+-14
+Neutral
+0
+Neutral
+0
+Neutral
+0
+Bearish
+-4
+Bullish
+3
+Bearish
+-2
+Bearish
+-1
+Neutral
+0
+Bearish
+-6
+	
+Volatility
+Below Average
+Below Average
+Below Average
+Below Average
+Above Average
+Below Average
+Below Average
+Below Average
+Below Average
+Below Average
+	
+News Volume
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+Above Average
+	
+Change (1D)
+-0.55%
++0.14%
++0.26%
++0.22%
++1.74%
++0.16%
+-0.48%
++0.11%
++0.12%
++0.13%
+COLUMNS
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+LEARN MORE
+AnalysisIQ
+VIEW ALL
+XRP
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+22h 53m
+LEARN MORE
+US30
+INTRADAY
+BUY LIMIT
+Entry
+47155
+Target
+47925
+Stop
+46895
+Confidence
+Expires
+22h 53m
+LEARN MORE
+US500
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+22h 53m
+LEARN MORE
+ETH
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+22h 53m
+LEARN MORE
+US100
+INTRADAY
+BUY LIMIT
+Entry
+25235
+Target
+25656
+Stop
+25085
+Confidence
+Expires
+22h 53m
+LEARN MORE
+EUR/JPY
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+USD/CAD
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+LIVE TRADE
+AUD/JPY
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+EUR/GBP
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+LIVE TRADE
+XAG/USD
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+BTC
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+22h 53m
+LEARN MORE
+GBP/USD
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+LIVE TRADE
+DE40
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+USD/CHF
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+FTSE100
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+EUR/USD
+INTRADAY
+BUY LIMIT
+Entry
+1.1610
+Target
+1.1670
+Stop
+1.1595
+Confidence
+Expires
+16h 53m
+LEARN MORE
+GBP/JPY
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+AUD/USD
+INTRADAY
+PREMIUM
+To unlock this trade idea, please sign up for a live account.
+Entry
+Target
+Stop
+Confidence
+Expires
+16h 53m
+LEARN MORE
+XAU/USD
+INTRADAY
+BUY LIMIT
+Entry
+4149.00
+Target
+4358.00
+Stop
+4094.00
+Confidence
+Expires
+16h 53m
+LEARN MORE
+USD/JPY
+INTRADAY
+BUY LIMIT
+Entry
+155.42
+Target
+157.16
+Stop
+154.62
+Confidence
+Expires
+16h 53m
+LEARN MORE
+LIVE TRADE
+How to access InsightPro
+
+InsightPro comes free with your Hantec Markets account. Whether you’re looking for high-probability trade setups, expert market insights, or seamless one-click execution, get the edge you need to trade smarter and more confidently. Open your account today and trade better with InsightPro.
+
+OPEN AN ACCOUNT
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

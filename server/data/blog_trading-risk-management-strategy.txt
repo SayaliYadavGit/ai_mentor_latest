@@ -1,0 +1,386 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/trading-risk-management-strategy/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+The Trading Risk Management Strategy: Best Tips and Tools
+📅 06.06.2022 👤 N Razlozhki
+
+No one enters the trading world expecting to lose money. But unfortunately, it's a reality for many traders. To minimize your losses and protect your profits, it's important to have a risk management strategy in place. Without one, it's easy to make costly mistakes that can impact your bottom line. A sound risk management strategy is essential and involves setting stop losses and choosing the right position size for each trade. In this post, we'll discuss the importance of risk management and outline some tips for developing a strategy that works for you. So, whether you're just starting out or looking to refine your existing approach, you can reduce potential losses by following these simple steps and hopefully maximise potential gains.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Set Rules
+
+Stops-losses
+
+Use Trailing Stops
+
+Trade The Right Position Size
+
+Diversify Risks
+
+Takeaways
+
+Set Rules to Keep Emotions Out of Trading Decisions
+
+ 
+
+The primary reason to have a trading strategy that incorporates a risk management element is to stop you, the trader making poor decisions that are based on emotions rather than facts and proven strategy. The best plan or strategy is doomed to failure unless it is adhered to, and emotions can get in the way. Hence the reason to have a strict trading strategy that defines when, how and where you enter, manage and exit trades. This obedience to a plan is core to any successful trading approach to eliminate unnecessary and disruptive emotional and psychological influences and is why a risk management strategy is so important.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Use Stops-losses to Limit Losses
+
+ 
+
+One of the most important rules to have in place and to adhere to is the placement of stop-losses! A stop-loss is an order with your broker to buy or sell a market when it reaches or exceeds a price that you set. So, for example, if you bought an asset for $200 and wanted to limit your loss on this trade to $10, you would place your stop-loss at $190. If the price of the asset unfortunately fell, if the price went below $190, your trade would be automatically exited, meaning you lock in a loss of $10.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Placing an exit stop-loss when you enter a trade keeps you true and honest to a strategy. It is also an essential part of being able to calculate your Risk/ Reward Ratio, which we will look at below, which is an integral part of any risk management strategy.
+
+However, it is not enough to just use the stop-loss as a reference point for this calculation. The stop-loss must be kept to, there is no point in placing a stop-loss, then when the market moves towards this stop-loss, then move it away, thereby increasing your potential overall loss.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Use Trailing Stops to Protect Your Profits
+
+ 
+
+Alongside using stop-losses to limit your losses, you can also use trailing stops to protect your profits. A trailing stop is a type of stop order that trails behind the current market price as it moves in your favour. The trailing stop automatically adjusts to the changes in market price and follows along at a set distance, or trailing amount below the current market price if you are long, or above the current market price if you are short.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+For example, if you buy an asset at $100.00 and place a trailing stop for an asset initially at $95.00, but set it at $5.00 trailing, then your stop loss order will automatically adjust up to $96.00 if the stock price increases by $1.00 to $101.00. If the stock price decreases, then your stop-loss order will stay at $95.00 for a stop-loss of $5.00.
+
+The trailing stop is a great tool to use to lock in profits as the market price moves in your favour while still protecting against downside risk. It is important to remember that the trailing stop is not a guarantee that your position will be sold at the trailing amount, but rather it is a limit order that will only execute at or better than the trailing amount.
+
+--------------------------------------------------------------------------------
+
+Q: Is Hantec Markets regulated?
+
+Trade The Right Position Size to Optimize Risk
+
+ 
+
+One of the biggest mistakes many traders make, even those with experience, is to trade too large a position size to become overexposed to the market. So, how do you decide on your position size? There are several factors that can determine this, but there are some basic calculations you can make to get a guide to how much you should be trading in any particular trading position.
+
+--------------------------------------------------------------------------------
+
+Q: What regulations does Hantec have?
+
+Trade The Right Position Size to Optimize Risk
+
+ 
+
+One of the biggest mistakes many traders make, even those with experience, is to trade too large a position size to become overexposed to the market. So, how do you decide on your position size? There are several factors that can determine this, but there are some basic calculations you can make to get a guide to how much you should be trading in any particular trading position.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Here we will look at:
+
+The 1% Rule
+
+The Risk/ Reward Ratio
+
+The Hit Rate
+
+ 
+
+The 1% Rule
+
+ 
+
+As a rule of thumb, it is widely accepted that a 1% rule for potential losses on any one trade should be no more than 1% of your total trading account size, the amount that you are willing to lose in total. Many traders add extra rules to this rule, that maybe you do not allow yourself to lose more than 2% on anyone trading day, maybe no more than 5% in a trading week.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+So, for example, if you had a $10,000 account, then you should not look to lose more than $100 on any trade.
+
+ 
+
+The Risk/ Reward Ratio
+
+ 
+
+The Risk/ Reward Ratio is a calculation that measures the ratio of the possible loss from a trade, the Risk, compared to the anticipated potential profit, the Reward.
+
+Risk/ Reward Ratio = potential loss / potential profit
+
+So, if you bought an asset at $200 with a target to take profit at $220, and placed your stop-loss at $190, then your Risk/ Reward Ratio would be as follows.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Risk/ Reward Ratio = potential loss / potential profit
+
+= (200-190)/ (220-200)
+
+= 10/20
+
+=1:2
+
+As a rule of thumb, you would certainly look to enter trades with a Risk/ Reward Ratio of greater than 1:1, so at least looking to make as much as you risk. Ideally, you would set up any trade with a Risk/ Reward Ratio better than 1:2.
+
+To then determine your position size and how much you could lose on any particular trade, you should, first of all, make the above "1% Rule" calculation, and from our example, you would see that you could afford to lose $100 on a trade.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Then, using the next example we used to calculate the Risk/ Reward Ratio, we could see that our potential loss on this trade was $10 for each 1 unit of the underlying asset we had bought.
+
+So, in this example, we could afford to buy 5 units of the asset, which would mean that we would only lose $100 of the trade that went against us. If the trade was profitable and hit our target, we would realise a $200 profit at our calculated Risk/ Reward Ratio of 1:2.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The Hit Rate
+
+ 
+
+The next calculation we are going to look at is the Hit Rate. The Hit Rate is simply the number of profitable (or winning) trades for a trading strategy over a tested and defined period of time, divided by the total number of trades over this period, usually expressed as a percentage.
+
+For example, if you have designed a strategy that over a one-week period produces ten trades, seven of these trades are profitable trades, and three trades result in losses, then the Hit Rate is 7/10, which, expressed as a percentage, is 70%.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+There is generally always a trade-off between the Risk/ Reward Ratio and the Hit Rate, with most strategies either producing a strong Hit Rate, that is, the number of winners compared to number of trades and a lower Risk/ Reward Ratio, or a lower Hit Rate and better Risk/ Reward Ratio. We look at these various measures and, in more detail at the relationship between the Risk/ Reward Ratio and the Hit Rate in our post Risk/Reward Ratios And Hit Rate.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Diversify Risks
+
+Another vital factor when looking at a risk management strategy is to diversify trading risk. Portfolio diversification is an important strategy for reducing risk without sacrificing expected returns. This concept of Modern Portfolio Theory was first formulated by American economist Harry Markowitz in his paper "Portfolio Selection" and has been widely used since its publication in 1952.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Portfolio diversification is a strategy that aims to minimize the risk of investing or trading by spreading your capital across a range of different asset classes. The logic behind diversification is that, by investing or trading in a variety of assets, you can reduce the impact that any single investment or trade has on your overall portfolio. Portfolio diversification is not a guaranteed way to make money, but it can help to reduce the overall risk of your investment portfolio or your trading strategy.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+With a particular focus on trading, portfolio diversification would require not having a number of trades that are positively correlated at the same time. For example, it can be assumed that the US stock market and the UK stock market have a strong positive correlation, they tend to go up and down with each other. So, if you were long both the S&P 500 index (US) and the FTSE 100 index (UK), you would, in fact, have greater exposure to the overall market than just two separate, uncorrelated trades. If following our "1% Rule" as above, you had a 1% long exposure in the S&P 500 and a 1% long exposure in the FTSE 100, you would, in reality, have a 2% exposure. And this is not just the case for two equity indices as in this example. Different asset classes can be positively correlated, for example, the USD/JPY currency pair and the NASDAQ 100.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Trading Risk Management Strategy Takeaways
+
+ 
+
+A risk management strategy is an important tool for traders. It helps to identify and manage risk, set limits on position sizes, and set up solid trading opportunities. A good risk management strategy can help to protect capital, prevent losses, and maximise profits. While there is no foolproof way to prevent losses, a well-designed risk management strategy can give traders a significant edge. As we have looked at, some common risk management techniques include:
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The setting of rules to avoid the influence of emotions
+
+Position sizing to protect capital and to not overtrade
+
+The use of stop-loss orders and trailing stops
+
+The calculation of the 1% Rule, Risk/Reward Ratios and the Hit Rate
+
+Diversifying risks by avoiding over-exposed trading in highly correlated assets
+
+By incorporating these techniques into a risk management strategy, you should be able to improve your overall trading profitability and long-term success.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

@@ -1,0 +1,269 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/trading-bad-habits/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+Trading Psychology: 8 Bad Habits to Avoid When Trading
+📅 03.28.2023 👤 Steve Miley
+
+Trading is an attractive prospect to many as it can be a lucrative "side hustle" that improves your financial health and can even be an interesting and enjoyable way of earning a living. One of the biggest obstacles that traders face is the development of bad habits that can sabotage their success. The article discusses trading psychology and the importance of avoiding bad habits that stem from psychological and cognitive biases. While there are many resources that teach good trading practices, it is crucial to recognize and address non-learned behaviours that can negatively impact trading performance.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Comfort Zones
+Overconfidence
+Resulting
+Not Sticking to Your Guns
+Sticking To Your Guns
+Anchoring
+Confirmation Bias
+Survivor Bias
+Dealing with Biases
+Trading Psychology Takeaways
+
+1. Comfort Zones
+
+Fear of the unknown often keeps traders from venturing outside their comfort zone, leading to only trading familiar stocks and industries. This approach can result in holding onto losing stocks for too long and missing out on more profitable opportunities. However, with proper research, leaving one's comfort zone can be beneficial. The key takeaway is that traders need to overcome the fear of the unknown to explore new opportunities and enhance profitability.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+2. Overconfidence
+
+Overconfidence can lead to reckless trading decisions, even if the underlying strategy is good. Traders can become too confident after a single big payout, leading to increasingly risky trades and greater potential for losses. The key takeaway is that traders should be aware of the impact of overconfidence and avoid making impulsive trading decisions based on a single win.
+
+3. Resulting
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Resulting is the process where traders attribute their profits solely to their own ability but losses to external factors. This bias can be harmful as it fails to highlight issues with their own behaviour and trading strategy. It is important to be neutral when evaluating trades, as occasionally, poorly performing trades can be attributed to external factors. It is a good idea to evaluate decision-making rather than outcome, as the latter can be subject to randomness. The key takeaway is that traders should recognize and address attribution bias to make more objective evaluations of their trading decisions.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+4. Not Sticking to Your Guns
+
+"Not sticking to your guns" is the issue of indecisiveness in trading, where traders abandon their current strategy for a potentially more profitable one without proper research. This can be harmful as it may lead to ineffective trading and losses. It is best to stick to a sector or instrument that traders are familiar with and have thoroughly researched. Traders should avoid jumping into new strategies without proper research and should stick to what they know to make informed and effective trading decisions.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+5. Sticking to Your Guns
+
+Slightly counterintuitively, we next have the issue of sticking to an ineffective strategy for too long. Traders may have done extensive research and formulated a strategy, but for some reason or another, it is not working. Instead of reflecting and adapting, they continue with the strategy, thinking they have done everything right. However, traders should be evaluative and make necessary changes, even if they're just minor oversights that need adjusting. Effective research is essential, but traders should always be willing to adjust their strategies if they are not working.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+6. Anchoring
+
+Traders can fall into the trap of anchoring, where they focus on certain sources of information while ignoring others. This focus can be as the result of any bias (including political and personal). This can affect traders' decisions on their strategies and can lead to missed opportunities. It is important to evaluate the veracity of all information sources and the information that source is conveying, regardless of personal opinions.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+7. Confirmation Bias
+
+In a similar vein, another issue that traders face is confirmation bias, which is the tendency to stick to information that confirms their own beliefs. This is slightly different from anchoring, which is more systematic, as confirmation bias is on a more individual basis. For instance, let's say you believe there is an asset bubble forming in a certain market, and you look for information surrounding this hypothesis. If 9 out of 10 news sources say otherwise but you decide to believe the 10th, this would be an example of confirmation bias. To avoid this bias, it is important to embrace information that points to the contrary and evaluate it separately.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+8. Survivor Bias
+
+The last concept to consider is the idea of survivorship bias. This phenomenon can be illustrated by an example from WWII, where planes that returned from battle showed bullet holes all over the aircraft except around the engines. As a result, the air force believed they should reinforce the areas with bullet holes and not the engines, but this was not an accurate decision as aeroplanes hit in the engines did not return home. This concept can also be applied to markets, where traders look for indicators in markets before they blow up, but this approach only focuses on markets that have performed particularly well and not all stocks. Consequently, traders may overestimate the profitability of a market based on the indicator, which is not representative of all stocks.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Dealing with Biases
+
+The article discussed how our psychology can affect our trading on a subconscious level, and being aware of this is the first step to making positive changes in our trading practices. One suggestion for overcoming these bad habits is to remove biased inputs and focus on simple strategies that are based on objective decision-making. Admittedly, this is much easier said than done, but even if you are not perfect, you are still putting yourself in a strong position moving forward. Additionally, it is important to have a good understanding of how the markets operate and move in real-time in order to reduce fear and make informed decisions. To further improve our trading, we should identify and address our bad habits, such as resulting in overconfidence. A good example of one such technique is to keep a trading journal so you can critically analyse your past decisions. Finally, we should be willing to take breaks from trading when needed and engage in activities that promote relaxation. All of these ideas require discipline and dedication, but the payoff of becoming a consistently profitable trader is worth it.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Trading Psychology Takeaways
+
+We have discussed the impact of psychological biases on traders and how you can avoid bad habits that can sabotage their success. The article outlines 8 common biases that can affect all traders. The key takeaway is the need for awareness of these biases and errors to recognize them when they arise, and other strategies for dealing with them should also be explored. Removing biased inputs and focusing on simple strategies based on objective decision-making is an effective way to overcome biases, but not being too stuck in your own ways is also key. Additionally, you should always be willing to take breaks from trading when needed and engage in activities to reduce stress and improve focus and adaptability.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

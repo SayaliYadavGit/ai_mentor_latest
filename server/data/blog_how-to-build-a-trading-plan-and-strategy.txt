@@ -1,0 +1,448 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/how-to-build-a-trading-plan-and-strategy/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What Forex products does Hantec offer?
+
+Open main menu
+How to Create a Forex Trading Plan: 10-Steps Guide to Success
+📅 04.12.2022 👤 N Razlozhki
+
+The trading world is exciting, and CFD (Contract for Difference) and Forex are the popular choices. The path to success in trading is not easy, but it is achievable. While the commitment and hard work needed along the trading path may seem difficult, there are steps that can help you on your way to being a top trader! Considerable effort goes into becoming a successful trader, and although you may read many "get rich quick" stories, don't let this fool you into thinking it can only be done in a quick and likely risky way; there are plenty of safer paths and strategies too.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+For those who want more information on how they might start their journey as traders, there are a few things that need careful thought before action. And one of them is to think about a trading strategy or plan.
+
+In this article, we are going to look at how to build a trading plan or strategy, with a focus on:
+
+Education
+
+Types of analysis
+
+Timeframes
+
+Types of strategy
+
+Which market or markets to trade?
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Trade direction
+
+Trade entry
+
+Trade exit: Take profit/ stop-loss
+
+Risk management
+
+Keeping a trading journal
+
+Top trading strategy building takeaways
+
+ 
+
+Education
+
+ 
+
+To be successful in anything, education is critical! To succeed in the world of trading, it is essential to have an education in the fundamentals of markets and, ideally also in technical analysis. You can find numerous articles that can help you gain this knowledge at the Hantec Learning Hub. Whether you're just starting out in the markets or looking for a new perspective, our articles will help give insight into what it takes to be successful as a trader. It is important to have a good understanding of the macroeconomic fundamentals and geopolitical influences behind global financial markets when starting out as an aspiring trader.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Types of Analysis
+
+ 
+
+There are three main types of analysis that you should look to educate yourself about when building a trading strategy:
+
+Technical analysis
+
+Fundamental analysis
+
+Sentiment analysis
+
+ 
+
+Technical Analysis
+
+ 
+
+Technical analysis is a tool that traders use to evaluate financial markets and make trading decisions. It is based on the idea that market prices move in waves and cycles and that by analysing past price movements, it is possible to predict future price behaviour.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Technical analysts use charts to identify patterns in price data, which can then be used to generate buy or sell signals. Charting is a graphical representation of price movement over time. There are many different technical indicators that can be used for technical analysis, and traders often use multiple technical indicators to make trading decisions.
+
+While technical analysis cannot guarantee success in the financial markets, it can be an important part of a trader's toolkit. By understanding technical analysis, traders can gain a better understanding of the market and make more informed trading decisions.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Fundamental Analysis
+
+ 
+
+The fundamental analysis approach to analysing the financial markets is the study of macroeconomic and geopolitical factors that may impact price. This can include factors such as inflation, interest rates, employment levels, and political stability. By understanding how these factors may affect the supply and demand for security, traders can make more informed decisions about their trading strategies.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Sentiment Analysis
+
+ 
+
+An often-overlooked form of analysing global financial markets is sentiment analysis. Sentiment analysis is a method of measuring the mood or tone of a group of people, typically by analysing their written words. In the financial markets, however, sentiment analysis is used to make trading decisions based on the collective mood of market participants.
+
+Several different methods can be used for sentiment analysis, but one of the most popular is to use sentiment indicators. These sentiment indicators consider a range of factors such as social media sentiment, analyst recommendations, and insider buying and selling activity. By taking all these factors into account, sentiment indicators can provide valuable insight into market sentiment. By analysing sentiment, traders can get an idea of which way the market is moving and make more informed trading decisions.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Timeframes
+
+ 
+
+The time frame over which you hold your trade is a key factor to your trading approach and strategy. This trading time frame may be restricted by the time available to you to trade. For example, a day trader needs to be able to watch markets very closely and will spend all day analysing market price action and trading multiple times through the day with their trading plan. Whilst a swing or position trader, who would typically keep on trades for several days or even several weeks, is able to spend less time actively trading.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Types of Strategy
+
+ 
+
+There are many different types of trading strategies, including, but not limited to:
+
+Swing and Position Trading
+
+Day Trading
+
+Price Action Trading
+
+Algorithmic Trading
+
+Event-Driven Trading
+
+And rather than go into depth on these strategies, you can read more about these different types of trading strategies in our article 5 Best Trading Strategies for Every Trader.
+
+When determining which trading strategy might suit you best, there are numerous factors you may wish to consider, including:
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The time you are able to devote to trading
+
+Your trading goals and aims
+
+Your personal make-up and psychology
+
+What trading strategy "feels right"
+
+How much time you can devote to trading is a key first question in deciding what type of strategy you may wish to build. Are you just trading part-time around your main job? Or can you devote all day to trading and are looking to make trading your main source of income. Most traders start of trading alongside their current employment and if they are successful look to become full-time traders. But if you are going to be confined to only certain times of the day to trade, or to do your strategic analysis and implementation, then you need to manage your strategy.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+HERE is a summary of the various types of trading strategy, time spans and trading time period for each strategy.
+
+Trading Strategy Type	Time Span	Trading Time Period
+Swing and Position Trading	Short/ intermediate term	days, weeks
+Day Trading	Short-term	minutes, hours
+Price Action Trading	Short/ intermediate term	minutes, hours, days, weeks
+Algorithmic Trading	Very short-term (usually)	seconds, minutes
+Event-Driven Trading	Very short-term/ short-term	seconds, minutes, hours
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+What are your trading objectives? Like the time factor above, are you looking to initially just make some top-up income or is the goal to be a professional trader? This decision may influence your choice on what type of strategy you choose. As a basic rule of thumb, the shorter the time frame you trade, the greater the possibility for large profits. This is because you are taking more moves out of the market, therefore the more likely to be able to be profitable to the extent to trade as a full-time occupation. But equally, this will need your full attention, so is a full-time job!
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Who you are and what you bring to trading will have a significant impact on which type of trading strategy you choose and prefer? Are you mathematical and like looking at charts? Or does analysing the macroeconomics and fundamentals of a market appeal more to you? Connected to your personal psychology and make-up is what trading strategy "feels right". Some strategies may just "click" with you and feel right, whilst others may leave you scratching your head.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Which Market or Markets to Trade?
+
+ 
+
+An extremely important decision. Which markets will you trade and base your trading plan on? You may build a strategy that works across multiple assets classes. Or the plan may just suit one asset class, like Forex. Or, within an asset class, you might find that your strategy only works with a specific market, like Gold in the commodity space. It may be that it is through trial and error, through testing and backtesting, you are able to decide which markets is best to apply your trading strategy.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Trade Direction
+
+ 
+
+Once you have decided on what type of trader you are looking to be, over which time frame and what type of strategy you are looking to use with what type of analysis, the next key decision that needs to be made from your analysis is what direction you are going to place the trade in. That is to say, are you a buyer going long, or are you a seller going short? This sounds obvious, but how your trading plan sends signals that triggers you to buy or sell a market is critical.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Trade Entry
+
+ 
+
+Once your plan has given you a buy or sell signal, the next step is when to enter long or short. Do you buy or sell immediately the strategy gives you the signal? Is there a time delay where you wait for the signal to be confirmed? Is the signal a price signal, so you enter when the market hits or breaks through a certain price level? These are all questions that need to be answered when building your plan.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Trade Exit: Take Profit/Stop-loss
+
+ 
+
+Once you have entered a trade, or even before, placing a stop loss is critical. The stop loss is a money management tool that you should use to avoid losses. It's important not just to place the stop loss where you don't want to lose too much money, but to place at a point where your view of the market has changed, and you no longer want to hold the position. Placing the stop loss at an appropriate level ensures good risk management so it is essential.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Similarly, a take-profit point or target level for a trade is critical to trading success and any healthy trading plan.
+
+ 
+
+Risk Management
+
+ 
+
+Risk management is an often-overlooked aspect of trading by the newbie trader and probably one of the most important aspects of trading. The consequences of losing money on an open position are serious, so it's important to always calculate the risk before making trading decisions. A good rule of thumb is that you should never put more than 1% of your funds at risk when placing any trade. You should also calculate the Reward to Risk Ratio and Hit Rate over time to improve your risk management. You can read more about these trading metrics in our article Risk/Reward Ratios and Hit Rate.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Keeping a Trading Journal
+
+ 
+
+Data is key when trading, and analysing your data, plus your mood and psychology, is an important part of building a successful trading strategy. The best way to learn from your mistakes and successes is by keeping a trading journal. Not only will it help you identify what went right or wrong with any particular trade, but it also allows for an analysis of how well-suited certain strategies are in general so that they can be refined and improved upon over time.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Top Trading Strategy Building Takeaways
+
+ 
+
+If you can successfully implement these factors into a trading strategy, then you will be on your way to a more successful trading journey. And as you can see from the table below, there are no cutting corners when building your trading strategy. Most of the above factors required to build a trading plan are "musts".
+
+ 
+
+Strategy factor	Must/ optional
+Education	Must
+Types of analysis	Must
+Timeframes	Must
+Types of strategy	Must
+Trade direction	Must
+Trade entry	Must
+Trade exit: Take profit/ stop-loss	Must
+Risk management	Must
+Trade journal	Optional
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+So, there is no time like the present, why not start to build and test your trading strategy using a Hantec demo account or, better still, to test in a live example?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+So, there is no time like the present, why not start to build and test your trading strategy using a Hantec demo account or, better still, to test in a live example?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

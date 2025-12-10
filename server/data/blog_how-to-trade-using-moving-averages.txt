@@ -1,0 +1,337 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/how-to-trade-using-moving-averages/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: How do I open an account?
+
+Open main menu
+How to Trade Using Moving Averages: Ultimate Guide
+📅 06.16.2022 👤 N Razlozhki
+
+They can help you identify buy and sell signals, as well as trends in the market. In this post, we'll cover how to use moving averages in your trading strategy. We'll also look at some tips for using them effectively. Let's get started!
+
+We will start with an explanation of what moving averages are, the different types of moving averages and how they are calculated. We will look at how to use moving averages in trend analysis and for support and resistance. Finally, we will conclude with how you can use moving averages effectively in your trading.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+What Is a Moving Average?
+Different Types of Moving Average and How To Calculate Them
+How To Use Moving Averages in Your Trading?
+Moving Average Top Takeaways
+
+ 
+
+What Is a Moving Average?
+
+ 
+
+A moving average is a technical analysis tool that helps smooth out price action by filtering out the "noise" from random price fluctuations. It is calculated by taking the average of a market's price over a set period of time. The moving average can be applied to any data series, including stocks, equity indices, commodities and Forex. Moving averages are often used to identify trends or support and resistance levels. They can also be used to generate buy and sell signals. There are many different types of moving averages, including simple moving averages, weighted moving averages and exponential moving averages. The choice of which moving average to use depends on the trader's strategy, goals and trading style.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Different Types of Moving Average And How To Calculate Them
+
+ 
+
+There are three main types of moving averages that are commonly used by traders:
+
+Simple Moving Average (SMA)
+
+Weighted Moving Average (WMA)
+
+Exponential Moving Average (EMA)
+
+Simple Moving Average (SMA)
+
+ 
+
+A simple moving average (SMA) is calculated by adding up the last n prices and then dividing by n. The SMA is one of the most popular technical indicators used by traders and investors.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Calculation
+
+A SMA for n periods is calculated as below:
+
+SMA = (P1 + P2 + ...... + An) / n
+
+Where Pi is the data point in the ith period.
+
+ 
+
+Weighted Moving Average (WMA)
+
+ 
+
+Weighted moving averages (WMA) are a type of moving average that places more importance on recent data points. Whereas a SMA takes the average of a given set of data points, a WMA assigns different weights to each data point, with more recent data points receiving higher weights. This makes a WMA more responsive to changes in the more current, underlying data, which can be useful for trend-tracking purposes.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Calculation
+
+A WMA for n periods is calculated as below:
+
+WMA = (P1*W1 + P2*W2 + ...... + Pn*Wn)/ n
+
+where Pi and Wi are the data point in the ith period and weighting, respectively.
+
+ 
+
+Exponential Moving Average (EMA)
+
+ 
+
+The exponential moving average (EMA) is a type of moving average that is similar to an SMA and even more akin to a WMA, except that more emphasis is given to the most recent data. This means that exponential moving averages can often react more rapidly to recent changes in price. EMAs are also sometimes referred to as exponentially weighted moving averages. The EMA calculation is slightly more complex than for the SMA or WMA.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Calculation
+
+An EMA for n periods is calculated as below:
+
+EMA = (C - P) * (2 / (n + 1)) + P
+
+where C and P are the current data points and an exponential moving average of the previous period, respectively (SMA used for the first period).
+
+ 
+
+How To Use Moving Averages In Your Trading?
+
+ 
+
+We will look at three main ways we will look at to use moving averages in your trading:
+
+Trend direction
+
+Support and resistance
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Moving average crossovers
+
+ 
+
+Trend Direction
+
+ 
+
+Quite simply, the direction that the moving average is pointing, up, down or sideways, tells us the underlying trend of the market. The longer the moving average, that is, the bigger the number of data points, the more it will tell us about a longer-term trend. So, on a daily chart, a 10-day moving average will tell us about the short-term trend, but a 200-day moving average will tell us more about the much longer-term trend. In addition, if we look at a short-term time period, so a 30 or 5-minute chart, this is going to tell us more about intraday trend direction.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Support And Resistance
+
+ 
+
+A moving average can be used as a simple form of support and resistance. When the price is above the moving average, it can be seen as support. Similarly, when the price is below the moving average, it can be seen as resistance. So, you may design a trading strategy that includes a signal for when the price breaks above or below a certain moving average on a defined time period of the chart. The length of the moving average and the time frame of the chart will depend on your strategy. And you may use the moving average as support and resistance as a primary factor in your strategy, or it could be used as an additional qualifying factor for a bigger strategy using other indicators.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Moving Average Crossovers
+
+ 
+
+A moving average crossover occurs when one moving average crosses above or below another moving average of a differing length and can be used as a signal of a trend reversal. When a shorter (lower number of calculated period n) moving average crosses above a longer moving average (higher number of calculated period n), this can be used as a buy signal. And when a shorter moving average moves down below a longer moving average, this can be seen as a sell signal. Again, the lengths of two moving averages and the time frame of the chart will depend on your own personal trading strategy and should be back-tested to optimise which moving average lengths to use.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Moving Average Top Takeaways
+
+ 
+
+Moving averages are one of the most commonly used technical indicators in trading. In this blog post, we've explained what a moving average looked at three different types of moving averages, plus how to calculate them. We have also discussed how to use them in your trading. If you want to learn more about technical analysis, go to our Learning Hub and for other helpful trading hints, be sure to check out our other blog posts.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

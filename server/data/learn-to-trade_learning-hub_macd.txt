@@ -1,0 +1,282 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/learn-to-trade/learning-hub/macd/
+
+Topics: CFDs, MetaTrader 4
+
+
+Q: How do I open an account?
+
+Open main menu
+Home
+>
+Education
+>Learning hub>MACD
+Moving Average Convergence/Divergence
+
+Better understand the moving average convergence/divergence (MACD), a key technical analysis indicator that captures changes in the momentum of a price movement. It integrates data from different moving averages to surface opportunities around support and resistance levels.
+
+Education Category
+Learning hub
+
+Written by Aaron Akwu, Head of Education Hantec Markets
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+What is MACD Indicator?
+
+MACD stands for Moving Average Convergence Divergence. It is a technical analysis tool used to analyse trends in stock prices. The MACD line is the difference between two exponential moving averages of closing prices. The Signal line is a moving average of the MACD line. The Average Convergence Divergence (MACD) is a momentum indicator that is used to identify changes in the strength, direction, momentum, and duration of a trend in a stock's price. The MACD line is plotted against the signal line, which is a 9-day exponential moving average of the MACD line. When the MACD line crosses the signal line, it is an indication that the trend is changing.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+MACD Formula
+
+The MACD formula is based on the difference between two exponential moving averages (EMAs) of different periods.
+
+Here's the MACD formula:
+
+MACD Line = 12-day EMA - 26-day EMA
+
+Signal Line = 9-day EMA of the MACD Line
+
+Histogram = MACD Line - Signal Line
+
+Where:
+
+EMA stands for Exponential Moving Average, which is a type of moving average that places more weight on recent prices compared to older prices.
+The 12-day EMA represents the fast-moving average, while the 26-day EMA represents the slow-moving average.
+The Signal Line is a 9-day EMA of the MACD Line.
+The Histogram represents the difference between the MACD Line and the Signal Line, and it is plotted as a bar chart that oscillates above and below a zero line.
+How to Read MACD Average Crossovers
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+Reading MACD Average Crossovers is a great way to identify potential trading opportunities. The Moving Average Convergence Divergence (MACD) indicator uses two different moving averages to measure momentum in the markets. When the two moving averages cross over each other, it is known as a signal line crossover. A bearish crossover occurs when the shorter-term moving average crosses below the longer-term moving average. This is a bearish signal, indicating that momentum is moving in a downward direction. On the other hand, a bullish crossover occurs when the shorter-term moving average crosses above the longer-term moving average. This is a bullish signal, indicating that momentum is moving in an upward direction.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+In addition to signal line crossovers, traders can also look for bullish or bearish divergences. A bullish divergence occurs when the MACD indicator is making higher highs, while the price of the underlying asset is making lower lows. This is a bullish signal, indicating that the asset may be due for a price increase. On the other hand, a bearish divergence occurs when the MACD indicator is making lower lows, while the price of the underlying asset is making higher highs. This is a bearish signal, indicating that the asset may be due for a price decrease.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+By paying attention to signal line crossovers and divergences, traders can identify potential trading opportunities and make informed decisions about when to enter and exit the market.
+
+How to Read a MACD Histogram
+
+Reading a MACD histogram is a great way to identify price movements and potential trading opportunities. The MACD histogram is a visual representation of the difference between the MACD line and the signal line. The MACD line is the 12-day exponential moving average (EMA) minus the 26-day EMA. The signal line is the 9-day EMA of the MACD line. The MACD histogram is the vertical distance between the MACD line and the signal line.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+When the MACD histogram is above the zero line, it indicates that the 12-day EMA is above the 26-day EMA and the market is in an uptrend. Conversely, when the MACD histogram is below the zero line, it indicates that the 12-day EMA is below the 26-day EMA and the market is in a downtrend.
+
+Bullish divergences occur when the MACD histogram is making lower lows while the price is making higher lows. This indicates that the momentum of the market is weakening and that the price could be due for a reversal. Conversely, bearish divergences occur when the MACD histogram is making higher highs while the price is making lower highs. This indicates that the momentum of the market is increasing and that the price could be due for a reversal.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+By reading a MACD histogram, you can identify potential price movements and trading opportunities. By understanding the relationship between the MACD histogram and the price movement, you can gain a better understanding of the market and make more informed trading decisions.
+
+What are MACD Divergence?
+
+MACD Divergence is a lagging indicator that can be used to help identify potential buy and sell signals in the stock market. It is based on the Moving Average Convergence Divergence (MACD) chart, which is a technical indicator that compares two moving averages of a security's price. When the MACD chart shows a divergence, it can be a sign of a potential buy or sell signal. A buy signal is when the MACD chart shows a divergence between the two moving averages, indicating that the security's price is likely to rise. A sell signal is when the MACD chart shows a divergence between the two moving averages, indicating that the security's price is likely to fall. By watching for these divergences, investors can gain insight into when to enter and exit the market.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+What are MACD Convergence?
+
+MACD convergence refers to a situation where the MACD line and the signal line move towards each other, eventually crossing over. This indicates a potential trend reversal in the market, as the momentum is shifting in the opposite direction.
+
+Convergence occurs when the MACD line is moving closer to the signal line, while both lines are moving in the same direction. This implies that the trend is strong and likely to continue, but the momentum is slowing down.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+There are two types of MACD convergence: bullish convergence and bearish convergence. Bullish convergence occurs when the MACD line moves towards the signal line from below, while the price continues to move downwards. This indicates that the downtrend may be losing momentum and a potential reversal to the upside is possible. Bearish convergence, on the other hand, occurs when the MACD line moves towards the signal line from above, while the price continues to move upwards. This indicates that the uptrend may be losing momentum and a potential reversal to the downside is possible.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Centerline Crossovers
+
+The centerline of the MACD is the point at which the MACD line and the signal line intersect. When the MACD line crosses above the centerline, it indicates that the stock price is gaining momentum to the upside. This is a bullish signal. On the other hand, when the MACD line crosses below the centerline, it indicates that the stock price is losing momentum and may start to trend downwards. This is a bearish signal.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Centerline crossovers can be used to confirm trends or to signal potential trend reversals. For example, if a stock is in a bullish trend and the MACD line crosses above the centerline, it can be seen as confirmation of the bullish trend. Conversely, if a stock is in a bearish trend and the MACD line crosses below the centerline, it can be seen as confirmation of the bearish trend.
+
+Limitations of MACD Indicator
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+One of the main limitations of MACD is that it is a lagging indicator. This means that it may not provide timely signals for traders to take action. Since MACD is based on moving averages, it takes into account past price movements rather than current or future ones. As a result, MACD may not be able to provide accurate signals in fast-moving markets or during periods of high volatility.
+
+Another limitation of MACD is that it can be prone to false signals. MACD generates signals when the MACD line crosses the signal line, indicating a change in trend. However, these signals can be misleading if the market is in a sideways or ranging market, as there may be frequent crossovers that do not indicate a significant change in trend. Traders need to be aware of this and use other indicators or analysis to confirm MACD signals.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Additionally, MACD may not work as well in certain market conditions or asset classes. For example, some traders may find that MACD works better for stocks than for currencies or commodities. The effectiveness of MACD may also depend on the time frame being used, as different time frames can produce different signals and results.
+
+New To trading
+Novice Trader
+Intermediate Trader
+Trading Signals with the RSI
+MACD
+Momentum Indicators: Stochastics
+Unlocking Success: The Power of a Trading Journal
+Experienced Trader
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about CFDs?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

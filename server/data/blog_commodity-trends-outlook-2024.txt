@@ -1,0 +1,366 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/commodity-trends-outlook-2024/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What account types does Hantec offer?
+
+Open main menu
+Commodity Trends Outlook 2024: Expectations and Forecasts
+📅 02.29.2024 👤 Steve Miley
+
+In 2023, commodities' overall performance was not good. However, for 2024, despite ongoing geopolitical conflicts in Ukraine and the Middle East, forecasts point to a less volatile market. This conflict has created issues at crucial global trade routes, leading to incidents like attacks in the Red Sea and transit restrictions in Panama due to the region's drought. As a result, it is a significant factor in the 2024 forecasts.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The instruments that experienced the highest increase in value during 2023 were:
+
+GOLD:13.10%
+Copper: 1.19%
+
+Unlike what is done by:
+
+Lithium: 72.49%
+Nickel: 43.13%
+
+What will be the main factors affecting agricultural commodities? The war in Ukraine and the evolution of the "El Nino" phenomenon will be the primary factors causing variation. These climatic factors, particularly the "El Nino" phenomenon, can significantly impact Argentina's harvest, including crops such as soybeans, wheat, corn, sunflower, sorghum, and barley.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+What is the Expectation for Base Metals?
+
+There could be a slight increase in the prices of aluminium and nickel, which Russia mainly supplies. However, copper may not perform well in the short term due to China's poor economic growth and a crisis in the construction sector. Despite being a key element in the electrification of the economy, copper presents positive prospects only in the medium to long term. Can you tell me which raw materials have experienced the greatest price variation in the last three years?
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+2021
+
+Lithium: 442.80%
+Coal: 160.10%
+Petroleum: 55.01%
+Gas Natural: 46.91%
+Aluminium: 42.18%
+
+2022 
+
+Lithium: 72.49%
+Nickel: 43.13%
+Gas Natural: 19.97%
+Corn: 14.37%
+Platinum: 10.90%
+
+2023
+
+GOLD: 13.10%
+Copper: 1.19%
+Aluminium: -0.17%
+Silver: -0.66%
+Platinum: -7.67%
+
+Source: TradingView - Economist Intelligence Unit (EIU)
+
+Energies
+
+In 2022, oil prices soared up to $126 per barrel, thanks to a thriving post-pandemic recovery and the onset of the war in Ukraine. This was a remarkable year for the "black gold", which made it necessary to reconsider the fundamentals affecting oil prices' evolution. OPEC meetings and production cuts were implemented to support the balance. However, the Israel-Hamas conflict and other factors weighed down its performance in 2023, causing the prices to drop to $64.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+In 2024, there may be significant changes in the US Federal Funds' interest rates, with a possible reduction of 100 to 125 basis points, as per the funds' records, as opposed to the expectations of traders who predict three cuts in the coming months. Meanwhile, the European Central Bank may also cut its interest rates, following the US Federal Reserve and the Bank of England, to support economies that show a deficit in growth and employment. According to the Chinese central government's initial estimates, the economy may grow by approximately 5% by the end of 2024. However, many believe this growth is only possible with the help of new stimuli and low-interest rates, which aim to encourage an economy that is currently struggling and at risk of contraction.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Graphic: International Energy Agency
+
+The low price point of $64 has been a significant factor in assessing advances in oil prices from 2021 until now. Despite experiencing a 50% price decrease between May 2022 and April 2023, oil prices show a trend of increasing lows and highs. This trend is evident in the recent upward momentum from $67 to $93, a 40% increase, sparking speculation of new upward movements that could be measured using Elliot waves. Some projections suggest that oil prices may reach $110 per barrel soon. However, it is essential to note that this remains highly speculative.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 5?
+
+USOil 1W Chart - Hantec Markets MT5 Platform
+
+Natural gas prices face pressure due to the global economic slowdown and projected low demand. Higher-than-expected reserves of natural gas further compound this pressure in Europe despite the winter season in the northern hemisphere, which typically results in an increased demand for heating homes. Additionally, European leaders are pushing for the resurgence of nuclear energy, further impacting the prices of liquefied natural gas (LNG). During the first half of the year, investors will be closely monitoring the following factors:
+
+--------------------------------------------------------------------------------
+
+Q: How do I open an account?
+
+The strong gas reserves in Europe ahead of the upcoming heating season
+The push for low emissions and energy security by European leaders which may lead to a revision of their commitment to move away from nuclear power
+Increased export volumes of Norwegian gas to Europe following unforeseen interruptions and maintenance work.
+
+Volume & Open Interest Natural Gas - CME Group
+
+Natural Gas prices have experienced a significant decline in the first quarter of this year. The prices have lost about 30% in total, with drops of -13.76% in January, -12.32% in February, and -4% in March. Currently, the prices are close to the lows of 2020. Traders might expect short-term bullish reactions due to the support level around $1.50, which could slow down the decline. However, the medium and long-term conditions suggest a negative scenario for commodity prices, which could lead to decreasing lows and a greater risk of falls than what has already been recorded.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 5?
+
+Natural Gas 1W Chart - Hantec Markets MT5 Platform
+
+There is a noticeable difference between the number of buyers and sellers in the European market, as Asian operators have been attracted by the low prices offered by current contracts. This is due to the surplus of reserves in the region, which has caused concern among those who doubt whether Europe will be able to replenish its reserves for the next heating season. Although stockpiles have not decreased as much as expected this winter, no arrangements are being made to ensure restocking, which could lead to a drop in prices due to a lack of supply when demand increases during the colder months.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Eurostat, National Statistics Office UK, Institute for Energy, Economics and Financial Analysis
+
+Price Expectations
+Natural Gas
+
+Gas demand worldwide is expected to grow by an average of 1.6% annually between 2022 and 2026. This is lower than the previous five-year average of 2.5% per year from 2017 to 2021. Gas consumption in Asia, the US, and Europe peaked in 2021 and is projected to decrease by 1% annually until 2026. Europe's decline, in particular, is due to the REPowerEU plan and increased adoption of renewable energy sources. Considering these trends, it is unlikely that we will see a bullish market for natural gas.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Metals
+
+As for metals, conflicts in the global economy can negatively impact the performance of safe-haven investments. The probability of a "soft landing" for the US economy in the second half of the year is only 20%, and as conflicts worsen, the general outlook may become bleak. The labour market's slowing down is causing doubts in the macroeconomic environment despite a buoyant period between 2022 and mid-2023. Precious metals, driven by central bank demand and conflicts in the Middle East and Western Europe, are hitting new all-time highs. Uncertainty around the Fed's strategy is affecting the metals market, but it continues to trend upwards. A bullish scenario is expected for 2024, with only monthly closes below $2,080 a barrel, potentially invalidating this projection.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 5?
+
+GOLD 1M Chart - Hantec Markets MT5 Platform
+
+Peru and Chile are the top countries in the world for copper extraction and exports, with Chile having the largest share at 27% and Peru with 10%. The Chilean Copper Commission (Cochilco), a state-run organisation, has increased its copper price forecast for 2024 to $3.85 per pound, up from $3.75. This is due to a few factors, including:
+
+Normalisation of monetary policy
+Increasing demand for electric vehicles and energy transition.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Given the favourable conditions, Cochilco anticipates the average copper prices to reach $3.90 in 2025. Chile expects production to increase by 5.7% in 2024 to 5.63% million metric tons, primarily owing to the higher production of the Quebrada Blanca II project by Teck. Chile also expects to produce 6 million tons in 2025. Global copper production is expected to rise by 5.8% to 22.79 million tonnes in 2024 and to 23.50 million tonnes in 2025. Global demand for copper is predicted to rise by 3.2% to 2.13 million tonnes by 2024.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Over the past 45 years, the Chinese economy has grown by more than 8%. However, growth has been marked by a slowdown between 2020 and 2022. The ambitious growth target of around 5% seems achievable, but no significant stimuli demonstrate greater momentum in the recovery process. In the third quarter of 2023, growth was 4.9%, which exceeded expectations. Still, the consumer confidence index in China is slowing down, indicating a less prosperous scenario for the first few months of 2024.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The real estate sector accounts for 30% of China's GDP, but in the last three years, more than 50 construction companies have gone bankrupt or defaulted on their debts. The sector is caught in a vicious circle, as the fall in confidence indicates a lower purchase option among taxpayers. The real estate crisis has caused confidence to plummet to 86.5 points, representing a drop of more than 26% in two years.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 5?
+
+The biggest problems facing the Chinese economy today and in the future are the abundance of liquidity and the lack of consumption among citizens. This is due to the huge fiscal deficit. According to experts, by 2028, public debt will be above 100% of GDP, compared to 40% in 2015 and 77% in 2022.
+
+China's annual quarterly GDP - TradingEconomics.com
+
+HGCopper 1W Chart - Hantec Markets MT5 Platform
+
+Agriculture
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The weakening of the "El Nino" weather pattern is expected to affect agricultural production in 2024. The meteorological phenomenon "La Nina" is expected to develop with a probability of 55% between June and August, which will mainly impact the primary sector. However, the "El Nino" phenomenon is expected to end between April and June, which will provide relief for producers and boost the world economy.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+In 2023, the prices of white agricultural commodities, including coffee, cocoa, sugar, corn, and soybeans, increased by 12.3% compared to 2022, according to the Dow Jones-UBS index. This increase in prices was due to the Russian-Ukrainian conflict. However, during 2023, there was less pressure on the prices, leading to a steep drop. Extreme weather conditions in Brazil's primary sector and the driest monsoon in five years in India led to a decline in crop production and export restrictions. Cocoa deliveries fell 35% year-on-year in Africa.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Agriculture commodity price prediction (2017 = 100) - FocusEconomics.com
+
+Price Forecasts
+
+It is possible that the impact of "El Nino" will be observed as soon as the crops are harvested, even though, as per the predictions of the U.S. weather service, it has already ended. This will lead to a rise in commodity prices for sugar, cocoa, coffee, rice, and palm oil in the fourth quarter of 2024. A moderate "La Nina" is expected to have a slight positive impact on agricultural production, but it is not likely to result in significant price changes.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

@@ -1,0 +1,330 @@
+SOURCE: https://hmarkets.com/blog/how-to-trade-commodities/
+================================================================================
+
+Open main menu
+Top Guide on How to Trade Commodities
+📅 08.10.2022 👤 N Razlozhki
+
+As a trader, it is important to understand the different types of financial assets that can be traded. A broader understanding of these assets will allow traders to create more diversified financial portfolios. Commodities and their derivatives are useful assets to be aware of for two key reasons. Firstly, commodities are often considered a hedge against inflation, and secondly, commodity markets tend to be more volatile, and so (with a good understanding) there is potential for greater returns.
+
+
+In this article, we will cover the following:
+
+
+
+
+
+
+What Are Commodities?
+
+
+Commodity Markets Categories
+
+
+Energy
+
+
+Base Metals
+
+
+Precious Metals
+
+
+Agricultural
+
+
+Livestock
+
+
+Popular Commodities: Oil and Gold
+
+
+Trading Oil
+
+
+Trading Gold
+
+
+Commodity Trading Takeaways
+
+
+
+
+ 
+
+What Are Commodities?
+
+
+ 
+
+A commodity is a good that is characterised by a lack of significant differentiation in the good, regardless of which producer supplies it. Given this definition, commodities tend to be naturally occurring raw materials, often used as inputs when producing other goods or services. A good example of a commodity that we will revisit many times in this article is oil, as there will be very little difference between two barrels of oil produced by different producers. It is worth noting that when commodities are traded, there is a standardised quality and quantity that must be adhered to, called a basis grade.
+
+Commodities are most commonly traded using futures contracts. You should know what a futures contract is, but as a refresher, a futures contract is a contract to buy or sell a commodity at a certain point in the future at a certain price. There are two types of traders who trade in commodity futures. Firstly, there are the actual market actors who do not want to expose themselves to risk and actually produce and use the commodity. Then there are the speculators, who do not want to use the commodity and instead want to profit from the volatility of the prices of commodities. If you are reading this article, you are probably part of the latter group and can learn more about trading commodities with Hantec Markets here.
+
+
+ 
+
+Commodity Markets Categories
+
+
+ 
+
+There are two key types of commodities: hard commodities and soft commodities. Hard commodities are naturally occurring resources that require no intervention to create but need to be extracted. Examples of hard commodities include oil, metals, and natural gas. Soft commodities are commodities that require human intervention to be produced. Examples of soft commodities include grains, lumber, and livestock. The table below gives a list of the most popular traded commodities, whether they are hard or soft, and the category that they fall under.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commodity	Hard/ Soft	Category
+WTI Crude Oil	Hard	Energy
+Brent Crude Oil	Hard	Energy
+Natural Gas	Hard	Energy
+Soybeans	Soft	Agriculture
+Corn	Soft	Agriculture
+Gold	Hard	Precious Metal
+Copper	Hard	Base Metal
+Silver	Hard	Precious Metal
+
+
+ 
+
+Most commodities can fall into one or more of the following categories: energies, base metals, precious metals, agriculture, and livestock. Energy, base metals, and precious metals are all hard commodities, whereas agriculture and livestock are soft commodities. Below is more detail about each of these individual categories.
+
+
+ 
+
+Energy
+
+
+ 
+
+Energy commodities are fairly self-explanatory. They are all traditional energy sources, and examples of energy commodities include crude oil, natural gas, and gasoline. The top three most traded commodities, as seen above, are all energy commodities (WTI and Brent's crude oil just refer to crude oils with different compositional criteria).
+
+
+ 
+
+Base Metals
+
+
+ 
+
+Base metals are common metals that tend to be inexpensive and tarnish, oxidise, and corrode relatively easily. They all tend to have commercial and industrial applications. They are defined as metals that are non-ferrous and are not included in the precious metals category. Examples of base metals include copper, lead, and nickel. Base metals are mostly traded on the London Metal Exchange but are also traded on the Chicago Mercantile Exchange. The only base metal among the most traded commodities is copper.
+
+
+ 
+
+Precious Metals
+
+
+ 
+
+Precious metals are rarer, naturally occurring metals that tend to have a higher value. There are only eight precious metals that align with this definition: gold, silver, platinum, palladium, rhodium, ruthenium, iridium, and osmium. Precious metals have been used in the past as minted currencies in themselves or as backing for currencies. More information on this is presented below in the "Trading Gold" section. Gold and silver are the two most traded precious metals and are among the most traded commodities, as shown above.
+
+
+ 
+
+Agricultural
+
+
+ 
+
+Agricultural commodities are fairly self-explanatory. They are commodities that are grown and harvested and include the likes of soybeans, corn, wheat, and rice. Soybeans and corn are some of the most traded commodities.
+
+
+
+
+Livestock
+
+
+ 
+
+Livestock commodities are also quite obvious. These are animals that are reared by farmers and include most animals and animal-derived products.
+
+
+ 
+
+Popular Commodities: Oil and Gold
+
+
+ 
+
+Two popular and historically important commodities are oil and gold. Both of these commodities are hard commodities, and having an understanding of the factors that affect the price level is paramount when trading these commodities in an effort to make a return.
+
+
+ 
+
+Trading Oil
+
+
+ 
+
+When considering oil as a commodity, we are normally talking about crude oil, but we will shorten this to just "oil" for simplicity. Crude oil is a fossil fuel and is considered to be a non-renewable resource as it takes millions of years to form, and over the course of human history, we have reduced the world's oil supply such that, by some estimates, we only have 47 years of oil left. Crude oil is extracted through drilling and is refined into many different products, including gasoline used in cars.
+
+
+
+
+The world economy is entirely dependent on fossil fuels, which can cause political issues between countries that have oil and countries that do not. The Organisation of Petroleum Exporting Countries (OPEC) is a group of countries that control the majority of oil production in the world. The Organisation of Petroleum Exporting Countries Plus (OPEC+) consists of OPEC plus other major producers of oil. These two groups can have a large influence over the price of oil as they control a significant proportion of the supply. However, due to technological innovations in refining techniques in the 21st century, these countries hold less power than they once did but still have significant influence. OPEC meet twice every year so it is worth keeping updated on when these meetings take place and the outcomes of said meetings.
+
+There are sources of information that can be used to better inform trading decisions. One of which is the US Energy Information Administration's weekly reports. These give a detailed breakdown of key facts about the oil industry in the US. For example, the EIA reports on oil inventories - the stock of oil that US firms hold - which gives some indication of the future oil price. Another source of information is the American Petroleum Institute, which also has a weekly bulletin of key facts about oil in the US. The API also reports on oil inventories. In theory, the greater oil in inventory, the weaker the demand and so prices should fall in the future.
+
+It is also worth considering the concept of risk on/risk off. Risk on/risk off refers to the change in investor behaviour due to the global economic situation. When risk is high - risk off - investors tend to invest in lower-risk investments and vice versa. There are many methods of determining whether risk is on or off, such as the gold-silver ratio, the Dow Jones utilities indices, or the NASDAQ 100. Crude oil is a risk on commodity and so tends only to be invested on when there is optimism about the global economy. Therefore, beliefs about the global economy and, by extension, the performance of the global economy have impacts on the price of oil.
+
+Another key factor to consider when trading oil is the strength of the US Dollar. All crude oil is quoted in US Dollars, and therefore the behaviour of the US Dollar will affect the price of oil. Historically, when the US Dollar strengthened, the price of oil is lower in Dollar terms and vice versa. However, now that the US Dollar is exporting more oil due to improved extraction and refinement technology, the relationship between the US Dollar and the oil price is becoming more unstable. This is because while the US was previously a net importer of oil, it is now a net exporter. Therefore, the US trade deficit is positively affected by rising oil prices which may have a positive effect on the US exchange rate. This competes with the effect of the cost of a barrel of oil decreasing as the US Dollar improves, hence why the relationship has become more unstable in recent years.
+
+Furthermore, it is important when trading oil to be aware of the relationship between the oil price and inflation. As the price of oil rises, with oil being used as an input in many goods, inflation will rise. This was a significant issue in the 1970s, more so than today, as oil is relatively less dependent on (per unit of output) than it is today. This is worth considering as a trader/investor when diversifying your portfolio.
+
+Finally, the price of oil can be massively affected by geopolitical factors. The price of oil, for example, in the EU, rose massively when the EU cut off Russian crude oil from being imported due to their invasion of Ukraine. Therefore, as with any form of investment, it is worth keeping up with current geopolitical events and considering their impact on oil prices when trading oil.
+
+
+ 
+
+Trading Gold
+
+
+ 
+
+Gold is a very unique commodity in the sense that it is deeply engrained within the global economic system. It has been used as a currency and to back up currencies until relatively recently. Because of this, gold is considered by the investing world to be a "safe haven". This essentially means that in times of economic uncertainty, a lot of investors turn to gold. Something that exemplifies this is the price of gold reaching the $2,000 price level due to the pandemic when uncertainty was at its highest. You should have figured out by now that, as gold is a safe haven, it is a risk-off asset that investors invest in when they are pessimistic about the global economy. Therefore, gold prices will be affected by any global factors that affect economic uncertainty.
+
+
+
+
+
+ 
+
+It is also worth noting that gold has industrial applications, used in technology and jewellery. Just over 45% of the global supply of gold is used in these two industries, with 47.2% used in investment. Therefore, the price of gold can, to some extent, be affected by significant events in these markets. Therefore, when trading gold, it is as worth staying aware of developments in the jewellery and industrial gold markets as it is staying aware of global investment behaviour.
+
+Gold shares the characteristic with oil that it is affected by the strength of the US Dollar. This is again because gold tends to be denominated in terms of the US Dollar. So, for the same reason as oil, when the US Dollar weakens, gold becomes relatively cheaper in terms of other currencies, and so demand for gold rises, causing the price of gold to rise as well. The same happens in the opposite direction. There are many other factors that affect gold prices in a similar fashion to the way the US Dollar does, and hopefully, this explanation of the mechanism will allow you to make similar judgements about these other factors.
+
+Learn more about trading gold with Hantec Markets.
+
+
+ 
+
+Commodity Trading Takeaways
+
+
+ 
+
+After reading this article, you will now have a better understanding of what a commodity is, why it is beneficial to trade these commodities, and what to look out for when trading these commodities. We have gone into detail about oil and gold due to their historical significance but also to better demonstrate the complexity of trying to predict the behaviour of commodity prices. There are an infinite number of global factors that affect commodity prices, but understanding the core drivers of price fluctuations and the risks and benefits of trading in commodities will allow you to further diversify your portfolio with assets that have significant potential returns. So come trade commodities with Hantec Markets.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

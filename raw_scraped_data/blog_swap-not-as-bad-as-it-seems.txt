@@ -1,0 +1,136 @@
+SOURCE: https://hmarkets.com/blog/swap-not-as-bad-as-it-seems/
+================================================================================
+
+Open main menu
+Swap: Not as Bad as it Seems
+📅 01.05.2024 👤 Renato Campos
+
+As a trader, you've likely heard of this coined term and may have even implemented it. However, many, and probably you, as you're reading this article, may not fully understand the meaning of its name and concept, or you might be in for a surprise when closing your winning trade, and the profit isn't as reflected on the screen. Like the example below, which indicates a slightly higher gain.
+
+Net Worth = $9.77 |Net Value = $10.64
+
+Closing a trade with more or less money than initially reflected is a common scenario. Inexperienced traders often overlook the significance of swap rates associated with the instruments they are trading. This factor can significantly impact trade profits, particularly when holding positions for more than a day.
+
+Also Known as "Rollover"?
+
+The term "rollover" is used to describe the interest paid or received when a trade is held open for more than one day. This involves specific transaction hours determined by your broker, and it doesn't require a trade to remain open for a full 24 hours to incur this charge or payment. Simply put, it's a cost or income associated with holding a position overnight.
+
+For intraday traders with limited experience, swap considerations might not be a priority in daily operations. However, it's crucial to stay vigilant if a trade extends beyond the designated charging period. Failure to close the trade before the established time can lead to reduced profits, increased losses, or, in the best-case scenario, an unexpected (slight) profit.
+
+When selecting a broker, traders often focus on spreads' size, but overlooking "swaps" and price slippage can be a critical mistake.
+
+Spread USDJPY variable (example)
+How is the Size of a Swap Determined?
+
+The interest rates set by the Central Banks of the countries whose currencies are being exchanged play a crucial role. The greater the difference in interest rates, the larger the swap will be.
+
+
+ 
+Interest Rates - TradingEconomics.com
+
+ 
+
+Positive or Negative Swap?
+A positive swap occurs when holding a long position (buying the currency with the highest interest rate).
+A negative swap arises when the trader holds a short position in the currency with a higher interest rate.
+
+Swaps undoubtedly vary for different currency pairs, and their size will also depend on the broker (liquidity provider). Interested in learning more about a reliable liquidity provider? Click here.
+
+How to Find Out the Swap for the Instrument I Want to Trade?
+
+Any broker considered transparent should provide you with this information, which can be crucial in your trading. In the specifications for various pairs and instruments available for trading, the swap will be indicated in points per lot.
+
+Nowadays, interest rates tend to be similar in most developed economies, resulting in swaps being negative in both directions. Unless we encounter turning points, that's when traders might even begin to take advantage of this condition. However, let's leave that to the professionals and well-defined strategies.
+
+Specifications EURUSD MT5 Platform Hantec Markets
+
+The chart above indicates various swap charge dates, as well as the charges for holding a position. For maintaining a long or buy position, the trader must pay 5.88 points, while in the case of holding a short (sell) position, the trader will receive -2.88, meaning the broker pays 2.88 points for each lot considered in the transaction.
+
+A Carry Trade
+
+Trades where an investor "borrows" a currency at a low-interest rate and buys a currency at a higher interest rate to benefit from the interest rate differential offered by their central banks are known as "carry trade" operations.
+
+An example you're encouraged to check on your platform is the interest rate differential between economies like Japan and the United States. The former has been known for maintaining very low rates for an extended period, while U.S. interest rates have remained above 5%.
+
+
+Interest Rate Japan - TradingEconomics.com
+
+ 
+
+Interest Rate USA - TradingEconomics.com
+
+Visit our website and learn about the conditions of your favourite instruments. What are you waiting for to develop your next trading strategy? Visit our site HERE.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

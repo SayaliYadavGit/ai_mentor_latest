@@ -1,0 +1,380 @@
+SOURCE: https://hmarkets.com/blog/candlestick-basics-12-candlestick-patterns/
+================================================================================
+
+Open main menu
+Candlestick Basics: 16 Japanese Candlestick Patterns You Should Know
+📅 11.06.2025 👤 Steve Miley
+
+Updated on November 2025 by Syed Maaz Asghar.
+
+Candlestick charts are widely used by professional traders and have grown in popularity through the late 20th century and into the 21st century. But their history dates way back to the 18th century Japan, when they were originally created by Munehisa Homma, a rice merchant in Osaka's Dojima Rice futures market.
+
+Homma realised that by recording the open, close, high and low of the market price each day and drawing these as charts, he was able to successfully forecast future price movements. So effective was he in using his candlestick patterns and charts to trade rice, that he eventually accumulated a fortune of $100 billion in today's money.
+
+This is reason enough to respect these candlestick charts and patterns. Many successful traders use candlestick charts today because they deliver dependable and accurate trading signals. These patterns can help improve your trading strategy and your potential to earn.
+
+In this guide, we will look at:
+
+Candlestick Charts and Why Should You Use Them
+What are Candlestick Patterns?
+16 Candlestick Patterns to Know
+I. CONTINUATION
+II. INDECISION
+III. REVERSAL
+Practical Limitations to Candlestick Patterns
+
+Candlestick Charts and Why Should You Use Them
+
+Candlestick charts are graphical representations of price movements in financial markets. They offer a visual snapshot of an asset's trading activity within a specific time frame, providing traders with a quick, intuitive way to gauge market sentiment.
+
+These charts offer traders deep insights into potential trend reversals, market psychology, and support decision-making.
+
+By using candlestick charts, traders can identify patterns and signals that may not be as evident in traditional line charts, enhancing their ability to make informed and timely trading decisions.
+
+What are Candlestick Patterns?
+
+Candlesticks are made up of two key components:
+
+Body: The candlestick body is the rectangular area outlined by the difference between the opening and closing prices during a specific time frame, such as a day, week, or hour. The length and colour of the body tells traders how prices have moved.
+A long body means a significant difference between the opening and closing prices, whereas the shorter the body, the lesser the price movements between the two. A green or white candlestick indicates whether prices went up, and a black or red candle tells you if prices fell.
+Shadow: The slender lines that extend above and below the body of the candlestick, known as "shadows," represent the price range experienced during that time period. The upper shadow is described as the "wick" and the lower shadow is called the "tail".
+The upper wick stretches from the highest price to the closing price (or opening price for bearish candles), while the lower wick spans from the lowest price to the opening price (or closing price for bearish candles).
+
+Each candlestick pattern consists of one or more candlesticks in specific shapes and characteristics, conveying information about market sentiment, potential trend reversals, or continuation of existing trends. These patterns are formed based on the opening, closing, high, and low prices of a specific time period, such as a day, week, or hour.
+
+Traders and analysts use candlestick patterns to make decisions about buying or selling assets. Each pattern has its own interpretation and potential implications for future price movements, making them essential tools for technical analysis in financial markets.
+
+16 Candlestick Patterns to Know
+
+Let’s explore the candlestick patterns, but first, let’s break them down in their trend patterns. Now what is a trend pattern?
+
+The candlestick patterns are divided into the likability of what direction it might move in and how. This can be something as predictable as the sun rising from the east, or a pattern so haphazardly indecisive, it, it becomes hard to predict.
+
+Let's look at some common candlestick patterns that we can use in our trading, starting with two basic candlestick patterns that show continuation of a trend.
+
+We will then look at a candlestick chart that might signal consolidation, indecision or a lack of directional conviction.
+
+And finally, we will explore candlestick charts that might signal a change in direction - four that could signal a bullish shift in direction (from bearish), four that might indicate a bearish shift in direction (from bullish) and one that can indicate a bullish or bearish shift, depending on the direction of the initial trend.
+
+Candlestick Pattern	Trend Pattern	Sentiments
+Standard Line candlestick	Continuation	Bullish or Bearish
+Marubozu candlestick	Continuation	Bullish or Bearish
+Three White Soldiers	Continuation	Potentially Bullish
+Three Black Crows	Continuation	Potentially Bearish
+Spinning Top patterns	Indecision	Neither
+Hammer candlestick	Reversal	Potentially Bullish
+Dragonfly Doji candlestick	Reversal	Potentially Bullish
+Inverted Hammer candlestick	Reversal	Potentially Bullish
+Bullish Engulfing candlestick	Reversal	Potentially Bullish
+Shooting Star candlestick	Reversal	Potentially Bearish
+Gravestone Doji candlestick	Reversal	Potentially Bearish
+Hanging Man candlestick	Reversal	Potentially Bearish
+Bearish Engulfing candlestick	Reversal	Potentially Bearish
+Long-Legged Doji candlestick	Reversal	Potentially Bullish or Bearish
+Morning Star Candlestick	Reversal	Potentially Bullish
+Evening Star Candlestick	Reversal	Potentially Bearish
+I. CONTINUATION
+
+Continuation patterns suggest the current trend is likely to keep moving in the same direction. Use them when the trend is intact and you want to add to a directional trade or enter on a confirmed breakout/pullback.
+
+Let’s explore the continuation patterns that can be noticed by reading candlesticks.
+
+1. Standard Line Candlestick
+
+The Standard Line has a strong body, that is to say, a long body compared to a normal candlestick and relatively small shadows. The Standard Line quite simply indicates a continuation of the current underlying trend in the direction of the Standard Line.
+
+HOW TO TRADE
+
+Entry: on break above/below the line (close beyond it) or pullback to its body.
+
+Stop-loss: below/above the candle low/high or 0.75× ATR beyond extreme.
+
+Take-profit: next S/R or 1.5–2× risk.
+
+2. Marubozu Candlestick
+
+The Marubozu candlestick is similar to the Standard Line but has a much longer, therefore, stronger body and has no (or very small) upper or lower shadows. Like the Standard Line, the Marubozu candlestick also indicates trend continuation but a far more forceful continuation signal. If the market retraces in the next bar in the opposite direction to the Marubozu candlestick, the 50% level of the Marubozu candlestick range is seen as initial support or resistance.
+
+HOW TO TRADE
+
+Entry: buy/sell on follow-through or on pullback to 50% of Marubozu.
+
+Stop-loss: below/above Marubozu low/high (or 1× ATR).
+
+Take-profit: next S/R or 2× risk (strong momentum => bigger target).
+
+3. Three White Soldiers
+
+Three White Soldiers is a powerful bullish pattern formed by three consecutive long bullish (white/green) candles that close progressively higher. Each candle typically opens within the previous candle’s body (or slightly above) and closes near its high, showing sustained buying pressure and clear buyer control. The pattern itself is strong evidence of bullish momentum; further confidence comes from price continuing to close above the third soldier’s high in the next 1–2 candlesticks and from relatively small upper wicks. These signals indicate strong upward conviction, marking a bullish reversal after a downtrend or a strong continuation in an existing uptrend.
+
+HOW TO TRADE
+
+Entry: buy on close above third soldier high (or enter on minor retrace to third candle body).
+
+Stop-loss: below third soldier low (or below first soldier low if wider).
+
+Take-profit: next resistance or 2× risk (momentum often strong).
+
+4. Three Black Crows
+
+The bearish mirror of Three White Soldiers, the Three Black Crows consists of three consecutive long bearish (black/red) candles that close progressively lower. Each candle commonly opens within the previous candle’s body (or slightly below) and closes near its low, indicating sustained selling pressure and a shift to seller dominance. The pattern is validated by continued closes below the third crow’s low in the next 1–2 candlesticks; large lower tails or very small bodies may weaken the signal. This suggests strong downward momentum, a bearish reversal after an uptrend or a decisive continuation of a downtrend when confirmed.
+
+HOW TO TRADE
+
+Entry: sell on close below third crow low (or enter on pullback).
+
+Stop-loss: above third crow high.
+
+Take-profit: next support or 2× risk.
+
+II. INDECISION
+
+Indecision patterns show market uncertainty. They are not trade signals by themselves, treat them as warning signs and wait for a breakout or confirmation candle.
+
+From the list of basic candlestick patterns, only one falls into this category.
+
+5. Spinning Top Patterns
+
+Spinning Top patterns have a very small body and relatively long shadows at the top & bottom. These Spinning Top patterns are considered neutral candlestick patterns that might signal consolidation, indecision or a lack of immediate directional conviction.
+
+HOW TO TRADE
+
+Entry: only after breakout candle closes beyond S/R.
+
+Stop-loss: tight — below breakout candle low/high (or 0.5× ATR).
+
+Take-profit: next small S/R or 1–1.5× risk.
+
+III. REVERSAL
+
+Reversal patterns indicate a possible change in direction, from up to down or vice versa. They require confirmation (usually price closing beyond the pattern high/low or follow-through volume) before taking a position.
+
+Rest of the patterns in this list fall under the reversal category; let’s explore them all.
+
+6. Hammer Candlestick
+
+The Hammer candlestick pattern is formed in a prior downtrend. When forming the Hammer candlestick, the market dips and rebounds to close significantly above the low, closing near to or at the high of the candlestick. The confirmation of the Hammer candlestick is signalled by a close above the Hammer candlestick high in the next 1-2 candlesticks to indicate a reversal of the prior downtrend.
+
+HOW TO TRADE
+
+Entry: buy on close above Hammer high (confirm within 1–2 candles).
+
+Stop-loss: below Hammer low (or low − 0.5× ATR).
+
+Take-profit: first resistance or 1.5–2× risk.
+
+7. Dragonfly Doji Candlestick
+
+The Dragonfly Doji is very similar to the Hammer candlestick, but the difference between the open and close is very small or at the same price, meaning there is either a very small or no body. As with the Hammer candlestick, a close above the Dragonfly Doji high is required in the next 1-2 candlesticks to confirm a reversal of the prior downtrend.
+
+HOW TO TRADE
+
+Entry: buy on close aboveDojihigh (confirm).
+
+Stop-loss: belowDojilow (orDojilow − 1× ATR).
+
+Take-profit: next resistance or 1.5–2× risk.
+
+8. Inverted Hammer Candlestick
+
+The next potentially bullish candlestick is the Inverted Hammer, which is an upside-down version of the Hammer that occurs in a prior downtrend. During the formation of the Inverted Hammer candlestick, the market pushes lower, then rebounds and falls back lower again, to close significantly below the high, near to or at the low. But the market still has quite some work to do to signal a bullish shift, needing to close above the Inverted Hammer candlestick high in the next 1-2 candlesticks to signal bullish shift in trend.
+
+HOW TO TRADE
+
+Entry: buy on close above Inverted Hammer high.
+
+Stop-loss: below Inverted Hammer low.
+
+Take-profit: next resistance / 1.5–2× risk.
+
+9. Bullish Engulfing Candlestick
+
+The Bullish Engulfing candlestick is a strong bullish reversal pattern and is sometimes called a key reversal pattern. It signals a significant shift in directional sentiment from bearish to bullish. A prior downtrend is required and during the formation of the Bullish Engulfing candlestick the market gaps down. The market then rallies up to close above open of the previous candlestick. Therefore, the bodies of the two candlesticks are opposite in direction and colour, from red to green, and the Bullish Engulfing candlestick, which "engulfs" the previous candlestick, has a lower open and a higher close. In this case, the upper and lower shadows are not important.
+
+HOW TO TRADE
+
+Entry: buy on close above engulfing candle high (or enter on retrace to engulfing body).
+
+Stop-loss: below engulfed candle low (or below engulfing low).
+
+Take-profit: next resistance or 2× risk.
+
+10. Shooting Star Candlestick
+
+The Shooting Star candlestick requires a prior uptrend. During the formation of this candlestick, the market rallies and back lower to close significantly below the high. The Shooting Star candlestick has a long upper wick, a very small or no lower tail, and a relatively small body, preferably with a lower close (so a red body). A close below the Shooting Star candlestick low in the next 1-2 candlesticks confirms a reversal of the prior uptrend to bearish.
+
+HOW TO TRADE
+
+Entry: sell on close below Shooting Star low (confirm).
+
+Stop-loss: above Shooting Star high (or +0.5–1× ATR).
+
+Take-profit: next support or 1.5–2× risk.
+
+11. Gravestone Doji Candlestick
+
+A Gravestone Doji is very similar to a Shooting Star candlestick, though in the case of the Gravestone Doji, the difference between the open and close is very small or at the same price, meaning there is either a very small or no body. As with the Shooting Star candlestick, the Gravestone Doji has a long upper Wick and very small or no lower Tail. And again, a close below the Gravestone Doji low in the next 1-2 candlesticks confirms a reversal of the prior uptrend.
+
+HOW TO TRADE
+
+Entry: sell on close below Gravestone low (confirm).
+
+Stop-loss: above Gravestone high.
+
+Take-profit: next support or 1.5–2× risk.
+
+12. The Hanging Man Candlestick
+
+The Hanging Man candlestick is an inverted version of the Shooting Star candlestick pattern that occurs in a prior uptrend. During the formation of the Hanging Man candlestick, the market pushes higher, sets back and then rebounds back higher again, to close significantly above the low, near to or at the high. The Hanging Man candlestick has a small Body and relatively long lower Tail, with a small or no upper wick. However, to signal a bearish shift the market still has some more work to do, needing to close below the Hanging Man candlestick low in the next 1-2 candlesticks.
+
+HOW TO TRADE
+
+Entry: sell on close below Hanging Man low (confirm).
+
+Stop-loss: above Hanging Man high.
+
+Take-profit: next major support or 2× risk.
+
+13. Bearish Engulfing Candlestick
+
+The Bearish Engulfing candlestick is the opposite of the Bullish Engulfing candlestick and is a strong bearish reversal pattern, often called a key reversal pattern. It signals a significant shift in directional sentiment from bullish to bearish. A prior uptrend is required and during the formation of the Bearish Engulfing candlestick, the market gaps up. The market then sells off to close below the open of the previous candlestick. Therefore, the bodies of the two candlesticks are opposite in direction and colour, from green to red, and the Bearish Engulfing candlestick "engulfs" the previous candlestick, that is to say, has a higher open and a lower close. Again, as with the Bullish Engulfing candlestick, the upper and lower shadows are not particularly important.
+
+HOW TO TRADE
+
+Entry: sell on close below engulfing candle low (confirm).
+
+Stop-loss: above engulfed candle high (or above engulfing high).
+
+Take-profit: next support target or 2× risk.
+
+14. Long-Legged Doji Candlestick
+
+A Long-Legged Doji candlestick is a pattern that can be bullish or bearish, and simply signals a reversal of whatever the prior, underlying trend is. The Long-Legged Doji has a very small or no body and long upper and lower shadows, of similar length. This candlestick pattern indicates a potential turning point, from bullish to bearish in an uptrend, or bearish to bullish in a downtrend. Confirmation of a trend shift is signalled in the following 1-2 candlesticks by a push below the Long-Legged Doji candlestick low in the uptrend for a bearish signal. A bullish reversal is indicated on a move above the Long-Legged Doji high in a downtrend in the following 1-2 candlesticks.
+
+HOW TO TRADE
+
+Entry: buy above Doji high (for bullish) or sell below Doji low (for bearish) on confirming close.
+
+Stop-loss: just beyond Doji extreme (1× ATR).
+
+Take-profit: next S/R or 1.5–2× risk.
+
+15. Morning Star Candlestick
+
+The Morning Star is a three-candlestick bullish reversal pattern that forms after a prior downtrend. The sequence begins with a long bearish candle, followed by a small-bodied candle that shows indecision and gaps lower, and finishes with a long bullish candle that closes well into, and ideally, above the midpoint of — the first candle’s body. The confirmation is signalled when the pattern is strengthened on price closure above the Morning Star high (or above the midpoint of the first candle) within the next 1–2 candlesticks, showing clear follow-through buying. This signals a likely shift from bearish to bullish sentiment, a potential buying opportunity once confirmed.
+
+HOW TO TRADE
+
+Entry: buy on close above third candle high (or above midpoint of first candle).
+
+Stop-loss: below lowest candle low of the three (or third candle low).
+
+Take-profit: first resistance or 2× risk.
+
+16. Evening Star Candlestick
+
+The bearish counterpart to the Morning Star, the Evening Star signals a potential shift from an uptrend to a downtrend. It starts with a strong bullish candle, then a small-bodied indecision candle that gaps higher and is completed by a long bearish candle that closes well into (or below the midpoint of) the first candle’s body. The bearish outlook is confirmed by a close below the Evening Star low (or below the midpoint of the first candle) in the next 1–2 candlesticks. This indicates growing selling pressure and a possible opportunity to consider short positions or tighten longs once confirmation appears.
+
+HOW TO TRADE
+
+Entry: sell on close below third candle low (or below midpoint of first).
+
+Stop-loss: above highest candle high of the three.
+
+Take-profit: next support or 2× risk.
+
+Practical Limitations to Candlestick Patterns
+
+While Candlestick patterns are generally effective, they are generally more reliable on longer timeframes. Daily and 4-hour patterns tend to show higher probability than 5-minute or 15-minute patterns. Short TF patterns produce more noise and false signals.
+
+Let’s look at how these patterns behave in different markets.
+
+How patterns behave in different markets
+
+FOREX: Often effective. FX is liquid and reacts well to technical patterns, especially on 1H–daily. Watch for economic news (fundamentals) that can override patterns. Use ATR to size SL in volatile currency pairs.
+
+STOCKS: Volume is crucial. A reversal or continuation on a stock without volume confirmation is weak. Earnings, corporate news, and market open/close volatility can create misleading candles. Prefer daily charts with volume confirmation.
+
+CRYPTO: Patterns can be exaggerated and produce rapid fakeouts due to lower overall liquidity and retail-driven flows. Expect stronger whipsaws on short TFs; use larger stops (ATR) and wait for stronger confirmation (e.g., multi-candle follow-through + on-chain/volume signals).
+
+Conclusion
+
+We have looked at the basics of various single and double candlestick patterns that indicate either trend continuation, indecision or consolidation, and also bullish or bearish trend reversals. Whether you are a day trader, a position or swing trader, or employ other trading strategies, you should be able to incorporate candlestick patterns to help you with entering or exiting trades.
+
+Getting started is easy - simply open the MetaTrader platform, sign in and start identifying current chart patterns!
+
+Don't have an account yet? Open a demo or live Hantec Markets account in just a few minutes.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

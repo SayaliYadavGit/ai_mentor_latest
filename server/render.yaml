@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: hantec-ai-backend
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        value: gpt-4o-mini
+      - key: TEMPERATURE
+        value: 0.1
+      - key: MAX_TOKENS
+        value: 500
+      - key: FRONTEND_URL
+        sync: false

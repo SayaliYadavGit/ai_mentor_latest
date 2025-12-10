@@ -1,0 +1,571 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/learn-to-trade/learning-hub/what-is-cfd-trading/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: What CFD products does Hantec offer?
+
+Open main menu
+Home
+>
+Education
+>Learning hub>What is CFD trading
+What Is CFD trading?
+
+Find out how contracts for difference (CFDs) lets you speculate on the rising or falling prices of fast-moving instruments.
+
+Education Category
+Learning hub
+
+Written by Aaron Akwu, Head of Education Hantec Markets
+
+What are Contracts for Difference (CFDs)?
+
+CFDs, or Contracts for Difference, are a type of financial derivative that allow traders to speculate on the price movements of various assets without actually owning the underlying asset. These assets can include stocks, commodities, currencies, and indices, among others.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Open main menu
+Home
+>
+Education
+>Learning hub>What is CFD trading
+What Is CFD trading?
+
+Find out how contracts for difference (CFDs) lets you speculate on the rising or falling prices of fast-moving instruments.
+
+Education Category
+Learning hub
+
+Written by Aaron Akwu, Head of Education Hantec Markets
+
+What are Contracts for Difference (CFDs)?
+
+CFDs, or Contracts for Difference, are a type of financial derivative that allow traders to speculate on the price movements of various assets without actually owning the underlying asset. These assets can include stocks, commodities, currencies, and indices, among others.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+CFDs are popular among traders because they offer high leverage, which means that traders can potentially make large returns on a small investment. However, it's important to note that leverage also increases the risk of loss, so it's crucial for traders to understand the risks involved before engaging in CFD trading.
+
+History of CFD Providers
+
+CFDs, or Contracts for Difference, were first introduced in the early 1990s by London-based financial services company IG Group as a way for traders to speculate on the price movements of various financial instruments without owning the underlying assets. Initially used primarily by professional traders and institutional investors, CFDs became more widely available to retail traders in the early 2000s as online brokers began offering CFD trading platforms. This increased accessibility led to greater popularity among retail traders. In recent years, the use of CFDs has grown globally, with many countries now having regulated markets for trading them. Despite some controversies, CFDs remain widely used by traders as a form of derivative trading to gain market exposure.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+CFDs are popular among traders because they offer high leverage, which means that traders can potentially make large returns on a small investment. However, it's important to note that leverage also increases the risk of loss, so it's crucial for traders to understand the risks involved before engaging in CFD trading.
+
+History of CFD Providers
+
+CFDs, or Contracts for Difference, were first introduced in the early 1990s by London-based financial services company IG Group as a way for traders to speculate on the price movements of various financial instruments without owning the underlying assets. Initially used primarily by professional traders and institutional investors, CFDs became more widely available to retail traders in the early 2000s as online brokers began offering CFD trading platforms. This increased accessibility led to greater popularity among retail traders. In recent years, the use of CFDs has grown globally, with many countries now having regulated markets for trading them. Despite some controversies, CFDs remain widely used by traders as a form of derivative trading to gain market exposure.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Advantages of CFDs Trading
+
+1. Leverage: Leverage in Contracts for Difference (CFDs) allows traders to control large positions with a relatively small amount of capital. This is done by borrowing money from the broker to increase the size of the trade.
+
+For example, a trader wants to trade $100,000 worth of the EUR/USD currency pair using a leverage of 1:100. The trader would only need to have $1,000 as a margin in their account to open the trade. This means that for every $1 in the trader's account, they can control $100 in the market.
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Advantages of CFDs Trading
+
+1. Leverage: Leverage in Contracts for Difference (CFDs) allows traders to control large positions with a relatively small amount of capital. This is done by borrowing money from the broker to increase the size of the trade.
+
+For example, a trader wants to trade $100,000 worth of the EUR/USD currency pair using a leverage of 1:100. The trader would only need to have $1,000 as a margin in their account to open the trade. This means that for every $1 in the trader's account, they can control $100 in the market.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Another example using a commodity, assuming the current market price of crude oil is $60 per barrel, the trader would only need to have $3,000 as margin in their account to open a trade of 1000 barrels of crude oil, using a leverage of 1:20. This means that for every $1 in the trader's account, they can control $20 worth of crude oil in the market.
+
+It's important to note that leverage magnifies both profits and losses. So, if the trade goes in the trader's favour, they can make a large profit with a small investment. But if the trade goes against them, they can also incur large losses.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+2. Short selling: CFDs enable traders to short sell, which means they can profit from a market downturn. For example, if a trader thinks a stock is overvalued and likely to decrease in value, they can short-sell that stock and profit as the price drops.
+
+3. Wide Range of Markets: CFDs allow traders to access a wide range of markets, including stocks, indices, commodities, and currencies. This means traders can diversify their portfolios and take advantage of different market conditions. For example, a trader can invest in a stock index CFD while also trading gold CFDs.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+4. Low Cost: CFDs typically have lower costs compared to traditional trading methods, such as buying and selling stocks. We will talk about the type of cost in CDFs shortly.
+
+5. Flexibility: CFDs provide traders with flexibility in terms of trade size and execution. For example, traders can enter or exit a trade at any time and can trade as little or as much as they want.
+
+6. No ownership: CFDs do not require the trader to own the underlying asset, so the trader does not have to worry about any of the additional responsibilities that come with owning an asset. For example, the trader does not have to pay for any storage fees or any other fees associated with owning an asset.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Short and long CFD trading
+
+1. A long (buying) order is an order to purchase a specific currency at the current market price. For example, if a trader believes that the US dollar will strengthen against the euro, they can place a buy order on the US dollar/euro CFD. If the market price of the US dollar/euro CFD increases, the trader will make a profit.
+
+2. A short (Selling) order is an order to sell a specific currency at the current market price. For example, if a trader believes that the Japanese yen will weaken against the Australian dollar, they can place a sell order on the Japanese yen/Australian dollar CFD. If the market price of the Japanese yen/Australian dollar CFD decreases, the trader will make a profit.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Pending Orders
+
+A pending order is a type of order that is placed with a broker to buy or sell a financial instrument at a specific price in the future. These orders are used by traders to enter or exit a trade when the market reaches a certain level, rather than at the current market price.
+
+There are several types of pending orders that can be used in CFD trading, including:
+
+Buy Limit: An order to buy a financial instrument at a price lower than the current market price.
+Sell Limit: An order to sell a financial instrument at a price higher than the current market price.
+Buy Stop: An order to buy a financial instrument at a price higher than the current market price.
+Sell Stop: An order to sell a financial instrument at a price lower than the current market price.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Pending Orders
+
+A pending order is a type of order that is placed with a broker to buy or sell a financial instrument at a specific price in the future. These orders are used by traders to enter or exit a trade when the market reaches a certain level, rather than at the current market price.
+
+There are several types of pending orders that can be used in CFD trading, including:
+
+Buy Limit: An order to buy a financial instrument at a price lower than the current market price.
+Sell Limit: An order to sell a financial instrument at a price higher than the current market price.
+Buy Stop: An order to buy a financial instrument at a price higher than the current market price.
+Sell Stop: An order to sell a financial instrument at a price lower than the current market price.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Pending orders can be useful for traders as they allow them to automatically enter or exit a trade when certain conditions are met, rather than having to monitor the market constantly and manually place orders.
+
+What are the costs of CFD trading?
+
+The costs of CFD trading can include various fees and charges, depending on the broker and the specific trade. Here are some examples of common costs associated with CFD trading:
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+1. Spread: This is the difference between the bid and ask price of a CFD. For example, if the bid price of a CFD is $50 and the ask price is $51, the spread would be $1. The spread can vary depending on the asset being traded and the broker.
+
+2. Overnight financing charges (Swap): is a process whereby funds are exchanged between two buyers or sellers to satisfy their contractual obligations in the short term. The process involves one party transferring a certain amount of money to another party in exchange for an agreed-upon return on loan. This return is usually based on a fixed rate of interest, which is generally determined by the country's central bank where the transaction occurs. The swap can cover overnight financing costs, such as interest rate payments or currency exchange costs.
+
+--------------------------------------------------------------------------------
+
+Q: What are the Forex spreads?
+
+1. Spread: This is the difference between the bid and ask price of a CFD. For example, if the bid price of a CFD is $50 and the ask price is $51, the spread would be $1. The spread can vary depending on the asset being traded and the broker.
+
+2. Overnight financing charges (Swap): is a process whereby funds are exchanged between two buyers or sellers to satisfy their contractual obligations in the short term. The process involves one party transferring a certain amount of money to another party in exchange for an agreed-upon return on loan. This return is usually based on a fixed rate of interest, which is generally determined by the country's central bank where the transaction occurs. The swap can cover overnight financing costs, such as interest rate payments or currency exchange costs.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+If a CFD trade is held overnight, the trader may be charged a financing fee. For example, if a trader buys a CFD on a stock with a leverage of 1:100 and holds it overnight, the trader may be charged a financing fee of 0.1% of the trade value.
+
+3. Trading commission: Some brokers charge a commission on each trade, regardless of whether the trade is a buy or sell. For example, a broker may charge a commission of $5 for each CFD trade.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+4. Inactivity fee: Some brokers may charge an inactivity fee if a trader does not make any trades for a certain period of time. For example, a broker may charge a fee of $10 per month if a trader does not make any trades for 6 months.
+
+What assets can you trade with CFDs?
+
+Stocks Trading: CFDs on individual stocks can be used to speculate on the price movements of specific companies, such as Apple, Amazon, or Facebook.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Commodities: CFDs on commodities such as gold, silver, oil, and natural gas can be used to speculate on the price movements of these raw materials.
+
+Indices: CFDs on indices, such as the S&P 500, NASDAQ, or FTSE 100, can be used to speculate on the performance of a basket of stocks.
+
+Forex: CFDs on currencies, such as the US dollar, euro, or British pound, can be used to speculate on the relative strength of different currencies.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Cryptocurrency: Some brokers also offer CFDs on cryptocurrencies like Bitcoin and Ethereum, allowing traders to speculate on the price movements of these digital assets.
+
+CFD instrument trading hours
+
+CFD trading hours vary depending on the underlying asset being traded. Below is a breakdown of the trading hours for the most popular CFD markets:
+
+Stock CFDs: The trading hours for stock CFDs typically mirror the trading hours of the underlying stock exchange. For example, the NYSE and NASDAQ have trading hours of 1:30pm to 9:00pm GMT, so stock CFDs based on these exchanges will also have trading hours during this time.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Currency CFDs: Currency CFDs can be traded 24 hours a day, five days a week, as the forex market is open continuously from Sunday at 10pm GMT to Friday at 9pm GMT.
+
+Commodity CFDs: Commodity CFDs also have extended trading hours, as the commodity markets are open for trading almost 24 hours a day. For example, the electronic trading hours for crude oil on the CME Globex exchange are from 11pm to 10:15pm GMT.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Indices CFDs: Indices CFDs are based on the performance of a stock market index and have similar trading hours to stock CFDs. For example, the S&P 500 index, which is based on the NYSE, has trading hours of 2:30pm to 9:00pm GMT.
+
+How do you trade CFD Trading?
+
+1. Choose a CFD broker: You will need to find a reputable broker like Hantec markets that offers CFD trading. Look for a broker that is regulated by a reputable financial authority, and that offers a user-friendly trading platform.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+2. Open a CFD trading account: Once you have chosen a broker, you will need to open an account and go through the broker's verification process. This may include providing personal information and proof of identity.
+
+3. Fund your account: You will need to deposit funds into your account in order to start trading. Most brokers accept a variety of funding methods, such as credit/debit cards and bank transfer.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+4. Choose an underlying asset: You will need to choose an underlying asset to trade. This could be a stock, commodity, currency, or index.
+
+5. Place an order using the CFD trading platform: Once you have chosen an underlying asset, you can place an order to buy or sell the asset. For example, if you believe that the price of a stock will rise, you will place a "buy" order. If you believe that the price of a stock will fall, you will place a "sell" order.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+6. Monitor your trade: You will need to monitor your trade and make adjustments as necessary. For example, if the price of the underlying asset moves in your favour, you may want to consider closing your position to lock in your profits. If the price moves against you, you may want to consider closing your position to limit your losses.
+
+Example of a CFD trades
+Winning Trades
+
+1. Long trade: If a CFD trader believes that the value of the US dollar will increase against the Euro. They open a long CFD trade by buying 10,000 USD/EUR at a price of 1.20. If the price of USD/EUR increases to 1.25, the trader would make a profit of 500 (1.25 – 1.20) x 10,000 = 500 USD.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+2. Short trade: If a CFD trader believes that the price of gold will decrease. They open a short CFD trade by selling 100 troy ounces of gold at a price of $1,800 per ounce. If the price of gold falls to $1,700 per ounce, the trader would make a profit of $10,000 (1,800 – 1,700) x 100 = 10,000 USD.
+
+3. Margin trading: A trader believes that the price of oil will increase. They open a margin CFD trade by buying 1,000 barrels of oil at a price of $50 per barrel, with a 10% margin requirement. If the price of oil increases to $60 per barrel, the trader would make a profit of 10,000 ($60 – $50) x 1,000 = $10,000 USD.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Losing Trades
+
+Short trade: If a CFD trader believes that the price of gold will decrease, they open a short CFD trade by selling 100 troy ounces of gold at a price of $1,800 per ounce. If the price of gold rises to $1,900 per ounce, the trader would incur a loss of $10,000 (1,900 – 1,800) x 100 = 10,000 USD.
+
+Choosing a CFD Broker
+
+Selecting a CFD (Contract for Difference) broker can be a difficult task for traders, as there are several factors to consider before making a decision. Below are some of the factors to consider:
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+1. When choosing a CFD broker, it is crucial to look for a reputable and regulated firm. This ensures that the broker is licensed and overseen by a government regulatory agency, such as the FCA (Financial Conduct Authority) in the UK, the FSC (Financial Services Commission) in Mauritius or the ASIC (Australian Securities and Investments Commission) in Australia etc. These agencies ensure that the broker follows strict rules and guidelines to protect traders' funds and ensure fair trading practices.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+2. Another crucial factor to consider is the broker's trading platform. The platform should be comprehensible and offer a wide range of tools and features to help traders make informed decisions. This may include technical analysis tools, real-time market data, and charting capabilities.
+
+3. It is also essential to consider the broker's fees and spreads. CFD brokers typically charge a spread, which is the difference between the bid and ask price of an asset. The smaller the spread, the better for the trader. Some brokers also charge additional fees for certain services, such as overnight financing or inactivity fees. It is important to carefully review the broker's fee schedule to ensure that it is reasonable and in line with industry standards.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+4. It's also important to consider the availability of customer support, as a good CFD broker should offer fast and efficient customer service. Look for a broker that provides multiple communication channels, such as email, phone, and live chat.
+
+CFD Trading Platforms
+
+Hantec Markets offers comprehensive trading tools on the MT4 platform, including all necessary charts. With the ability to trade CFDs on stocks, indices, and various financial instruments, Hantec Markets makes it easy to manage your trades. The updated software on MetaTrader allows for even more efficient business analysis. Additionally, the Hantec Markets Trading app is available for mobile users, allowing you to access markets and live currency rate information from anywhere.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Various Trading Strategies
+
+Trading strategy refers to the approach a trader uses to enter and exit trades in the financial markets. There are several different trading methodologies that traders can use, and each has its own set of advantages and disadvantages. Some of the most common trading methodologies include:
+
+Day Trading: Day trading is a methodology in which a trader opens and closes trades within the same trading day. Day traders typically use technical analysis and charting tools to identify short-term price movements and take advantage of them. The advantage of day trading is that it allows traders to take advantage of short-term price movements, but it also comes with a high degree of risk and requires a significant amount of time and attention.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Position Trading: Position trading is a longer-term approach in which a trader holds a position for several weeks or even months. Position traders typically use fundamental analysis and technical indicators to identify long-term trends and take advantage of them. Position trading is less risky than day trading, but it also requires a longer time horizon and a greater ability to tolerate market fluctuations.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Swing Trading: Swing trading is a methodology that seeks to capture medium-term price movements, typically holding positions for a few days to a couple of weeks. Swing traders use technical analysis and charting tools to identify price patterns and trends and enter and exit trades accordingly. Swing trading is a balance between day trading and position trading, with a moderate level of risk and a moderate time horizon.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Scalping: Scalping is a high-frequency trading strategy that aims to profit from small price movements. Scalpers enter and exit trades quickly, typically holding positions for only a few seconds or minutes. Scalping requires a high degree of skill, focus, and discipline, as well as fast execution and low latency.
+
+Visit our best trading strategies post on our for more info on trading strategies.
+
+What Are the Risks Associated with CFDs?
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Like any form of trading, there are certain risks associated with using CFDs. These include:
+
+Leverage risk: CFDs are often traded on margin, meaning that traders can control large positions with a relatively small amount of capital. This can amplify potential profits, but it also increases the potential for losses.
+
+Market risk: CFDs are subject to the same market conditions as the underlying assets, and prices can move rapidly in response to news and events. This means that traders can quickly incur significant losses if they are not able to react quickly enough to changes in market conditions.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Liquidity risk: CFDs are not traded on a central exchange, and the liquidity of a particular market can vary depending on the time of day and other factors. This means that it can be difficult to enter or exit a trade at a desired price, which can lead to losses.
+
+Counterparty risk: CFDs are typically traded through intermediaries, such as brokers. If the broker becomes insolvent or otherwise unable to meet its obligations, traders may be at risk of losing their investments.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Regulatory risk: CFDs are not regulated in many countries, and thus there is a risk of fraud or scams.
+
+Risk of stop loss not working: Stop loss orders are used to limit potential losses, but in fast-moving markets, the price at which a stop loss order is triggered may be significantly different from the intended price, leading to larger losses than expected.
+
+Risk Management Tools in CFDs
+Stop-Loss
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Stop-loss is a risk management tool used in CFD trading to limit potential losses. In currency and commodity CFD trading, a stop-loss order is placed to close a trade automatically once the market reaches a certain price level that is determined to be a significant loss for the trader. This helps traders to limit their losses and protect their trading capital.
+
+For example, let's say a trader buys a currency CFD at a price of 1.2000 with a stop-loss set at 1.1900. If the market moves against the trader and the currency reaches a price of 1.1900, the stop-loss order will automatically close the trade, limiting the trader's potential loss to 100 pips.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Negative balance protection and margin closeout
+
+Negative balance protection is a risk management feature that ensures that a trader's account balance cannot go below zero. This means that even if the value of the trader's open positions falls below zero, the trader will not be responsible for any additional losses.
+
+Margin closeout: this is a feature that automatically closes out a trader's open positions when the margin level falls below a certain threshold. This is done to protect the trader from further losses and to limit the potential for a negative balance.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+For example, let's say a trader is trading currencies using a CFD (Contract for Difference) platform. The trader has an account balance of $10,000 and is trading a CFD position worth $100,000. The margin requirement for this position is 5%, meaning the trader needs to maintain a margin level of at least 5% in their account.
+
+If the currency's value falls significantly, the trader's account balance may also fall, potentially causing a negative balance. However, with negative balance protection in place, the trader's account balance will be protected and will not go below zero.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Additionally, if the margin level falls below the required threshold, the platform will automatically close out the trader's open positions to protect them from further losses.
+
+Hedging
+
+Is a risk management strategy used to mitigate potential losses in financial markets? One popular way to hedge is through the use of Contracts for Difference (CFDs) on currencies and commodities.
+
+When trading in the foreign exchange market, currency fluctuations can present a significant risk to investors. For example, if an investor holds a large position in a foreign currency and that currency's value suddenly drops, the investor could face significant losses. By using CFDs on currencies, an investor can hedge their position and potentially offset any potential losses.
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Similarly, when trading in commodities markets, price fluctuations can also present significant risks. For example, if an investor holds a large position in a commodity and the price of that commodity suddenly drops, the investor could face significant losses. By using CFDs on commodities, an investor can hedge their position and potentially offset any potential losses.
+
+In conclusion, hedging with CFDs on currencies and commodities can be an effective risk management strategy for investors looking to mitigate potential losses in these markets. It's important to remember that hedging doesn't guarantee a profit, and it's important to consult with a financial advisor before taking any action.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Create a Trading Account
+
+To start CFD trading on Hantec Markets, you will need to open an account. You can choose to open a live account, which allows you to deposit funds and trade in financial markets, or a demo account, which allows you to practice CFD trading using virtual money. Click on the provided link to open your trading account - https://hmarkets.com/live-account-pre-registration/
+
+New To trading
+What is CFD trading
+What Is Currency Trading
+MT4 For beginners
+Other Markets
+Asset Classes
+Chart Pattern
+Forex Trading Signals
+Novice Trader
+Intermediate Trader
+Experienced Trader
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

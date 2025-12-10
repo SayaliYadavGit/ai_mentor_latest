@@ -1,0 +1,346 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/understanding-support-and-resistance-levels/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: How do I open an account?
+
+Open main menu
+Understanding Support and Resistance Levels: What They Are and How to Trade with Them
+📅 05.10.2022 👤 N Razlozhki
+
+One of the most important concepts in trading and technical analysis is the identification of support and resistance. In basic terms, support and resistance are either specific price levels or areas of the price that act as barriers to a market price moving through them.
+
+It is a simple concept but identifying these levels can sometimes be difficult, and many newbie traders make mistakes. So, we are going to help you better understand the concept of support and resistance.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+In this article we will look at:
+
+Add a header to begin generating the table of contents
+
+What is Support
+
+Support is a price level or zone that is below the current market price. It should, or could, stop the price from falling further. That's because we expect an increase in demand at this level, which would prevent the market price from dropping below the support. So, support levels tend to act as a floor for market prices, encouraging markets to rebound from or from above the identified support.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+What is Resistance
+
+A resistance level or price resistance zone is found above the current market price, which would be expected to stop upward price movements. It would be likely that an increase in supply would overcome demand at a resistance level (or area). This would then encourage the price to stop at or below the resistance (level or zone). When we look at resistance, we are looking at potential ceilings to market price action.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+We are now going to look more specifically at different types of support and resistance levels.
+
+Chart Support and Resistance
+
+Chart support and resistance levels is a broad term that is used to cover various levels that can be derived from price points on the chart, which include:
+
+Price swing highs and lows -- Significant previous lows and highs where the market has either gone down to a level and rebounded or up to a level and setback. These are seen as important support and resistance lines.
+Impulse levels -- If the market has impulsively accelerated from a price point, then that price level is seen as a notable level of support or resistance
+Round numbers -- Round numbers, such as 12,000, or 1.1000 are often viewed as important support and resistance levels.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The last point has two reasons:
+
+Psychological -- Many traders and investors place to buy or sell orders and stop losses and take-profit targets at round numbers. That is for ease and for psychological reasons. This can lead to a build-up of orders, therefore, supply or demand at round numbers, making the levels notable supports or resistances.
+Option strikes -- Options are a derivative product. We will not explore them here, suffice to say that options have 'strike prices', which are round numbers. This is another factor contributing towards round numbers being notable support and resistance. You can learn more about options here.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Whilst the above are considered the simpler ways to identify support and resistance, below are some other ways that can also be used.
+
+Trend Line and Channel Support and Resistance
+
+Trend lines and channels are used to identify markets that are trending. The market price will tend to try to defend trend lines and channels, where they then act as a support or resistance level. But if the trend lines or channels break, then there is often an acceleration through them as support or resistance. We look at trend lines and channels in more depth here.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Pattern lines as Support and Resistance
+
+The price patterns usually have key static levels or dynamic lines that act as support or resistance. If you want to explore them in detail, you can see more in our article.
+
+Moving Averages
+
+A moving average is a dynamic line that tracks the average price over time. Traders often use moving averages to identify support or resistance. If you want to go into depth in examining this topic, please see our guide.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Fibonacci retracements and extensions
+
+Fibonacci retracements and extensions can be calculated from the Golden Ratio and the horizontal price lines used as support or resistance levels. We review Fibonacci retracements and extensions in more depth here.
+
+Bollinger Bands -- A more sophisticated way of using moving averages with standard deviation bands, which was developed by John Bollinger. Bollinger Bands can be used as dynamic support and resistance, and you can learn more with our Bollinger Bands Ultimate Guide.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Pivot Point Support and Resistance
+
+Pivot Points are derived from relatively simple calculations based upon the high, low and closing prices from the previous trading day. The Pivot Point system was originally used by pit traders and is a good way to be consistent with levels. From the Pivot Points calculations, a series of support and resistance levels are identified, and a trading strategy can be built around the recognised levels.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+The calculation for Pivot Points is as follows, where High, Low and Close are all from the prior trading day.
+
+Pivot Point (PP) = (High + Low + Close)/ 3
+
+Resistance 1= (PP x 2) - Low
+
+Resistance 2= PP + (High-Low)
+
+Support 1 = (PP x 2) - High
+
+Support 2= PP-(High-Low)
+
+Most modern trading platforms (such as MT4 or MT5) calculate Pivot Point Supports and Resistances. These Pivot Point can then be used as levels to form part of a Pivot Point trading strategy (see below).
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Using Pivot Points to Trade
+
+A popular day trading strategy when using Pivot Point Supports and Resistances is to decide to buy or sell the market based on the early price moves in the day.
+
+If the price moves above the Pivot Point (PP) in early trading towards the first resistance level, Resistance 1, this would be a buy signal.
+The differing Pivot Point Supports and Resistances can then be used as targets and stop losses.
+If the markets move below the Pivot Point (PP) in early trading, the trader may decide to short.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+That is not the only way that Pivot Point Supports and Resistances can be used for a Pivot Point trading strategy -- they may simply be used as ordinary support and resistances in a strategy, looking for clusters, where the Pivot Point Supports and Resistances are close to other notable support and resistances from other sources.
+
+Using Support and Resistance
+
+There are various ways of using support and resistance levels to build a trading strategy. Initially, the analyst or trader must identify the support and resistance levels they think are most important, or maybe combine different support and resistance indicators to discover zones or clusters of support and resistance.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Once the areas of support and resistance are identified, the strategy should be to use them to enter and exit trades.
+If the market is in a ranging environment, look to try to sell at the upper end of the range, at resistance levels or zones. Look to buy at the bottom end of the range in the area of support levels.
+If the market is in a trend, it you should look to trade in the direction of the trend. For example, if the market is in an uptrend, look to buy dips towards or near support levels or zones. Or wait for resistance areas or levels to be overcome in the uptrend and then enter long positions on the break above resistance.
+In a downtrend, identify resistance levels and look for sell opportunities if the price corrects up towards resistance. Or if the downtrend breaks below support, then enter short positions once the support is surrendered.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Support and Resistance: A Summary
+
+Support and resistance are extremely important aspects of technical analysis and any charting strategy. There are many, many different ways of identifying these support and resistance, and we have touched on the major ones here, but there are always others that can be used. Whichever level of trading you are at, the concept of support and resistance should always be kept in mind, and traders should be aware of possible levels, even if they do not use these levels, as the market certainly respects the concept of support and resistance. We wish you well using support and resistance in your trading with Hantec Markets.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

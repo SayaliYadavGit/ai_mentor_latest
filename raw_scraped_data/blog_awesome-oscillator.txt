@@ -1,0 +1,225 @@
+SOURCE: https://hmarkets.com/blog/awesome-oscillator/
+================================================================================
+
+Open main menu
+What is the Awesome Oscillator: How To Read And Use
+📅 01.05.2023 👤 N Razlozhki
+
+The Awesome Oscillator (AO) is a momentum indicator used by traders to identify market trends and momentum. It was developed by Bill Williams, a well-known technical analyst, and has become a popular tool among traders due to its simplicity and reliability. In this article, we'll explore what the AO is, the benefits of the Awesome Oscillator, how to read it and how traders can use it in their technical analysis. Plus, we will compare the AO to the alternative Moving Average Convergence Divergence (MACD) momentum indicator.
+
+ 
+
+
+
+
+
+
+What Is the Awesome Oscillator?
+About Bill Williams
+Benefits Of The Awesome Oscillator
+How To Read the Awesome Oscillator
+How To Use the Awesome Oscillator
+The Awesome Oscillator Versus the MACD
+
+
+
+
+ 
+
+What Is the Awesome Oscillator?
+
+
+ 
+
+The Awesome Oscillator is calculated by subtracting a 34-period simple moving average (SMA) from a 5-period SMA of the midpoint (H+L)/2 price of a financial instrument.
+
+Awesome Oscillator = 5-period SMA (of the midpoint (H+L/2) - 34-period SMA (of the midpoint (H+L/2)
+
+Which is the same as:
+
+Awesome Oscillator = 5-period SMA (median price, 5-periods) - 34-period SMA (median price, 34-periods)
+
+Where median price is: (High price of a session + low price of a session) /2
+
+ 
+
+The midpoint price is considered to be a more accurate representation of the true market price than either the open or close prices, as it takes into account both the high and low prices of a given period. The AO oscillates between positive and negative values, with positive values indicating a bullish trend and negative values indicating a bearish trend.
+
+
+
+
+ 
+
+About Bill Williams
+
+
+ 
+
+Bill Williams (1932-2019) was a technical analyst and trader known for developing the "Trading Chaos" theory. As well as developing the Awesome Oscillator, he produced other indicators, including the Market Facilitation Index, the Alligator indicator and the Gator Oscillator. He was the author of several books on trading, including "Trading Chaos" and "New Trading Dimensions". Williams emphasized the importance of combining technical analysis with market psychology and emphasized the use of chaos theory in trading. He was a popular speaker and educator in the field of technical analysis and trading.
+
+ 
+
+Benefits Of the Awesome Oscillator
+
+
+ 
+
+One of the key benefits of using the AO is its simplicity. The Awesome Oscillator provides traders with a clear and straightforward way to analyse market trends, as positive values indicate an uptrend and negative values indicate a downtrend. This makes it easy for traders to quickly identify the direction of the market and make informed trading decisions.
+
+ 
+
+Another benefit of the AO is its reliability. As mentioned above, the indicator is based on the midpoint price. This is vowed as being a more precise reflection of the "true" market price (than the open or closing prices). This feature helps to minimise false signals and increases the reliability of the Awesome Oscillator as an indicator.
+
+ 
+
+In addition to its simplicity and reliability, the AO can also be used in conjunction with other technical analysis tools to further improve a trader's market analysis. For example, a bullish trend indicated by a positive Awesome Oscillator value may be confirmed by an uptrend line, while a bearish trend indicated by a negative AO value may be confirmed by a downtrend line.
+
+ 
+
+Traders can also use the Awesome Oscillator in conjunction with other momentum indicators, such as the Relative Strength Index (RSI) or Moving Average Convergence Divergence (MACD), to provide a more comprehensive analysis of market trends and momentum. We compare the Awesome Oscillator with the MACD below.
+
+ 
+
+How To Read the Awesome Oscillator
+
+
+ 
+
+The Awesome Oscillator is a momentum indicator that provides traders with signals based on the strength of the current market momentum. Here are the steps to read the Awesome Oscillator:
+
+
+
+Identify the zero line: The AO oscillates between positive and negative values, with positive values indicating a bullish trend and negative values indicating a bearish trend. The zero line is the line that separates positive and negative values.
+
+Interpret the direction and magnitude of the AO: The direction of the AO indicates the trend, with upward momentum indicating a bullish trend and downward momentum indicating a bearish trend. The magnitude of the AO indicates the strength of the trend, with larger values indicating a stronger trend.
+
+Look for divergences: Bullish divergences occur when the AO forms higher lows while the price forms lower lows, indicating a potential bullish reversal. Bearish divergences occur when the AO forms lower highs while the price forms higher highs, indicating a potential bearish reversal.
+
+Identify saucer signals: Saucer signals occur when the AO changes direction after crossing the zero line. A saucer signal is bullish when the AO crosses from negative to positive values, and bearish when it crosses from positive to negative values.
+
+Use with other technical analysis tools: The Awesome Oscillator should be used in conjunction with other technical analysis tools, such as support and resistance levels, price patterns, and trend lines, to provide a more comprehensive market analysis.
+
+It is important to note that the Awesome Oscillator is a lagging indicator, which means that it provides signals aftermarket changes have occurred. Traders should use the AO in conjunction with other indicators and analysis techniques to confirm signals and minimise the risk of false signals.
+
+
+
+ 
+
+How To Use the Awesome Oscillator
+
+
+ 
+
+To better understand how the AO works, let's consider an example. Imagine that a trader is analysing the price chart of a stock and notices that the AO value is positive. This indicates that the 5-period SMA of the midpoint price is above the 34-period SMA, indicating a bullish trend. In this scenario, the trader might choose to enter a long position, as the market is likely to continue moving upwards.
+
+ 
+
+On the other hand, if the AO value is negative, this indicates that the 5-period SMA of the midpoint price is below the 34-period SMA, indicating a bearish trend. In this scenario, the trader might choose to enter a short position, as the market is likely to continue moving downwards.
+
+ 
+
+It's important to note that the AO is a momentum indicator and not a trend-following indicator. This means that the AO is more effective at identifying short-term momentum but may not always accurately reflect the overall trend of a financial instrument. As such, traders should use the AO in conjunction with other technical analysis tools to provide a more comprehensive market analysis.
+
+ 
+
+The Awesome Oscillator Versus the MACD
+
+
+ 
+
+The Moving Average Convergence Divergence (MACD) is an alternative momentum indicator that traders use when analysing the market. It is usually calculated by subtracting a 26-period exponential moving average (EMA) from a 12-period EMA. In addition to the MACD line, traders also use the signal line, which is a 9-period EMA of the MACD line, and the histogram, which is the difference between the MACD line and the signal line. The MACD is considered a trend-following indicator, as it provides traders with signals when the market is changing direction.
+
+ 
+
+There are some key differences in the calculations of the MACD from the AO that lead them to be more effective in differing situations. The MACD uses EMAs, which give more weight to recent price data, while the AO uses SMAs, which give equal weight to all price data within the specified period. This means that the MACD may be more responsive to recent price movements, so is considered a more sensitive, shorter-term trend-following indicator, while the AO may be more reliable for longer-term trends.
+
+ 
+
+Another key difference between the two indicators is the number of moving averages used in their calculation. The MACD uses two moving averages, while the AO uses two moving averages and the midpoint price. This means that the AO provides traders with a more rounded analysis of market trends and momentum, as it takes into account both the high and low prices of a given period.
+
+ 
+
+In terms of signals, the MACD provides traders with signals based on the crossover of its MACD line and signal line, as well as the histogram. The AO provides traders with signals based on the positive and negative values of the indicator, as well as bullish and bearish divergences (as highlighted above).
+
+ 
+
+Takeaways
+
+
+ 
+
+The Awesome Oscillator is a simple and reliable technical analysis tool that provides traders with a clear and straightforward way to analyse market trends and momentum. Its simplicity and reliability make it a popular choice among traders, and its ability to be used in conjunction with other technical analysis tools further increases its effectiveness. Whether you're a seasoned trader or just starting out, the AO is a valuable tool to provide a more comprehensive market analysis.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

@@ -1,0 +1,227 @@
+SOURCE: https://hmarkets.com/blog/top-10-largest-us-companies-by-market-capitalisation/
+================================================================================
+
+Open main menu
+Trader's Guide: Top 10 Largest US Companies by Market Capitalisation
+📅 07.28.2025 👤 Steve Miley
+
+Updated: July 2025 by Aaron Akwu.
+
+As traders, it is important to have a grasp of the largest companies in the world and have some idea of their operations. In this article, we will look specifically at the ten largest US companies. These will be some of the most traded companies in the world, so having a good knowledge of them is vital to creating opportunities for us as traders.
+
+Why does market capitalisation matter?
+
+There are multiple ways to measure the size of companies, ranging from their sales revenue to profits and even their number of employees or market share. For the purposes of this article, we will use market capitalisation as our measure. This is the market value of a publicly traded company’s outstanding shares, so calculated by multiplying the number of outstanding shares by the share price. Market capitalisation shows the equity value of a company and can be seen as a gauge of public opinion on a company’s value.
+
+10 Largest US Companies
+Rank	Company	Ticker	Market Cap
+1	NVIDIA	NVDA	$4.03 trillions 
+2	Microsoft	MSFT	$3.73 trillions 
+3	Apple	AAPL	$3.19 trillions 
+4	Amazon	AMZN	$2.36 trillions 
+5	Alphabet (Google)	GOOG	$2.17 trillions
+6	Meta Platforms	META	$1.81 trillions
+7	Broadcom	AVGO	$1.30 trillions 
+8	Tesla	TSLA	$1.05 trillions 
+9	Berkshire Hathaway	BRKB	$1.03 trillions 
+10	JPMorgan Chase	JPM	$815 billions 
+
+*According to CompaniesMarketCap.com
+
+Most of these companies you will likely recognise and will consume many of their products and services. We can see that nine of these firms breach the one trillion-dollar mark, with NVIDIA breaking into the top spot on the back of surging AI demand. All firms that have made the list are worth over $800 billion. The list is clearly dominated by technology companies.
+
+1. NVIDIA (NVDA)
+
+NVIDIA is a leader in the world of graphics processing units (GPUs), powering industries ranging from gaming to artificial intelligence. The company is at the forefront of visual interfaces, data processing and deep learning frameworks that drive advancements in machine learning and AI.
+
+Founded in 1993 by Jensen Huang, Curtis Priem and Chris Malachowsky, the California-headquartered company went public in 1999. It makes a majority of its revenue from sales of its GPUs, but NVIDIA is also known for its APIs, software products and other semiconductors. With booming demand for AI products, the company’s shares have surged significantly. It grossed nearly $27 billion in revenues during 2022.
+
+2. Microsoft (MSFT)
+
+Another tech giant, Microsoft, is the second-largest company in the US. They develop and provide software and technological services, such as their computer operating system Windows, along with cloud solutions, the search engine Bing, and applications like Microsoft 365. They also produce some hardware technology like their personal computer and other consumer electronics. In recent years, Microsoft has also looked to invest in and develop high-demand markets such as artificial intelligence, mixed reality, and other related areas. In fact, it invested heavily in the AI research lab OpenAI and has built AI-powered tools into its Bing search engine and Edge browser.
+
+Much like Apple, Microsoft has made multiple corporate acquisitions over the years in order to expand. Microsoft tends to have a slightly different approach, having purchased some much higher-valued companies, such as LinkedIn and Skype. These companies have then been run by Microsoft, continuing in the same markets, as opposed to being integrated into the product line like for Apple.
+
+The current Microsoft headquarters is in Redmond, Washington, in the US, with the company being founded in 1975 by Bill Gates and Paul Allen. Steve Ballmer replaced the former CEO in 2000 and proceeded to expand the company towards a “devices and services” strategy. They produced their first personal computer in 2012 and even acquired Nokia’s devices and services division to produce their first mobile phone.
+
+3. Apple (AAPL)
+
+Notable Products: iPhone, iPad, MacBook, Apple Watch, AirPods, HomePod, Apple TV, Vision Pro, Apple services (AppStore, Licensing, Apple Care, Apple Music, iCloud)
+
+Taking the number one spot on our list is Apple, being the only US company with a market capitalisation of nearly $3.4 trillion. As you will be aware, Apple is a hardware and software developer that innovates and develops all kinds of technology and operating systems, specifically consumer technology such as smartphones and computers.
+
+Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, going public in 1980, finding success through the development and production of its early computers. In 1985 power struggles between executives led Wozniak to step back and Jobs to resign, founding NeXT. This led to a rough period for Apple through the 1990s as they lost market share to Microsoft, nearing bankruptcy in 1997 when they purchased NeXT and brought Jobs back. Over the next few decades, Apple began to dominate, powered by the innovation of new products such as the iPod, iPhone, iMac, Apple Watch and its latest, the Apple Vision Pro.
+
+Apple is often listed as one of the most valuable brands in the world, benefiting from the high level of brand loyalty it has established with its consumers through its high-quality, easy-to-use products powered by its operating systems. One key part of Apple’s strategy that has allowed it to grow so substantially is its purchase of small tech companies, such as Beats Electronics, Anobit Technologies, Dialog Semiconductor and NeXT along with multiple others. These allow Apple to easily integrate elements from these companies into their product
+
+The CEO of Apple is Tim Cook, taking over from Steve Jobs in 2011. The company employs over 161,000 people and has 530 retail stores worldwide as of 2023.
+
+4. Amazon (AMZN)
+
+Notable Products: Online marketplace, Amazon Prime, Amazon Web Services (AWS), Kindle e-readers, Echo smart speakers, Alexa voice assistant, Amazon Fire TV Stick & Tablet
+
+Amazon, founded by Jeff Bezos in 1994, started as an online bookstore but has since transformed into a global leader in e-commerce, cloud computing, and digital services. Today, Amazon operates the world’s largest online marketplace outside of China, selling products ranging from electronics and apparel to groceries and furniture, with many items supplied by third-party sellers.
+
+Amazon has revolutionised the way people shop, offering convenience through fast shipping, competitive pricing, and extensive product selection. Amazon Prime, the company’s membership program, provides benefits like free two-day shipping, access to Prime Video, and Amazon Music, making it a cornerstone of customer loyalty.
+
+Beyond e-commerce, Amazon is a dominant force in cloud computing through Amazon Web Services (AWS), which provides critical infrastructure for businesses around the world, from startups to Fortune 500 companies. AWS offers services in machine learning, artificial intelligence (AI), data analytics, and more, making it a key driver of Amazon’s profitability.
+
+Amazon is also a leader in artificial intelligence. The Alexa voice assistant powers millions of smart devices, while AI is deeply integrated into the company’s logistics, recommendation engines, and warehouse management. The company continues to innovate in autonomous technologies, including robotic systems in its fulfilment centres and drone delivery through Amazon Prime Air.
+
+Amazon has ventured into physical retail with its Amazon Go cashierless stores and Whole Foods, which it acquired in 2017. It also continues to grow in entertainment with Prime Video, competing with platforms like Netflix, Disney+, and Amazon Music in the streaming space.
+
+5. Alphabet (GOOG)
+
+Notable Products: Google Search, Gmail, YouTube, Google Cloud, Pixel smartphones, Android operating system, Gemini AI, Bard AI chatbot, LaMDA AI model
+
+Alphabet Inc., formerly known as Google LLC, is a technology multinational and the parent company of Google. Founded in 1998 by Larry Page and Sergey Brin, the company began as a search engine and went public in 2004. Over the years, Google has revolutionised how the world accesses information, becoming the dominant player in the search engine market, while also expanding into a wide array of technological arenas.
+
+In 2015, Google restructured to form Alphabet Inc. to improve transparency and oversight of its growing number of ventures. Google’s core businesses include not only its search engine but also products like YouTube, Gmail, Google Maps, and the Android operating system, as well as its Google Cloud services, which provide AI, machine learning, and data analytics solutions.
+
+Alphabet has a strong focus on artificial intelligence. In 2023, it launched Bard, a generative AI chatbot designed to compete with other AI models like ChatGPT. The company later rolled out the AI platform Gemini. Additionally, AI tools are being integrated into Google Search and Workspace products such as Docs and Gmail. Alphabet's LaMDA AI model is another significant development in its AI portfolio.
+
+6. Meta Platforms (META)
+
+Notable Products: Facebook, Instagram, WhatsApp, Messenger, Meta Quest VR platform, Oculus VR headsets
+
+Meta Platforms, formerly known as Facebook, is a leading technology company that operates some of the world’s most popular social media platforms, including Facebook, Instagram, WhatsApp, and Messenger. Founded in 2004 by Mark Zuckerberg and three other students at Harvard University, Meta has grown into one of the "Big Five" American tech companies alongside Apple, Microsoft, Alphabet, and Amazon.
+
+In 2021, Facebook rebranded as Meta Platforms to reflect its focus on the metaverse—a digital world that blends virtual and augmented reality. Through its Meta Quest VR platform and Oculus VR headsets, Meta is investing heavily in creating immersive digital experiences. The company’s Reality Labs division is spearheading these efforts, though the shift to the metaverse has been expensive and has faced financial challenges.
+
+Despite its push into VR and AR, Meta’s core business remains its social media platforms, which connect billions of users worldwide. These platforms not only facilitate personal connections but also serve as essential tools for businesses and political organisations to reach large audiences. Meta continues to drive around 98% of its revenue from advertising, with ad sales reaching over $135 billion in 2024.
+
+Meta is also expanding its AI capabilities, using artificial intelligence to personalise content recommendations and optimise advertising. It has integrated AI across its platforms for features like content moderation, misinformation control, and e-commerce.
+
+Under the leadership of CEO Mark Zuckerberg, Meta continues to innovate, both in its core social media platforms and in the emerging metaverse, as it seeks to shape the future of digital interaction and virtual reality.
+
+7. Broadcom (AVGO)
+
+Broadcom is a global technology company known primarily for developing semiconductors, software solutions, and infrastructure technology. Founded in 1961 as a semiconductor division of Hewlett-Packard, the company has evolved significantly, rebranding as Broadcom Corporation in 1998. Broadcom became a major industry player through strategic acquisitions, including the notable purchases of CA Technologies and Symantec’s enterprise security business.
+
+Broadcom chips power devices across industries, from smartphones and networking equipment to data centres and cloud infrastructure. The company continues to thrive in semiconductor innovation, particularly in Wi-Fi and Bluetooth solutions, as well as high-speed data and connectivity technologies critical for cloud and data centres.
+
+8. Tesla (TSLA)
+
+Notable Products: Electric Vehicles, Solar Panels, Energy Storage Systems, Autopilot, Full Self-Driving (FSD), EV Charging Points
+
+Tesla, the world’s largest automaker by market capitalisation, is a leader in electric vehicles (EVs), energy storage, and renewable energy solutions. Founded in 2003 by Marc Tarpenning and Martin Eberhard, Tesla received early investment from Elon Musk, who became chairman in 2004 and later the company's CEO. Tesla is named after inventor Nikola Tesla and went public in 2010. Musk remains the largest shareholder and the driving force behind its vision of sustainable energy and transportation.
+
+While Tesla initially focused on producing fully electric vehicles, it has since diversified into related markets under Musk’s leadership. The company has developed a robust charging infrastructure with its Supercharger network and provides vehicle services. Tesla’s energy division produces products like solar panels, solar roof tiles, and energy storage solutions, including the Powerwall, Powerpack, and Megapack, aimed at both residential and grid-scale applications.
+
+Tesla is also at the forefront of autonomous driving technology, with its Autopilot and Full Self-Driving (FSD) systems. The company is working toward fully autonomous vehicles and has developed the Dojo supercomputer to train AI models, further advancing its self-driving technology.
+
+The company has significantly expanded its production capacity with Gigafactories around the world, including locations in Shanghai, Berlin, and Texas, which support the growing demand for its electric vehicles and energy products. Tesla delivered a record 1.8 million vehicles in 2023, led by popular models like the Model 3 and Model Y, and is gearing up for the release of the Cybertruck and Tesla Semi.
+
+9. Berkshire Hathaway (BRK-B)
+
+Notable Investments: Geico, Duracell, Kraft Heinz, Apple, American Express, Coca-Cola, Bank of America
+
+Berkshire Hathaway is a unique entity among the largest American companies. As a multinational conglomerate holding company, it focuses on acquiring significant or controlling interests in businesses across various industries. Founded in 1839, Berkshire became widely known due to the investment acumen of Warren Buffett, who took control of the company in the 1960s. Under Buffett’s leadership as Chairman and CEO, Berkshire Hathaway has grown into a global giant by investing in undervalued companies with strong fundamentals.
+
+Berkshire Hathaway wholly owns large businesses such as GEICO, Fruit of the Loom, Dairy Queen, and Duracell. Additionally, the company holds substantial minority stakes in major corporations. As of 2024, Berkshire owns approximately 5.82% of Apple, making it the company's largest single investment. Other significant holdings include American Express (20.29%), Coca-Cola (9.25%), Bank of America (12.96%), and Kraft Heinz (26.5%).
+
+While Warren Buffett remains at the helm, Greg Abel has been named as his likely successor. Charlie Munger, Buffett’s long-time partner, continues to serve as Vice Chairman. Succession planning has been a point of interest for investors as Berkshire looks toward the future.
+
+Berkshire Hathaway is known for its conservative financial management, significant cash reserves, and opportunistic investments, often acquiring stakes in companies during market downturns. Despite the company’s size and diversification, its focus remains on long-term value, making it one of the most admired and influential firms in the world.
+
+10. JPMorgan Chase (JPM)
+
+
+JPMorgan Chase & Co. is the largest bank in the United States by assets and a leading global financial services firm. It was formed through a series of mergers, most notably the combination of J.P. Morgan & Co. and Chase Manhattan Bank in 2000. JPMorgan Chase provides investment banking, commercial banking, asset management, private banking, and retail banking services.
+
+Headquartered in New York City, JPMorgan Chase has a major presence internationally. The company serves millions of consumers and corporations, managing trillions in assets. Known for its influential economic insights, JPMorgan is regarded as a bellwether for the broader financial industry, often setting standards and influencing monetary policy globally.
+
+The Ever-Evolving Landscape of Market Leaders
+
+As we've seen, the list of the top 10 US companies by market capitalisation is a powerful snapshot of the current economic landscape, heavily dominated by technology giants. From NVIDIA's surge driven by AI demand to Microsoft's diversified software and cloud empire, and Apple's enduring consumer appeal, these companies are not just large; they are innovators and trendsetters. Their immense market caps reflect not only their current value but also the collective belief in their future potential.
+
+For traders, understanding these market leaders is paramount. Their movements often dictate broader market sentiment, and their financial health can serve as a bellwether for various sectors. While this list provides a valuable reference point, the market is dynamic. Continuous research into their operations, strategic shifts, and the emerging technologies they embrace will be crucial for identifying new opportunities and navigating the ever-evolving world of trading. Staying informed about these corporate behemoths is not just about knowing who's on top, but understanding the forces that shape the global economy.
+
+Learn more about the biggest companies in different countries and regions around the world by reading our other articles:
+
+Top-10 largest non-US companies by market capitalisation
+10 Biggest UK-based Companies
+Africa’s Top-10: Leading Companies by Market Capitalisation
+Top 10 Largest Latin American Companies
+Top 10 Largest Companies in China
+Economic Powerhouses: Trillion-Dollar Companies Club
+Titans of the East: The 10 Largest Companies Shaping Asia’s Future in 2025
+Top 10 Largest Companies in India
+
+Also, we recommend that you find out with our Who Tops the Global GDP Rankings.
+
+Feeling ready to trade yet? The share prices of publicly traded companies are constantly on the move, providing ample opportunity for traders to take advantage of market movements. Trade these movements today on the MT4 platform. It’s effortless, beginner-friendly, and used by traders across the world.Trade on MT4 with your Hantec Markets trading account today.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

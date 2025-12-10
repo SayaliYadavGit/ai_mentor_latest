@@ -1,0 +1,148 @@
+SOURCE: https://hmarkets.com/blog/breakout-trading/
+================================================================================
+
+Open main menu
+Breakout Trading Guide: What is it, How to Trade Breakouts, Pros and Cons
+📅 04.27.2022 👤 Steve Miley
+
+Markets do not move in one direction all the time and then change direction and start to trend in the opposite direction. For some the time, in fact, it could be argued the majority of the time, markets enter consolidation phases when they go into ranges and move sideways. Although it is possible to profit from trading the range, there is also an opportunity that comes from identifying when a market may breakout from a range.
+
+In this article, we will explore breakout trading and look at:
+
+What Is Breakout Trading?
+How Do Breakouts Work?
+An Example of a Breakout Trade
+The Pros and Cons of Breakout Trading
+Breakout Trading Summary
+
+What Is Breakout Trading?
+
+Breakout trading is all about identifying when markets enter sideways, consolidation ranges and taking advantage of any breakouts that lead towards new trends. It's an opportunity to profit by predicting the breakout that will lead to the start of a new trend in the direction of the breakout.
+
+How Do Breakouts Work?
+Breakouts work by initially identifying that a market has moved from a trend to a non-trend trading range. This is easiest done by simply looking at the market in question and identifying that it is no longer moving with a trending bias but has established upper and lower boundaries and is moving between these.
+You'd then look to establish range support levels (or areas) and range resistance levels (or zones).
+This would be done by looking at various failure highs and rebound lows that have been established during the formation of the trading range, then identifying upper resistance zones and lower support areas.
+Or by looking at horizontal lines of support and resistance.
+You'd then look to trade breakouts from these support and resistance levels.
+Enter short positions (sell) as the market breaks out below support levels (or areas) and long exposure (buy) as the market move above resistance levels (or zones).
+Critical here will be the placement of the stop-loss.
+Ideally, you'd place the stop-loss above the top of the identified resistance when selling the breakout to go short.
+And you'd place the stop-loss below the defined support level (or zone) when buying the breakout and going long.
+We'd also recommend using a price filter (or buffer) to decide how far above or below the defined resistance and support level to place the stop.
+
+Alongside identifying the support and resistance areas to define when a breakout occurs, it would also be useful to use a technical momentum indicator to assist in the timing of the breakout entry. You can learn more about types of indicators at our Leaning Hub in the section for Intermediate Treaders.
+
+An Example of a Breakout Trade
+
+Here we're going to look at an example of a breakout, looking initially at an unsuccessful or fake breakout (traders call this a fakeout), then a successful breakout.
+
+
+
+
+EUR/USD signalled a move from a downtrend (indicated by the red down arrow) to a non-trend trading range, between 1.0826 as resistance and the 1.0785 and 1.0782 lows as support.
+The market then rebounds and pullbacks in between these parameters.
+Then there is a fake bearish breakout, with the push down to 1.0777.
+The market does not continue lower and quickly reverts back to the trading range.
+You'd have been able to avoid a short breakout position, however, if you had used a price or time filter.
+EUR/USD then continues back within the trading range, with up moves stalling back from below the 1.0826 resistance level (from 1.0821 and 1.0820) and down moves rebounding from above the 1.0782 support level (twice from 1.0783).
+Eventually, however, the market signals a bullish breakout from the trading range above 1.0826, which is categorised as an aggressive, impulsive move higher.
+This would've been a successful bullish breakout from the sideways trading range, as EUR/USD climbed significantly higher.
+
+The Pros and Cons of Breakout Trading
+
+The pros and cons of breakout trading are as follows:
+
+Pros Of Breakout Trading
+
+There are significant advantages to breakout trading.
+
+Breakout trading can lead to solid trading results and profitable trades, as trades are entered at the beginning of new bullish and bearish trends.
+This can allow you to produce greater profits than may be waiting for a trend to already be established.
+Exit or stop loss levels can usually be easily identified from the breakout range.
+Although fake breakouts are a possibility (see below), an unsuccessful breakout can be defined within your trading strategy, which can allow for tight stop-losses, limiting trading losses from fakeouts.
+
+Cons Of Breakout Trading
+Fake breakouts are a possibility. This is when the market breaks out above a resistance level or below a support level but then fails to establish a new bull or bear trend, respectively.
+The market reverts back to the trading range. There is little you're able to do about this, though active stop and risk management can help.
+Also, it may be the case that the market does breakout from the range but not move far enough to hit your take profit target. This would then see a risk for a move back within the range before the new trend fully starts. If you have very active stop loss management, you may get stopped out before the trend fully energises.
+
+Breakout Trading Summary
+
+We've looked at the importance of breakout trading and how it works, plus the pros and cons of using this trading strategy. Learning to trade breakouts is an invaluable skill, and whether you are a beginner or an advanced technical trader, it is a skill you should look to master.
+
+Timing a breakout is both art and science — and AI makes it easier to master both. In this guide, we show how to use AI prompts to detect breakout signals and manage trades more efficiently.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

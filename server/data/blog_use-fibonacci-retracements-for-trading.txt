@@ -1,0 +1,336 @@
+=== HANTEC MARKETS INFORMATION ===
+
+Source: https://hmarkets.com/blog/use-fibonacci-retracements-for-trading/
+
+Topics: Forex, CFDs, MetaTrader 4
+
+
+Q: How do I open an account?
+
+Open main menu
+How to Use Fibonacci Retracements and Extensions in Your Trading
+📅 07.22.2022 👤 Steve Miley
+
+The Fibonacci sequence is widely used in trading today and is a crucial tool that traders adopt to assist in trading markets.
+
+In the following article, we will look at:
+
+The origin of the Fibonacci sequence
+The Fibonacci sequence in nature
+The uses of Fibonacci retracements and extensions for trading
+How to draw Fibonacci extensions and retracements
+Using Fibonacci Levels in Your Trading
+Fibonacci Takeaways
+The origin of the Fibonacci sequence
+Who was Fibonacci?
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+The Fibonacci sequence originates back in the 12th Century, whereby Italian mathematician Fibonacci, formally known as Leonardo Bonacci, introduced the concept of Fibonacci numbers to Europe.
+
+What is the Fibonacci sequence?
+
+The Fibonacci sequence is a series of numbers whereby the next number in the sequence is equal to the sum of the two previous numbers. The sequence starts with 0 and 1 and follows from there, creating the following
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+0, 1, 1, 2, 3, 5, 8, 13, 21 etc.
+
+The sequence can therefore be denoted by the mathematical formula:
+
+Fn = Fn-1 + Fn-2
+
+For example, F5 (The 5th number in the sequence) can be derived by adding together F5-1 + F5-2 = F4 + F3 (The 4th and 3rd numbers in the sequence).
+
+Taking this to the nth degree, any Fibonacci number is roughly 1.618 times that of its previous sequential value. This number is also known as the Golden ratio.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The Fibonacci sequence in nature
+
+The Fibonacci sequence can be widely seen in nature.
+
+One example of this is with flowers. In the vast majority of cases, the number of petals a flower has tends to be a Fibonacci number. This is because a Fibonacci number of seeds/petals on a flower allows for the maximum number of seeds on a seed head, so the flower can use its limited space to maximum effect.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Fibonacci himself discovered that rabbits reproduce in line with the Fibonacci sequence. Each new generation of rabbits has a Fibonacci number. So, the first new generation has 1, then 2, then 3, then 5, and on and on, in line with the Fibonacci sequence.
+
+Snail shells and galaxies also conform with the golden spiral, which is derived from the Fibonacci sequence, as the spiral's growth factor is the golden ratio.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The human face also conforms with the Fibonacci sequence, as a human head fits perfectly within a golden rectangle. A golden rectangle is one in which the ratio between the width and the height is 1.618 (the golden ratio).
+
+The uses of Fibonacci retracements and extensions for trading
+
+The primary Fibonacci numbers used in trading are 61.8% and 38.2%.
+
+8% is derived from dividing any number in the Fibonacci sequence by its previous one. Fn/Fn-1
+2% is derived by squaring 61.8 and alternatively by dividing any number in the sequence by the number two places to its right. Fn /Fn+2
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+The second tier of Fibonacci numbers used in trading is 23.6%, 76.4%, and 78.6%.
+
+6% is derived from dividing any number in the Fibonacci sequence by the number three places to its right. Fn /Fn+3
+4% is 100-23.6%.
+6% is the square root of .618 ([?].618).
+
+The third tier of numbers is 161.8% and 127.2%.
+
+8% is the golden ratio, used mostly for extension levels.
+2%. is the square root of 1.618 ([?]1.618), also used mostly for extension levels.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+These above-mentioned Fibonacci-derived numbers are used for a multitude of reasons in trading, including time zones, arcs, and fans, and most importantly, for retracement levels and extensions.
+
+How to draw Fibonacci extensions and retracements
+Fibonacci retracements
+
+In trading, Fibonacci retracements are used for determining support and resistance levels.
+
+The Fibonacci retracement technique, therefore, helps to establish when the start or finish of any given trend is within the timeframe of which the trader is trading. However, this is subjective, as a trend could begin at the very height or even low of any given traded asset.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+When the trader has defined the high and low of the trend they are analyzing, they are then able to use the Fibonacci sequence on the chart. Firstly, 0% and 100% lines are drawn at the extremities of the move. Then, the Fibonacci retracement levels can be added on at 23.6%, 50%, 61.8%, 76.4% and 78.6%.
+
+In the Crude Oil chart below, 123.68 has been identified as a high at point A. This is the initial point at which the downtrend begins, and the 90.56 low at point B marks the conclusion of this trend phase. We can then draw on our Fibonacci retracement using points A and B as the extremes. The Fibonacci retracement levels are then drawn in between these extremes as seen below in Figure 1.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Figure 1: 6-hour Crude Oil Chart
+
+Fibonacci Extensions
+
+The Fibonacci extension is very similar to and can be easily compared to Fibonacci retracements in terms of how the levels are drawn and created. However, unlike Fibonacci retracements, rather than using just two points from which the retracement can be drawn, three points are required when drawing a Fibonacci extension.
+
+Similar to the retracements, the crucial highs and lows of a trend are established as the first two levels from which the extension can be drawn. The third point, however, is not drawn until the market completes its initial retracement, whereby the new swing high or low trend is identified. This correction, high or low, is then used as the third point from which the Fibonacci extension levels are projected.
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+In the example in Figure 2, we can observe both the lows and highs of the downtrend, as seen in Figure 1, are again defined by points A and B. Next, the market can be seen to make a corrective move up to 101.88, point C as it then begins to re-enter the underlying downtrend.
+
+Now the Fibonacci extension can be drawn from points A and B, then point C, with Fibonacci extension levels then projected below as potential support targets.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Figure 2: 6-hour Crude Oil Chart
+
+Using Fibonacci Levels in Your Trading
+
+How do you use Fibonacci levels then in your trading, whether they be retracements or extension levels? The primary use of these levels is as support and resistance. Once Fibonacci levels are established, particularly in retracements, they can be used as potential entry points to enter trades in the underlying direction of the original trend.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+In addition, you might use the Fibonacci levels to place stop-losses. Fibonacci extension levels are primarily used as targets when markets move to extend trends. They are of particular use when markets are making new record highs or new all-time lows, and there are no other easily identifiable support and resistance levels to be used as targets to take profits.
+
+When Fibonacci retracement or extension levels are identified, it is useful to look for where this support and resistance coincide or are near to other notable levels of support and resistance, from maybe swing highs or lows, impulse levels, or pivot points maybe. Where there are clusters of support and resistance in certain areas, these zones are more likely to be stronger if they hold, or if they break, there is more likely to be an acceleration through the support or resistance areas.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Fibonacci Takeaways
+
+So, in this article, we have looked at the origin, history and occurrence of Fibonacci and the Golden Ratio throughout nature. We have also highlighted how Fibonacci is applied to trading by using the key Fibonacci numbers, with a focus on Fibonacci retracements and Fibonacci extensions.
+
+We trust that you now feel comfortable using these new technical analysis trading tools in your trading with Hantec Markets.
+
+--------------------------------------------------------------------------------
+
+Q: What Forex products does Hantec offer?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What leverage is available for Forex?
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+--------------------------------------------------------------------------------
+
+Q: What CFD products does Hantec offer?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What CFD instruments are available?
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+**Contact Support:** support@hmarkets.com | +41-22-551-0215
+
+--------------------------------------------------------------------------------
+
+Q: What account types does Hantec offer?
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+--------------------------------------------------------------------------------
+
+Q: What is MetaTrader 4?
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+--------------------------------------------------------------------------------
+
+Q: What do I need to know about Forex?
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec.
+
+--------------------------------------------------------------------------------
+
+
+**Contact:** support@hmarkets.com | +41-22-551-0215
+**Regulation:** FCA (UK), FSC (Mauritius), ASIC (Australia), VFSC (Vanuatu)
+
+⚠️ Trading involves risk. CFDs are complex instruments. This information is for educational purposes only, not financial advice.

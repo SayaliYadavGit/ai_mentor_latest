@@ -1,0 +1,214 @@
+SOURCE: https://hmarkets.com/blog/6-major-forex-currency-pairs/
+================================================================================
+
+Open main menu
+The 6 Major Currency Pairs in Forex: A Guidance to the Most Traded Currency Pairs
+📅 09.04.2023 👤 Steve Miley
+
+Updated on September 2023 by Sharon Lewis. 
+
+As the biggest, most liquid financial market worldwide, the forex market represents a vast opportunity for traders. In April last year, global volumes for forex trading reached an astronomical $7.5 trillion a day.
+
+Here's another staggering fact - just 6 forex pairs accounted for nearly 80% of these trading transactions. With interest in forex trading reaching levels never seen before, here's what you need to know about the most traded currency pairs worldwide and why they are so highly relevant.
+
+In this guide, we look at:
+
+The Meaning and Relevance of Forex Trading
+What are Major Currency Pairs, or "Majors"?
+EUR/USD
+USD/JPY
+GBP/USD
+USD/CHF
+USD/CAD
+AUD/USD
+Trading Major Forex Currency Pairs
+The Meaning and Relevance of Forex Trading
+
+FX, or currency trading, is the interchange of one currency for another, and it is this exchange that separates currency trading from other asset classes. When you trade forex, you are anticipating that one currency will fall or rise relative to another currency.
+
+Thus, forex trading is a trade of "relative value", meaning that you look for one currency to depreciate or appreciate relative to another currency.
+
+This is the reason that forex is traded in pairs - each transaction involves the buying of one currency while simultaneously selling another.
+
+It also requires us to select which currency we anticipate will rise in value and which currency we predict may fall in value and, critically, relative to each other.
+
+What are Major Currency Pairs, or "Majors"?
+
+ 
+
+Forex pairs are classified across three key categories:
+
+Major pairs: The most traded and recognized forex pairs, with the USD featured on one side of the pair.
+Example: EUR/USD, USD/JPY
+Minor pairs: FX pairs featuring currencies from major non-US economies.
+Example: EUR/GBP, AUD/JPY
+Exotic pairs: Pairs featuring one major currency and a currency of a smaller or emerging economy (read our guide to exotic pairs to learn more).
+Example: USD/TRY, EUR/HUF
+
+The "major" currency pairs are some of the most common currency combinations in the Forex market. Although there is no definitive list of what the major pairs are, they are understood within the forex trading industry to be EUR/USD, USD/JPY, GBP/USD, USD/CHF, USD/CAD, and AUD/USD.
+
+Forex pair	Currencies involved
+EUR/USD	Euro vs. US Dollar
+USD/JPY	US Dollar vs. Japanese Yen
+GBP/USD	Great British Pound vs. US Dollar
+USD/CHF	US Dollar vs. Swiss Franc
+USD/CAD	US Dollar vs. Canadian Dollar
+AUD/USD	Australian Dollar vs. US Dollar
+EUR/USD (Euro vs. US Dollar)
+
+EUR/USD signifies the number of US Dollars needed to purchase one Euro. It is seen as the most important forex pair as USD and EUR are the two most-traded currencies globally - USD featured in 88% of all forex trades and EUR on 31% as of April last year1.
+
+They are also the first and second-largest reserve currencies in the world.
+
+The US Federal Reserve controls the supply of USD, whereas the supply of EUR is controlled both by the European Central Bank (ECB) and the central banks of the eurozone countries.
+
+Although the US Dollar has been forecast to eventually surrender its dominant global position to the Euro, the US currency still remains safe in times of crisis and is the key global reserve currency.
+
+USD/JPY (US Dollar vs. Japanese Yen)
+
+The Japanese Yen (JPY) is the third most traded currency globally and a popular reserve currency. The population of Japan is around 40% that of the US, and its economy is also relatively large.
+
+The Bank of Japan controls the supply of the Yen.
+
+The Yen is seen as an ultimate safe haven currency (even more so than the US Dollar) in times of global stress.
+
+This is because of various factors, including the super low interest rates in Japan since the 1990s, repatriation pressures from its positive net foreign asset position and historical, traditional reasons.
+
+GBP/USD (Great British Pound vs. US Dollar)
+
+The British Pound (GBP) is the oldest currency globally that is still in circulation. It is also the third most popular reserve currency (after the US Dollar and Euro) and the fourth most traded currency.
+
+GBP/USD is commonly known as Cable in the forex world, a relic of the 19th century when the exchange rate was transmitted across the Atlantic by a submarine cable.
+
+Even before the UK exited the European Union with Brexit in 2020, it was one of the few countries that had elected not to adopt the EUR, keeping GBP as its national currency instead.
+
+USD/CHF (US Dollar vs. Swiss Franc)
+
+The Swiss Franc is known in the currency trading world as the "Swissie," while its currency code, CHF, comes from the old Latin name for Switzerland, Confederation Helvetica, with the F standing for Franc.
+
+Switzerland is one of Europe's most productive and stable economies, and the Swiss Franc is backed up by large gold reserves. The Swiss have resisted converting to the Euro or even joining the EU.
+
+The stability of the Swiss Franc is one of the reasons, alongside its traditional neutral positive with respect to global conflicts, that makes it another safe-haven currency.
+
+USD/CAD (US Dollar vs. Canadian Dollar)
+
+The Canadian Dollar, or CAD, is often called the "Loonie" in the world of forex trading because of the Canadian one-dollar coin featuring an image of a common bird in Canada, the loon.
+
+The Canadian Dollar is closely correlated with the US Dollar because of their close economic ties as neighbouring countries.
+
+The US is Canada's largest trading partner, with total trade between the two countries crossing $960 billion in 2022 (63.4% of worldwide trade).
+
+Some of Canada's ber, with oil prices being one of the main factors influencing the CAD's value. For this reason, the Canadian Dollar sits in a basket of currencies that are referred to as commodity currencies.
+
+AUD/USD (Australian Dollar vs. US Dollar)
+
+The Australian Dollar, or AUD, was introduced in 1966 to replace the Australian Pound and is the currency of the Australian Commonwealth (which includes Australia, seven dependent territories and three countries).
+
+Today, the Australian Dollar (AUD) is one of the most traded currencies globally (fifth behind USD, EUR, JPY, and GBP).
+
+The Australian economy is a large producer and exporter of raw materials, including iron ore, coal, petroleum gas, gold, and aluminium oxide. For this reason, and like the Canadian Dollar, the Australian Dollar is referred to as a commodity currency.
+
+Trading Major Forex Currency Pairs
+
+Majors are popular amongst forex traders for the sheer volume of trades. With daily traded volumes running into trillions of dollars, both the spreads involved as well as the chances of slippage tend to be narrower when trading major forex pairs.
+
+Moreover, such an elevated level of liquidity means that traders can enter and exit positions easily.
+
+This doesn't mean that there is no volatility amongst these pairs.
+
+Changing interest rates, geopolitical shifts, and periodic economic data, such as inflation figures or employment numbers, can all result in fluctuating price movements.
+
+These price movements, coupled with high traded volumes of major pairs, represent a sizable market opportunity for traders looking to take both long and short positions.
+
+1. Study these major pairs.
+
+Use technical and fundamental analysis to analyse the price movements of these pairs over time and the economic factors that influence volatility in these pairs.
+
+2. Select the pair that you would like to trade.
+
+Based on your analysis, choose a pair that you are most familiar with and confident about.
+3. Try out different strategies on a demo account.
+
+Use a risk-free demo account to test different trading strategies on your chosen major pair and see the real market outcome of your trading decisions.
+
+4. Open a live account and start trading
+
+Armed with your analysis and having practised on the demo account, use your knowledge and start trading market opportunities with a live trading account.
+
+Remember that trading involves both profits as well as losses, and no one can predict the markets with 100% accuracy. However, this doesn't mean that successful traders don't exist.
+
+Place proper risk management measures, such as stop losses and risk-reward ratios, in place when trading. Moreover, remember to research your broker's policies to assure yourself that you are trading with a trusted and transparent broker.
+
+Disclaimer: The content of this article is intended for informational purposes only and should not be considered professional advice.
+
+Top 5 Blogs
+
+AI vs. Algo: Building Your First Automated Trading Bot with Python (Advanced Edition)
+How to Use InsightPro for Smarter Trading: The Ultimate Trading Tool
+Gold Price Prediction 2030: Possible Scenarios – Will Gold keep Shining 5 Years from Now?
+3 Risk Management Strategies for High-Leverage Forex CFD Trading
+Unlock Your Trading Superpower: 10 AI Prompts to Boost Your Forex and Stock Trading Game
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 

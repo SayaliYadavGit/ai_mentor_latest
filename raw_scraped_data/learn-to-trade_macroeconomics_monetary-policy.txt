@@ -1,0 +1,167 @@
+SOURCE: https://hmarkets.com/learn-to-trade/macroeconomics/monetary-policy/
+================================================================================
+
+Open main menu
+Home
+>
+Education
+>Macroeconomics>Monetary Policy
+What is Monetary Policy and its Tools?
+
+The policy decisions taken by central banks and governments have a huge impact on the price of a currency or pair. We’ll explain how monetary policy works, who the biggest influencers are, and why you need to sort the hawks from the doves.
+
+Education Category
+Macroeconomics
+
+Written by Aaron Akwu, Head of Education Hantec Markets
+
+What is Monetary Policy?
+
+Monetary policy is a crucial tool employed by central banks, such as the Federal Reserve, to manage a country's money supply, interest rates, and overall financial stability. It plays a pivotal role in influencing financial markets and the broader economy.
+
+Central banks use various monetary policy tools, like adjusting interest rates and open market operations, to achieve specific economic goals. For example, during the global financial crisis of 2008, central banks implemented expansionary monetary policies, lowering interest rates and injecting liquidity into the financial system to stimulate economic growth and stabilize financial markets.
+
+Understanding Monetary Policy
+
+Understanding monetary policy is crucial for grasping how a country's central bank, like the Federal Reserve in the United States, manages its economy. At the core of monetary policy are decisions regarding interest rates. These decisions are made by the Federal Open Market Committee (FOMC), a group within the Federal Reserve Bank.
+
+Interest rates are the cost of borrowing money or the return on savings. The central bank uses changes in interest rates to influence economic activity. When the central bank lowers interest rates, it aims to stimulate borrowing and spending, which can boost economic growth. Conversely, when it raises interest rates, it aims to cool down an overheating economy and control inflation.
+
+The Federal Reserve Bank implements these changes by buying or selling government securities in the open market. When it buys securities, it injects money into the banking system, lowering interest rates. When it sells securities, it removes money from the system, pushing interest rates higher.
+
+Understanding these mechanisms is essential for investors, businesses, and policymakers because they directly impact financial markets, consumer behaviour, and overall economic health.
+
+Types of Monetary Policy
+
+There are two primary types of monetary policy:
+
+1. Expansionary Monetary Policy:
+
+Expansionary monetary policy aims to stimulate economic growth and combat recession. Key tools include:
+
+Interest Rate Reduction: Central banks, such as the Federal Reserve in the United States or the European Central Bank, can lower the interest rate they charge financial institutions for borrowing funds. This encourages banks to lend money more freely to consumers and businesses.
+Open Market Operations: Central banks can buy government securities or bonds from the open market, injecting money into the financial system. This increases the supply of money, reducing interest rates and encouraging borrowing and spending.
+Reserve Requirement Reduction: Central banks can lower the reserve requirements for banks, allowing them to lend more of their deposits. This also boosts the money supply.
+Expansionary monetary policy is typically employed during economic downturns to increase consumer spending, business investments, and job creation.
+2. Contractionary Monetary Policy:
+
+Contractionary monetary policy is used to slow down an overheating economy or combat inflation. Key tools include:
+
+Interest Rate Hikes: Central banks raise the interest rates they charge financial institutions for borrowing money. This increases the cost of borrowing for consumers and businesses, reducing spending and investment.
+Open Market Operations: Central banks can sell government securities or bonds, absorbing money from the financial system. This decreases the money supply, raising interest rates and discouraging borrowing and spending.
+Reserve Requirement Increases: Central banks can raise reserve requirements for banks, reducing the amount they can lend and slowing down the money supply.
+
+Contractionary monetary policy is used when an economy is growing too quickly, leading to inflationary pressures. By reducing spending and borrowing, central banks aim to stabilize prices and prevent economic overheating.
+
+Central banks often use a combination of these tools to implement their chosen monetary policy strategy, with a primary focus on achieving price stability and promoting sustainable economic growth. The federal funds rate, which is the interest rate at which financial institutions lend funds to each other overnight, is a critical instrument in the execution of these policies.
+
+Goals of Monetary Policy
+
+The goals of monetary policy are as follows:
+
+Price Stability: One of the primary goals of monetary policy is to maintain low and stable inflation. Central banks often set an inflation target, such as 2%. This number represents the desired annual inflation rate. By keeping inflation in check, central banks aim to preserve the purchasing power of money and promote economic stability.
+Maximum Employment: Another key goal is to achieve maximum sustainable employment. While this can’t be expressed as a single number, central banks use various labour market indicators, such as the unemployment rate, to assess employment conditions. The aim is to foster an environment where as many people as possible have jobs without causing excessive inflation.
+Market Interest Rates: Central banks use policy interest rates, such as the federal funds rate in the United States or the repo rate in other countries, to influence market interest rates. These rates impact the cost of borrowing for households and businesses, and central banks may have specific targets for these rates, such as keeping them near a certain percentage.
+Fixed Exchange Rate: Some countries pursue a fixed exchange rate regime. In this case, the goal is to maintain a specific exchange rate against another currency or a basket of currencies. For instance, a country might aim to keep its currency at a rate of 1 USD = 7 CNY. Achieving this goal involves interventions in the foreign exchange market and adjusting monetary policy as needed to defend the fixed rate.
+Financial Stability: Although not typically expressed in numbers, central banks also work to ensure the stability of the financial system. They monitor various indicators, including bank lending practices and asset prices, to prevent financial crises and maintain the smooth functioning of financial markets.
+Interaction with Fiscal Policy: It’s essential to note that monetary policy interacts with fiscal policy, which is the use of government spending and taxation. The specific goals of fiscal policy, such as achieving a budget surplus or deficit, can impact monetary policy decisions. For example, if fiscal policy is expansionary (increased government spending), central banks might adjust monetary policy to counteract potential inflationary pressures.
+Bank Lending: Central banks often pay attention to the volume of bank lending, including loans to households and businesses. The goal is to ensure that the banking system is providing adequate credit to support economic growth without taking excessive risks that could lead to financial instability.
+Tools of Monetary Policy
+
+Here are some of the key tools of monetary policy:
+
+Interest Rates: Central banks, like the Federal Reserve in the United States, have the authority to set interest rates, including the federal funds rate. By adjusting these rates, central banks influence the cost of borrowing and lending for commercial banks. This, in turn, impacts the broader economy.
+Open Market Operations: Many central banks use open market operations to buy or sell government securities in the open market. When a central bank buys securities, it injects money into the banking system, lowering interest rates. Conversely, selling securities reduces the money supply, raising interest rates.
+Reserve Requirements: Central banks often mandate that commercial banks maintain a certain percentage of their deposits as reserves. By adjusting these reserve requirements, central banks can influence the amount of money that banks can lend, affecting the money supply.
+Forward Guidance: Central banks provide forward guidance on their future policy intentions. This communication helps shape market expectations, including interest rate expectations and exchange rate movements and influences economic decisions by households and businesses.
+Foreign Exchange Interventions: Some central banks may directly intervene in the foreign currency markets to stabilize their own currency’s value. This is particularly relevant in countries where exchange rate stability is a priority.
+Lender of Last Resort: Central banks serve as lenders of last resort, offering financial support to commercial banks facing liquidity crises. This ensures the stability of the banking system and prevents financial panic.
+Asset Purchases (Quantitative Easing): During economic crises, central banks may engage in quantitative easing by purchasing various financial assets, such as government bonds and mortgage-backed securities. This injection of liquidity aims to support financial markets and stimulate economic activity.
+Independence: An independent central bank is crucial for effective monetary policy. It allows central banks to make decisions based on economic data and objectives rather than political pressures, thus ensuring credibility and stability in the financial system.
+
+By utilizing these tools, central banks can implement monetary policy measures that align with their dual mandate, support financial markets, and ultimately contribute to economic stability and growth.
+
+What is Monetary Policy vs. Fiscal Policy?
+
+Monetary policy and fiscal policy are two different ways of influencing the economy. Monetary policy involves the actions of the central bank, such as the Federal Reserve System in the United States, to control the supply and cost of money in the economy. Fiscal policy involves the actions of the government, such as Congress and the President of the United States, to adjust its spending and taxation levels.
+
+One of the main tools of monetary policy is setting the federal funds rate target, which is the interest rate that banks charge each other for overnight loans of reserve balances. Reserve balances are deposits that banks hold at the Federal Reserve to meet their reserve requirements and to clear financial transactions. By changing the federal funds rate target, the Federal Reserve can affect the actual federal funds rate, which influences other short-term interest rates, such as those for credit cards, car loans, and mortgages. The Federal Reserve can also use other tools, such as buying and selling foreign currencies, Treasury securities, and other assets, to affect the money supply and interest rates.
+
+One of the main tools of fiscal policy is setting the government budget, which determines how much the government spends and how much it collects in taxes. By changing its spending and taxation levels, the government can affect the aggregate demand and supply of goods and services in the economy. For example, if the government increases its spending or reduces its taxes, it can stimulate economic activity by increasing disposable income, consumption, investment, and employment. Conversely, if the government decreases its spending or raises its taxes, it can slow down economic activity by reducing disposable income, consumption, investment, and employment.
+
+Both monetary policy and fiscal policy can have short-term and long-term effects on the economy. However, they also face some limitations and challenges. For instance, monetary policy may be constrained by the zero lower bound problem, which occurs when interest rates are already near zero and cannot be lowered further to stimulate the economy. Fiscal policy may be constrained by the debt ceiling problem, which occurs when the government reaches its legal limit on borrowing and cannot finance its spending or tax cuts. Moreover, both policies may have unintended consequences, such as inflation, deflation, crowding out effect, or moral hazard.
+
+The Importance of Key Economic Data
+Monetary Policy
+Inflation
+Unemployment Indicator
+Economic Growth
+Housing Market Indicators
+Consumer Indicators
+Interest Rates & Currency Rates
+Nonfarm Payrolls
+Investor Activity
+Twitter page
+Linkedin page
+Facebook page
+Instagram page
+Line page
+Youtube channel
+Region
+
+Hantec Markets - FSC
+
+Products
+
+Balance Guard
+Copy Trading
+Liquidity Solutions
+Mobile Trading
+
+Important
+
+Costs and Charges
+Funding your Account
+Open an Account
+Try a demo
+Marketing Preferences
+
+Legal
+
+Hantec Policies
+Cookie Policy
+Privacy Policy
+Terms And Conditions
+Contact us
++41-22-551-0215
+info-mu@hmarkets.com
+
+Your money is in trusted hands
+
+Instant Deposits
+
+Fast Withdrawals
+
+Risk Warning
+
+
+CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+Please click here to view our Risk Disclosure.
+
+
+Hantec Markets use cookies to enhance your experience on our website. By staying on our website you agree to our use of cookies.
+You can access our Cookie policy here.
+Hantec Markets is a trading name of Hantec Group.
+
+
+This website is owned and operated by Hantec Markets Holdings Limited. Hantec Markets Holdings Limited, with registration number 2800583, having its registered office at Unit 4609, 46/F Cosco Tower, 183 Queen’s Rd Central, HK, Hong Kong, is the holding company of Hantec Markets Limited and Hantec Markets Ltd. Hantec Markets Limited is authorised and regulated by the Financial Conduct Authority (FCA) in the UK (Register no: FRN 502635). Hantec Markets Ltd. is authorised and regulated as an Investment Dealer by The Financial Services Commission of Mauritius (License no: C114013940). The services of Hantec Markets and information on this website are not aimed at residents of certain jurisdictions, and are not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use may be contrary to any of the laws or regulations of that jurisdiction. The products and services described herein may not be available in all countries and jurisdictions. Those who access this site do so on their own initiative, and are therefore responsible for compliance with applicable local laws and regulations. The release does not constitute any invitation or recruitment of business.
+
+
+Hantec Markets does not offer its services to residents of certain jurisdictions including USA, Iran, Myanmar, North Korea and the United Arab Emirates.
+
+
+MetaTrader, MT4 and MT5 are registered trademarks of MetaQuotes Ltd.
+Our services are compatible with MetaTrader 4 & 5®. 
+Hantec Markets Ltd does not develop, promote, distribute, partner with, endorse, or otherwise associate itself with any third-party Expert Advisor (EA), algorithmic trading systems, or automated trading software. Clients are strongly advised to exercise caution when engaging with any third-party providers or individuals claiming an association with Hantec Markets in connection with automated trading tools or software.
+
+Hantec Markets is not authorised by the Comissão de Valores Mobiliários do Brasil (CVM) to offer brokerage or securities distribution services for foreign-issued securities to investors residing in Brazil. No reference made here should be interpreted as an offer of services to such investors by Hantec. 
