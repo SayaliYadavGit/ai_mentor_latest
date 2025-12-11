@@ -18,7 +18,7 @@ async function initializeVectorStore() {
   console.log('📚 Initializing knowledge base...');
   
   try {
-    const knowledgeBasePath = path.join(__dirname, '..', '..', 'data', 'knowledge_base');
+    const knowledgeBasePath = path.join(__dirname, '..', '..', 'data');
     
     if (!fs.existsSync(knowledgeBasePath)) {
       console.warn('⚠️  Knowledge base not found, creating empty store');
