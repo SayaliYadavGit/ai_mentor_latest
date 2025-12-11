@@ -1,9 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { handleChat } from './routes/chat.js';  // ADD THIS BACK
-
-// REMOVED: import { handleChat } from './routes/chat.js';
+import chatRouter from './routes/chat.js';  // FIXED: Import router, not function
 
 dotenv.config();
 
@@ -24,7 +22,6 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
-// Pattern matching for Vercel preview deployments
 const allowedPatterns = [
   /^https:\/\/ai-mentor-latest.*\.vercel\.app$/,
   /^https:\/\/.*-sayalis-projects-.*\.vercel\.app$/,
@@ -38,13 +35,11 @@ const corsOptions = {
       return callback(null, true);
     }
     
-    // Check exact matches
     if (allowedOrigins.includes(origin)) {
       console.log('✅ Exact match:', origin);
       return callback(null, true);
     }
     
-    // Check pattern matches
     const matchesPattern = allowedPatterns.some(pattern => pattern.test(origin));
     if (matchesPattern) {
       console.log('✅ Pattern match:', origin);
@@ -70,39 +65,8 @@ app.get('/health', (req, res) => {
   });
 });
 
-// Chat endpoint - INLINE IMPLEMENTATION (no import needed)
-app.post('/api/chat', async (req, res) => {
-  try {
-    const { query, conversationHistory = [] } = req.body;
-    
-    if (!query) {
-      return res.status(400).json({ 
-        success: false, 
-        message: 'Query is required' 
-      });
-    }
-
-    console.log('💬 Processing query:', query);
-    
-    // Temporary response until we hook up RAG
-    res.json({
-      success: true,
-      data: {
-        answer: `You asked: "${query}". Backend is working! RAG integration coming next.`,
-        sources: [],
-        confidence: 'high'
-      }
-    });
-    
-  } catch (error) {
-    console.error('❌ Error in /api/chat:', error);
-    res.status(500).json({
-      success: false,
-      message: 'An error occurred processing your request',
-      error: process.env.NODE_ENV === 'development' ? error.message : undefined
-    });
-  }
-});
+// Chat routes - FIXED: Use router
+app.use('/api/chat', chatRouter);
 
 // 404 handler
 app.use((req, res) => {
