@@ -19,7 +19,7 @@ import { ChatOpenAI } from '@langchain/openai';
 import { PromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence } from '@langchain/core/runnables';
-import { searchVectorStore } from './vectorStore.js';
+import { searchVectorStore, initializeVectorStore } from './vectorStore.js';
 
 const APP_CONFIG = {
   supportEmail: process.env.SUPPORT_EMAIL || 'support@hmarkets.com',
