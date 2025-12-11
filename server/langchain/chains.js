@@ -19,21 +19,6 @@ import { ChatOpenAI } from '@langchain/openai';
 import { PromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence } from '@langchain/core/runnables';
-import { 
-  detectQueryCategory, 
-  getPersonalityResponse 
-} from './config.js';
-import {
-  SYSTEM_PROMPT,
-  MODEL_CONFIG,
-  COMPLIANCE_RULES,
-  RESPONSE_TEMPLATES,
-  DEFAULT_RELATED_QUESTIONS,
-  requiresRiskDisclaimer,
-  requiresEscalation,
-  getConfidenceLevel,
-  formatSources,
-} from './config.js';
 import { searchVectorStore } from './vectorStore.js';
 
 const APP_CONFIG = {
