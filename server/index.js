@@ -1,6 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import { handleChat } from './routes/chat.js';  // ADD THIS BACK
+
 // REMOVED: import { handleChat } from './routes/chat.js';
 
 dotenv.config();
