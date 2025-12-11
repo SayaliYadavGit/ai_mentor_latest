@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { handleChatRequest } from './langchain/chains.js';
+import { chatWithKnowledgeBase } from './langchain/chains.js';  // FIXED
 
 dotenv.config();
 
@@ -17,7 +17,7 @@ if (missingEnvVars.length > 0) {
   process.exit(1);
 }
 
-// CORS Configuration - FIXED FOR VERCEL PREVIEW DEPLOYMENTS
+// CORS Configuration
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
@@ -26,8 +26,8 @@ const allowedOrigins = [
 ].filter(Boolean);
 
 const allowedPatterns = [
-  /^https:\/\/ai-mentor-latest.*\.vercel\.app$/,           // All Vercel deployments
-  /^https:\/\/.*-sayalis-projects-.*\.vercel\.app$/,       // All your projects
+  /^https:\/\/ai-mentor-latest.*\.vercel\.app$/,
+  /^https:\/\/.*-sayalis-projects-.*\.vercel\.app$/,
 ];
 
 const corsOptions = {
@@ -91,7 +91,8 @@ app.post('/api/chat', async (req, res) => {
 
     console.log('💬 Query:', query);
     
-    const result = await handleChatRequest(query, conversationHistory);
+    // FIXED: Use correct function name
+    const result = await chatWithKnowledgeBase(query, conversationHistory);
     
     res.json({
       success: true,
