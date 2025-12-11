@@ -192,3 +192,19 @@ export async function getVectorStoreStats() {
 export function isVectorStoreReady() {
   return vectorStore !== null;
 }
+
+// At the very bottom of the file, after all function definitions:
+
+/**
+ * Auto-initialize vector store on module load
+ * This ensures it's ready when first query comes in
+ */
+console.log('🔄 Auto-initializing vector store...');
+initializeVectorStore()
+  .then(() => {
+    console.log('✅ Vector store ready for queries');
+  })
+  .catch((error) => {
+    console.error('❌ Auto-initialization failed:', error.message);
+    console.error('⚠️  Vector store will initialize on first query');
+  });
