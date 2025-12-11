@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { handleChat } from './routes/chat.js';
+// REMOVED: import { handleChat } from './routes/chat.js';
 
 dotenv.config();
 
@@ -14,7 +14,7 @@ if (!process.env.OPENAI_API_KEY) {
   process.exit(1);
 }
 
-// CORS Configuration - ONLY THIS SECTION UPDATED
+// CORS Configuration
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
@@ -22,7 +22,7 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
-// NEW: Pattern matching for Vercel preview deployments
+// Pattern matching for Vercel preview deployments
 const allowedPatterns = [
   /^https:\/\/ai-mentor-latest.*\.vercel\.app$/,
   /^https:\/\/.*-sayalis-projects-.*\.vercel\.app$/,
@@ -42,7 +42,7 @@ const corsOptions = {
       return callback(null, true);
     }
     
-    // NEW: Check pattern matches
+    // Check pattern matches
     const matchesPattern = allowedPatterns.some(pattern => pattern.test(origin));
     if (matchesPattern) {
       console.log('✅ Pattern match:', origin);
@@ -68,8 +68,39 @@ app.get('/health', (req, res) => {
   });
 });
 
-// Chat endpoint
-app.post('/api/chat', handleChat);
+// Chat endpoint - INLINE IMPLEMENTATION (no import needed)
+app.post('/api/chat', async (req, res) => {
+  try {
+    const { query, conversationHistory = [] } = req.body;
+    
+    if (!query) {
+      return res.status(400).json({ 
+        success: false, 
+        message: 'Query is required' 
+      });
+    }
+
+    console.log('💬 Processing query:', query);
+    
+    // Temporary response until we hook up RAG
+    res.json({
+      success: true,
+      data: {
+        answer: `You asked: "${query}". Backend is working! RAG integration coming next.`,
+        sources: [],
+        confidence: 'high'
+      }
+    });
+    
+  } catch (error) {
+    console.error('❌ Error in /api/chat:', error);
+    res.status(500).json({
+      success: false,
+      message: 'An error occurred processing your request',
+      error: process.env.NODE_ENV === 'development' ? error.message : undefined
+    });
+  }
+});
 
 // 404 handler
 app.use((req, res) => {
@@ -83,5 +114,11 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  console.log('═══════════════════════════════════════════════════════════');
+  console.log('🟢 SERVER RUNNING');
+  console.log('═══════════════════════════════════════════════════════════');
+  console.log(`📍 Port: ${PORT}`);
+  console.log(`📍 Health: http://localhost:${PORT}/health`);
+  console.log(`📍 API: http://localhost:${PORT}/api/chat`);
+  console.log('═══════════════════════════════════════════════════════════');
 });
