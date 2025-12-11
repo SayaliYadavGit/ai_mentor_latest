@@ -1,23 +1,20 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { chatWithKnowledgeBase } from './langchain/chains.js';  // FIXED
+import { handleChat } from './routes/chat.js';
 
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Validate required environment variables
-const requiredEnvVars = ['OPENAI_API_KEY'];
-const missingEnvVars = requiredEnvVars.filter(varName => !process.env[varName]);
-
-if (missingEnvVars.length > 0) {
-  console.error('❌ Missing required environment variables:', missingEnvVars);
+// Validate environment variables
+if (!process.env.OPENAI_API_KEY) {
+  console.error('❌ OPENAI_API_KEY is required');
   process.exit(1);
 }
 
-// CORS Configuration
+// CORS Configuration - ONLY THIS SECTION UPDATED
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
@@ -25,6 +22,7 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 
+// NEW: Pattern matching for Vercel preview deployments
 const allowedPatterns = [
   /^https:\/\/ai-mentor-latest.*\.vercel\.app$/,
   /^https:\/\/.*-sayalis-projects-.*\.vercel\.app$/,
@@ -35,15 +33,16 @@ const corsOptions = {
     console.log('🔍 Request from:', origin);
     
     if (!origin) {
-      console.log('✅ No origin (allowed)');
       return callback(null, true);
     }
     
+    // Check exact matches
     if (allowedOrigins.includes(origin)) {
       console.log('✅ Exact match:', origin);
       return callback(null, true);
     }
     
+    // NEW: Check pattern matches
     const matchesPattern = allowedPatterns.some(pattern => pattern.test(origin));
     if (matchesPattern) {
       console.log('✅ Pattern match:', origin);
@@ -61,95 +60,28 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.use(express.json());
 
-// Request logging
-app.use((req, res, next) => {
-  const timestamp = new Date().toISOString();
-  console.log(`[${timestamp}] ${req.method} ${req.path}`);
-  next();
-});
-
-// Health check endpoint
+// Health check
 app.get('/health', (req, res) => {
   res.json({ 
     status: 'healthy',
-    timestamp: new Date().toISOString(),
-    environment: process.env.NODE_ENV || 'development'
+    timestamp: new Date().toISOString()
   });
 });
 
-// Main chat endpoint
-app.post('/api/chat', async (req, res) => {
-  try {
-    const { query, conversationHistory = [] } = req.body;
-    
-    if (!query) {
-      return res.status(400).json({ 
-        success: false, 
-        message: 'Query is required' 
-      });
-    }
-
-    console.log('💬 Query:', query);
-    
-    // FIXED: Use correct function name
-    const result = await chatWithKnowledgeBase(query, conversationHistory);
-    
-    res.json({
-      success: true,
-      data: result
-    });
-    
-  } catch (error) {
-    console.error('❌ Error:', error);
-    res.status(500).json({
-      success: false,
-      message: 'An error occurred processing your request',
-      error: process.env.NODE_ENV === 'development' ? error.message : undefined
-    });
-  }
-});
+// Chat endpoint
+app.post('/api/chat', handleChat);
 
 // 404 handler
 app.use((req, res) => {
-  res.status(404).json({ 
-    success: false, 
-    message: 'Endpoint not found' 
-  });
+  res.status(404).json({ message: 'Endpoint not found' });
 });
 
-// Global error handler
+// Error handler
 app.use((err, req, res, next) => {
-  console.error('💥 Error:', err);
-  res.status(500).json({
-    success: false,
-    message: 'Internal server error',
-    error: process.env.NODE_ENV === 'development' ? err.message : undefined
-  });
+  console.error('Error:', err);
+  res.status(500).json({ message: 'Internal server error' });
 });
 
-// Start server
 app.listen(PORT, () => {
-  console.log('═══════════════════════════════════════════════════════════');
-  console.log('🟢 SERVER RUNNING');
-  console.log('═══════════════════════════════════════════════════════════');
-  console.log('');
-  console.log('📍 Local:  http://localhost:' + PORT);
-  console.log('📍 Health: http://localhost:' + PORT + '/health');
-  console.log('📍 API:    http://localhost:' + PORT + '/api/chat');
-  console.log('');
-  console.log('💡 Press Ctrl+C to stop');
-  console.log('');
+  console.log(`Server running on port ${PORT}`);
 });
-
-// Graceful shutdown
-process.on('SIGTERM', () => {
-  console.log('⚠️  SIGTERM received, shutting down gracefully...');
-  process.exit(0);
-});
-
-// Handle unhandled promise rejections
-process.on('unhandledRejection', (reason, promise) => {
-  console.error('💥 Unhandled Rejection:', reason);
-});
-
-export default app;
