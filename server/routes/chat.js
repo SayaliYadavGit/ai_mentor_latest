@@ -10,10 +10,8 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Initialize vector store (loaded once at startup)
 let vectorStore = null;
 
-// Initialize vector store
 async function initializeVectorStore() {
   if (vectorStore) return vectorStore;
   
@@ -60,7 +58,6 @@ async function initializeVectorStore() {
     
   } catch (error) {
     console.error('❌ Error initializing vector store:', error);
-    // Create fallback empty store
     vectorStore = await MemoryVectorStore.fromTexts(
       ['Hantec Markets is a CFD broker. Please contact support for more information.'],
       [{ source: 'fallback' }],
@@ -70,57 +67,47 @@ async function initializeVectorStore() {
   }
 }
 
-// Initialize on module load
 initializeVectorStore().catch(console.error);
 
-// Handle chat request
 export async function handleChat(req, res) {
   try {
     const { query, conversationHistory = [] } = req.body;
     
     if (!query) {
       return res.status(400).json({ 
-        success: false, 
-        message: 'Query is required' 
+        error: 'Query is required' 
       });
     }
 
     console.log('💬 Query:', query);
     
-    // Ensure vector store is initialized
     if (!vectorStore) {
       await initializeVectorStore();
     }
 
-    // Search knowledge base
     const results = await vectorStore.similaritySearchWithScore(query, 5);
     
     console.log(`📚 Found ${results.length} relevant documents`);
     
     if (results.length === 0 || results[0][1] < 0.3) {
       return res.json({
-        success: true,
-        data: {
-          answer: "I don't have specific information about that in my knowledge base. Please contact our support team for assistance.",
-          sources: [],
-          confidence: 'low'
-        }
+        answer: "I don't have specific information about that in my knowledge base. Please contact our support team for assistance.",
+        sources: [],
+        confidence: 'low',
+        sourcesCount: 0
       });
     }
 
-    // Build context from results
     const context = results
       .map(([doc, score]) => doc.pageContent)
       .join('\n\n');
 
-    // Create chat model
     const model = new ChatOpenAI({
       modelName: process.env.MODEL_NAME || 'gpt-4o-mini',
       temperature: parseFloat(process.env.TEMPERATURE) || 0.1,
       maxTokens: parseInt(process.env.MAX_TOKENS) || 500,
     });
 
-    // Build messages
     const messages = [
       {
         role: 'system',
@@ -145,10 +132,8 @@ Important:
       }
     ];
 
-    // Get AI response
     const response = await model.invoke(messages);
     
-    // Determine confidence based on similarity score
     const topScore = results[0][1];
     let confidence = 'low';
     if (topScore >= 0.5) confidence = 'high';
@@ -156,24 +141,22 @@ Important:
 
     console.log(`✅ Response generated (confidence: ${confidence})`);
 
+    // FIXED: Return flat object, not nested in "data"
     res.json({
-      success: true,
-      data: {
-        answer: response.content,
-        sources: results.slice(0, 3).map(([doc, score]) => ({
-          content: doc.pageContent.substring(0, 200) + '...',
-          score: score.toFixed(3)
-        })),
-        confidence: confidence
-      }
+      answer: response.content,
+      sources: results.slice(0, 3).map(([doc, score]) => ({
+        content: doc.pageContent.substring(0, 200) + '...',
+        score: score.toFixed(3)
+      })),
+      confidence: confidence,
+      sourcesCount: results.length
     });
     
   } catch (error) {
     console.error('❌ Error in handleChat:', error);
     res.status(500).json({
-      success: false,
-      message: 'An error occurred processing your request',
-      error: process.env.NODE_ENV === 'development' ? error.message : undefined
+      error: 'An error occurred processing your request',
+      message: process.env.NODE_ENV === 'development' ? error.message : undefined
     });
   }
 }
