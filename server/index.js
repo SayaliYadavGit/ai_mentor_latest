@@ -34,7 +34,10 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
   'http://localhost:3000',
-  process.env.FRONTEND_URL,
+  'https://ai-mentor-latest.vercel.app',            // Your Vercel URL
+  'https://ai-mentor-latest-git-main-sayaliyadavgit.vercel.app', // Vercel Git preview
+  /^https:\/\/ai-mentor-latest-.*\.vercel\.app$/,   // All Vercel preview URLs
+  process.env.FRONTEND_URL,                       
   // Add your Vercel URL after deployment
   // 'https://your-app.vercel.app',
   // 'https://your-app-*.vercel.app'
