@@ -1,8 +1,28 @@
+import {
+  SYSTEM_PROMPT,
+  MODEL_CONFIG,
+  COMPLIANCE_RULES,
+  RESPONSE_TEMPLATES,
+  DEFAULT_RELATED_QUESTIONS,
+  requiresRiskDisclaimer,
+  requiresEscalation,
+  getConfidenceLevel,
+  formatSources,
+  detectQueryCategory,
+  getPersonalityResponse,
+  generateFollowUpQuestions,  // NEW
+  formatFollowUps,             // NEW
+  getConversationStarter,      // NEW
+} from './config.js';
 // LangChain Chains - Main AI Logic with RAG
 import { ChatOpenAI } from '@langchain/openai';
 import { PromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence } from '@langchain/core/runnables';
+import { 
+  detectQueryCategory, 
+  getPersonalityResponse 
+} from './config.js';
 import {
   SYSTEM_PROMPT,
   MODEL_CONFIG,
@@ -60,6 +80,77 @@ export async function processQuery(query, conversationHistory = []) {
     if (!query || query.trim().length === 0) {
       throw new Error('Query cannot be empty');
     }
+    // ============================================
+    // PERSONALITY & CHARACTER CHECK 🎭
+    // ============================================
+    const queryCategory = detectQueryCategory(query);
+    console.log('🎭 Query category:', queryCategory);
+    
+    // Handle inappropriate queries immediately
+    if (queryCategory === 'inappropriate') {
+      console.log('🚫 Inappropriate query blocked');
+      return {
+        response: getPersonalityResponse('inappropriate'),
+        confidence: 'blocked',
+        sources: [],
+        metadata: {
+          blocked: true,
+          reason: 'inappropriate',
+          duration: Date.now() - startTime,
+        },
+      };
+    }
+    
+    // Handle testing queries with sass
+    if (queryCategory === 'testing') {
+      console.log('🧪 Testing query detected');
+      return {
+        response: getPersonalityResponse('testing'),
+        confidence: 'medium',
+        sources: [],
+        metadata: {
+          testing: true,
+          duration: Date.now() - startTime,
+        },
+      };
+    }
+    
+    // Handle silly queries with humor
+    if (queryCategory === 'silly') {
+      console.log('😄 Silly query detected - responding with personality');
+      return {
+        response: getPersonalityResponse('silly'),
+        confidence: 'low',
+        sources: [],
+        metadata: {
+          silly: true,
+          duration: Date.now() - startTime,
+        },
+      };
+    }
+    
+    // Handle completely unrelated queries
+    if (queryCategory === 'unrelated') {
+      console.log('🔀 Unrelated query detected - redirecting with sass');
+      return {
+        response: getPersonalityResponse('unrelated'),
+        confidence: 'low',
+        sources: [],
+        metadata: {
+          unrelated: true,
+          duration: Date.now() - startTime,
+        },
+      };
+    }
+    
+    // If trading-related or unknown, continue with normal RAG processing
+    console.log('✅ Trading-related query - proceeding with RAG');
+    
+    // Initialize vector store if needed
+    console.log('📚 Ensuring vector store is initialized...');
+    await initializeVectorStore();
+    
+ 
     
     // Check for escalation triggers
     if (requiresEscalation(query)) {
@@ -143,7 +234,21 @@ export async function processQuery(query, conversationHistory = []) {
       console.log('⚠️  Adding risk disclaimer');
       finalResponse += `\n\n${COMPLIANCE_RULES.riskDisclaimer}`;
     }
+    // ============================================
+    // NEW: ADD CONVERSATIONAL FOLLOW-UPS 💬
+    // ============================================
+    console.log('💡 Generating follow-up questions...');
+    const followUps = generateFollowUpQuestions(query, results);
+    const followUpText = formatFollowUps(followUps);
     
+    // Add follow-ups to response
+    if (followUpText) {
+      finalResponse += followUpText;
+    }
+    
+    // Add general conversation starter
+    finalResponse += `\n\n${getConversationStarter()}`;
+
     // Format sources
     const sources = formatSources(results.map(r => ({
       metadata: r.metadata,

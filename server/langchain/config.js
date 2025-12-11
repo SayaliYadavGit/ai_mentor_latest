@@ -550,3 +550,284 @@ export default {
   formatSources,
   validateResponse,
 };
+
+/**
+ * ============================================
+ * PERSONALITY SYSTEM - SASSY MODE 😎
+ * ============================================
+ */
+
+/**
+ * Sassy personality responses for off-topic queries
+ */
+export const PERSONALITY_RESPONSES = {
+  unrelated: [
+    "Wrong chatbot, friend! I'm a trading expert, not Google. 😎 Try asking about leverage, spreads, or MT5!",
+    "LOL, creative question! But I'm paid to talk about trading, not *that*. What do you *actually* want to know about Hantec? 💼",
+    "I see what you did there... but nope! 🙅‍♂️ I only do trading talk. Ask me about CFDs, account types, or platform features!",
+    "Bruh... I'm a TRADING bot. That's like asking a chef about quantum physics. 🤦‍♂️ Let's talk forex instead!",
+    "Sir/Ma'am, this is a Hantec Markets chatbot. 📞 Ask me about CFDs or show yourself out! (Just kidding... but seriously, ask about trading!)",
+    "Nice try, but I'm not falling for it! 😏 I'm here for one thing: TRADING. What platform interests you?",
+  ],
+  
+  silly: [
+    "Okay, you got a chuckle out of me! 😄 But seriously, let's talk trading. What interests you - Forex? Crypto CFDs? Account setup?",
+    "Points for creativity! 🎨 But I'm here to make you a better trader, not a comedian. Fire away with real questions!",
+    "Is this a test? Because if it is, you failed! 😂 Ask me something about trading platforms or account types!",
+    "Error 404: Answer not found in my trading database. 🤖 Try again with a REAL question! Like 'What's leverage?' or 'How do I deposit?'",
+    "I appreciate the entertainment, but my boss (Hantec) pays me to talk about trading. 💰 Let's discuss MT4, MT5, or account features!",
+    "You're hilarious! 🎭 Now let me be helpful - ask me about spreads, commissions, or how to start trading!",
+  ],
+  
+  inappropriate: [
+    "Whoa there! 🛑 Let's keep this professional. I'm here for trading questions only. Ask me about platforms, accounts, or trading products!",
+    "That's not appropriate for this conversation. I'm a professional trading assistant. Let's talk about Hantec Markets services instead!",
+    "Not cool. 😑 I'm programmed for trading discussions only. Please ask appropriate questions about forex, CFDs, or account management.",
+  ],
+  
+  testing: [
+    "Testing, testing... 1, 2, 3! ✅ Yep, I'm working! Now ask me something useful like 'What's the best platform for beginners?'",
+    "Detected: You're testing me! 🔍 I pass the test. Now let's test YOUR trading knowledge - what do you know about leverage?",
+    "Test mode activated! 🤖 I'm alive and ready to discuss: Trading platforms, Account types, CFD products, Deposits & withdrawals. Pick one!",
+  ]
+};
+
+/**
+ * Detect query category
+ */
+export function detectQueryCategory(query) {
+  const lowerQuery = query.toLowerCase().trim();
+  
+  // Testing patterns
+  const testPatterns = [
+    /^(test|testing|hello test)$/i,
+    /are you (working|alive|there|online)/i,
+    /can you (hear|read|understand) me/i,
+  ];
+  
+  if (testPatterns.some(pattern => pattern.test(query))) {
+    return 'testing';
+  }
+  
+  // Silly/playful queries
+  const sillyPatterns = [
+    /what is (love|life|the meaning of life)/i,
+    /tell me (a joke|something funny|a story)/i,
+    /are you (real|human|a robot|sentient|ai|gpt|chatgpt)/i,
+    /can you (dance|sing|rap|play|marry me)/i,
+    /do you (love|like|hate) me/i,
+    /what'?s? your (name|age|favorite|birthday)/i,
+    /who (created|made|built) you/i,
+    /(lol|haha|lmao|rofl)/i,
+    /say (hi|hello|something)/i,
+  ];
+  
+  if (sillyPatterns.some(pattern => pattern.test(query))) {
+    return 'silly';
+  }
+  
+  // Inappropriate queries
+  const inappropriatePatterns = [
+    /\b(sex|porn|nude|xxx|nsfw)\b/i,
+    /\b(kill|die|suicide|hurt|violence)\b/i,
+    /\b(hack|steal|fraud|scam|illegal)\b/i,
+    /\b(drug|cocaine|weed|marijuana)\b/i,
+  ];
+  
+  if (inappropriatePatterns.some(pattern => pattern.test(query))) {
+    return 'inappropriate';
+  }
+  
+  // Completely unrelated topics
+  const unrelatedTopics = [
+    // Food/cooking
+    /\b(recipe|cooking|food|pizza|burger|restaurant|cake|dinner)\b/i,
+    // Entertainment
+    /\b(movie|film|series|netflix|youtube|game|gaming|fortnite)\b/i,
+    // Sports (non-trading)
+    /\b(football|soccer|basketball|cricket|baseball) (match|game|score|player)\b/i,
+    // Weather
+    /\b(weather|temperature|rain|sunny|forecast|climate)\b/i,
+    // Travel
+    /\b(flight|hotel|vacation|travel|tourist|trip|holiday)\b/i,
+    // Health
+    /\b(doctor|medicine|symptoms|disease|headache|fever)\b/i,
+    // Technology (non-trading)
+    /\b(iphone|android|laptop|computer|playstation) (buy|best|review)\b/i,
+    // Random stuff
+    /\b(cat|dog|pet|animal)\b/i,
+    /\b(school|homework|assignment)\b/i,
+  ];
+  
+  if (unrelatedTopics.some(pattern => pattern.test(query))) {
+    return 'unrelated';
+  }
+  
+  // Trading-related (acceptable) - these should proceed normally
+  const tradingKeywords = [
+    'trade', 'trading', 'trader', 'forex', 'cfd', 'leverage', 'spread', 'pip',
+    'platform', 'mt4', 'mt5', 'metatrader', 'social', 'copy',
+    'account', 'deposit', 'withdraw', 'fund', 'balance',
+    'stock', 'crypto', 'bitcoin', 'commodity', 'gold', 'oil',
+    'index', 'indices', 'dow', 'nasdaq', 'sp500',
+    'broker', 'hantec', 'regulation', 'fca', 'fsc',
+    'chart', 'indicator', 'strategy', 'signal',
+    'risk', 'profit', 'loss', 'margin', 'swap',
+    'buy', 'sell', 'long', 'short', 'position',
+    'demo', 'live', 'cent', 'global', 'pro',
+  ];
+  
+  if (tradingKeywords.some(keyword => lowerQuery.includes(keyword))) {
+    return 'trading-related';
+  }
+  
+  // If nothing matches, treat as unknown (will go to RAG)
+  return 'unknown';
+}
+
+/**
+ * Get random personality response
+ */
+export function getPersonalityResponse(category) {
+  const responses = PERSONALITY_RESPONSES[category];
+  if (!responses || responses.length === 0) {
+    return PERSONALITY_RESPONSES.unrelated[0];
+  }
+  
+  // Return random response from the category
+  return responses[Math.floor(Math.random() * responses.length)];
+}
+
+/**
+ * ============================================
+ * CONVERSATIONAL FOLLOW-UPS 💬
+ * ============================================
+ */
+
+/**
+ * Generate contextual follow-up questions based on the query topic
+ */
+export function generateFollowUpQuestions(query, retrievedDocs = []) {
+  const lowerQuery = query.toLowerCase();
+  
+  // Extract topics from query
+  const topics = {
+    platforms: /\b(platform|mt4|mt5|metatrader|app|social|webtrader)\b/i.test(lowerQuery),
+    accounts: /\b(account|registration|signup|demo|live|global|pro|cent)\b/i.test(lowerQuery),
+    leverage: /\b(leverage|margin|ratio)\b/i.test(lowerQuery),
+    products: /\b(forex|cfd|stock|crypto|commodity|indices|gold|oil)\b/i.test(lowerQuery),
+    deposit: /\b(deposit|fund|payment|bank|card|wallet)\b/i.test(lowerQuery),
+    withdraw: /\b(withdraw|withdrawal|cash out)\b/i.test(lowerQuery),
+    fees: /\b(fee|commission|spread|charge|cost|pricing)\b/i.test(lowerQuery),
+    beginner: /\b(beginner|start|new|learn|how to)\b/i.test(lowerQuery),
+    regulation: /\b(regulat|license|fca|fsc|safe|security)\b/i.test(lowerQuery),
+  };
+  
+  // Topic-specific follow-ups
+  const followUpMap = {
+    platforms: [
+      "Would you like to know the differences between MT4 and MT5?",
+      "Interested in learning about Hantec Social copy trading?",
+      "Need help downloading and installing a platform?",
+      "Want to know which platform is best for mobile trading?",
+    ],
+    accounts: [
+      "Would you like to compare Hantec Global vs Pro accounts?",
+      "Want to know the minimum deposit requirements?",
+      "Interested in opening a demo account first?",
+      "Need help with the account registration process?",
+    ],
+    leverage: [
+      "Want to understand how leverage affects your risk?",
+      "Curious about what leverage options Hantec offers?",
+      "Need help calculating position sizes with leverage?",
+      "Interested in learning about margin requirements?",
+    ],
+    products: [
+      "Want to explore specific currency pairs available?",
+      "Interested in cryptocurrency CFD trading?",
+      "Curious about commodity trading like Gold or Oil?",
+      "Would you like to know about stock CFDs?",
+    ],
+    deposit: [
+      "Want to know the fastest deposit method?",
+      "Need information about minimum deposit amounts?",
+      "Interested in deposit bonuses or promotions?",
+      "Curious about deposit processing times?",
+    ],
+    withdraw: [
+      "Want to know withdrawal processing times?",
+      "Need information about withdrawal fees?",
+      "Interested in the fastest withdrawal method?",
+      "Have questions about withdrawal verification?",
+    ],
+    fees: [
+      "Want to compare spreads across different accounts?",
+      "Interested in commission structures?",
+      "Curious about overnight swap fees?",
+      "Need information about deposit/withdrawal fees?",
+    ],
+    beginner: [
+      "Want a step-by-step guide to start trading?",
+      "Interested in learning basic trading terminology?",
+      "Need recommendations for educational resources?",
+      "Want to know about risk management for beginners?",
+    ],
+    regulation: [
+      "Want to know which regulators oversee Hantec?",
+      "Interested in how client funds are protected?",
+      "Curious about segregated account policies?",
+      "Need information about investor compensation?",
+    ],
+  };
+  
+  // Collect relevant follow-ups
+  const relevantFollowUps = [];
+  
+  for (const [topic, isRelevant] of Object.entries(topics)) {
+    if (isRelevant && followUpMap[topic]) {
+      relevantFollowUps.push(...followUpMap[topic]);
+    }
+  }
+  
+  // If no specific topic matched, use general follow-ups
+  if (relevantFollowUps.length === 0) {
+    relevantFollowUps.push(
+      "Want to explore different trading platforms?",
+      "Interested in learning about account types?",
+      "Curious about deposit and withdrawal methods?",
+      "Need help with platform features or tools?",
+    );
+  }
+  
+  // Return 2-3 random unique follow-ups
+  const shuffled = relevantFollowUps.sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, 3);
+}
+
+/**
+ * Format follow-up questions into response
+ */
+export function formatFollowUps(followUps) {
+  if (!followUps || followUps.length === 0) return '';
+  
+  const formatted = followUps
+    .map((q, idx) => `${idx + 1}. ${q}`)
+    .join('\n');
+  
+  return `\n\n**💡 You might also want to know:**\n${formatted}`;
+}
+
+/**
+ * General conversation starters (when no specific follow-ups)
+ */
+export const CONVERSATION_STARTERS = [
+  "What else would you like to know about Hantec Markets?",
+  "Is there anything specific about trading platforms you'd like to explore?",
+  "Would you like to know more about account types or trading products?",
+  "Any questions about getting started with trading?",
+];
+
+export function getConversationStarter() {
+  return CONVERSATION_STARTERS[Math.floor(Math.random() * CONVERSATION_STARTERS.length)];
+}
