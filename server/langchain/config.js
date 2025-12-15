@@ -561,6 +561,12 @@ export default {
  * Sassy personality responses for off-topic queries
  */
 export const PERSONALITY_RESPONSES = {
+  greeting: [
+    "Hello! 👋 I'm your Hantec Markets AI assistant. How can I help you today?",
+    "Hi there! I'm here to help with all your Hantec trading questions. What would you like to know?",
+    "Hey! 😊 I'm doing great, thanks for asking! I'm ready to assist you with trading, platforms, accounts, and more. What brings you here today?",
+    "Hello! I'm your trading mentor from Hantec Markets. Whether you're new to trading or experienced, I'm here to help. What can I do for you?",
+  ],
   unrelated: [
     "Wrong chatbot, friend! I'm a trading expert, not Google. 😎 Try asking about leverage, spreads, or MT5!",
     "LOL, creative question! But I'm paid to talk about trading, not *that*. What do you *actually* want to know about Hantec? 💼",
@@ -609,6 +615,20 @@ export function detectQueryCategory(query) {
     return 'testing';
   }
   
+   const greetingPatterns = [
+    /^(hi|hello|hey|greetings|good morning|good afternoon|good evening)$/i,
+    /^(hi|hello|hey)\s*(there|claude|bot)?$/i,
+    /^how are you\??$/i,
+    /^how'?s it going\??$/i,
+    /^what'?s up\??$/i,
+    /^sup$/i,
+    /^howdy$/i,
+  ];
+  
+  if (greetingPatterns.some(pattern => pattern.test(lowerQuery))) {
+    return 'greeting';
+  }
+
   // Silly/playful queries
   const sillyPatterns = [
     /what is (love|life|the meaning of life)/i,
@@ -779,6 +799,12 @@ export function generateFollowUpQuestions(query, retrievedDocs = []) {
       "Curious about segregated account policies?",
       "Need information about investor compensation?",
     ],
+     greeting: [
+    "Hello! 👋 I'm your Hantec Markets AI assistant. How can I help you today?",
+    "Hi there! I'm here to help with all your Hantec trading questions. What would you like to know?",
+    "Hey! 😊 I'm doing great, thanks for asking! I'm ready to assist you with trading, platforms, accounts, and more. What brings you here today?",
+    "Hello! I'm your trading mentor from Hantec Markets. Whether you're new to trading or experienced, I'm here to help. What can I do for you?",
+  ],
   };
   
   // Collect relevant follow-ups
@@ -827,6 +853,7 @@ export const CONVERSATION_STARTERS = [
   "Would you like to know more about account types or trading products?",
   "Any questions about getting started with trading?",
 ];
+
 
 export function getConversationStarter() {
   return CONVERSATION_STARTERS[Math.floor(Math.random() * CONVERSATION_STARTERS.length)];

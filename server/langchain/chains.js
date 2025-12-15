@@ -114,6 +114,17 @@ export async function processQuery(query, conversationHistory = []) {
       };
     }
     
+  if (queryCategory === 'greeting') {
+  console.log('👋 Greeting detected - responding warmly');
+  return {
+    response: getPersonalityResponse('greeting'),
+    confidence: 'high',
+    sources: [],
+    followUpQuestions: [ "What would you like to know about Hantec Markets?",
+          "Are you new to trading or an experienced trader?",
+          "Would you like to explore our trading platforms?"],  // Suggests next steps
+  };
+  }
     // Handle completely unrelated queries
     if (queryCategory === 'unrelated') {
       console.log('🔀 Unrelated query detected - redirecting with sass');
@@ -127,6 +138,8 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
     }
+
+    
     
     // If trading-related or unknown, continue with normal RAG processing
     console.log('✅ Trading-related query - proceeding with RAG');
