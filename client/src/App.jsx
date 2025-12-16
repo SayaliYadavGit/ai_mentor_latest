@@ -1,39 +1,80 @@
-import { useState, useEffect } from 'react';
-import WelcomeScreen from './components/WelcomeScreen';
+import React, { useState, useEffect } from 'react';
 import ChatInterface from './components/ChatInterface';
-import { APP_CONFIG } from './config';
+import WelcomeScreen from './components/WelcomeScreen';
+import './App.css';
 
 function App() {
   const [conversationStarted, setConversationStarted] = useState(false);
   const [selectedOption, setSelectedOption] = useState(null);
-  const [initialMessage, setInitialMessage] = useState(null);
-  const [userName] = useState(APP_CONFIG.userName || 'James');
+  const [initialQuery, setInitialQuery] = useState('');
 
-  const handleStartConversation = (option, message) => {
+  // Auto-start conversation from URL parameters (iframe mode)
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const option = urlParams.get('option');
+    const query = urlParams.get('query');
+    
+    if ((option || query) && !conversationStarted) {
+      console.log('🎯 Auto-starting from URL:', { option, query });
+      setConversationStarted(true);
+      
+      if (option) {
+        setSelectedOption(option);
+        // Set initial query based on option
+        const optionQueries = {
+          'about_hantec': 'Tell me about Hantec Markets',
+          'what_is_mt5': 'What is MT5?',
+          'start_trading': 'I want to start live trading',
+          'learn_cfds': 'I want to learn about CFDs',
+          'take_tour': 'Give me a quick tour of the platform',
+          'demo_trading': 'What is demo trading?',
+          'what_are_cfds': 'What are CFDs?'
+        };
+        setInitialQuery(optionQueries[option] || '');
+      }
+      
+      if (query) {
+        setInitialQuery(decodeURIComponent(query));
+      }
+    }
+  }, [conversationStarted]);
+
+  const handleStartConversation = (option, query = '') => {
+    console.log('🎬 Starting conversation:', { option, query });
+    
     setSelectedOption(option);
-    setInitialMessage(message || null);
     setConversationStarted(true);
-  };
-
-  const handleBackToWelcome = () => {
-    setConversationStarted(false);
-    setSelectedOption(null);
-    setInitialMessage(null);
+    
+    // Set initial query based on option if no custom query provided
+    if (!query) {
+      const optionQueries = {
+        'about_hantec': 'Tell me about Hantec Markets',
+        'what_is_mt5': 'What is MT5?',
+        'start_trading': 'I want to start live trading',
+        'learn_cfds': 'I want to learn about CFDs',
+        'take_tour': 'Give me a quick tour of the platform',
+        'demo_trading': 'What is demo trading?',
+        'what_are_cfds': 'What are CFDs?',
+        'general': ''
+      };
+      query = optionQueries[option] || '';
+    }
+    
+    setInitialQuery(query);
   };
 
   return (
-    <div className="min-h-screen bg-[#F5F5F7]">
+    <div className="App">
       {!conversationStarted ? (
         <WelcomeScreen 
+          userName="James"
           onStartConversation={handleStartConversation}
-          userName={userName}
         />
       ) : (
         <ChatInterface 
           selectedOption={selectedOption}
-          initialMessage={initialMessage}
-          onBack={handleBackToWelcome}
-          userName={userName}
+          initialQuery={initialQuery}
+          userName="James"
         />
       )}
     </div>
