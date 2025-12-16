@@ -1,6 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './ChatInterface.css';
 
+// ✅ USE RENDER BACKEND URL
+const API_URL = import.meta.env.VITE_API_URL || 'https://ai-mentor-latest.onrender.com';
+
 const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
   const [messages, setMessages] = useState([]);
   const [inputValue, setInputValue] = useState('');
@@ -25,7 +28,6 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       console.log('📤 Auto-sending:', initialQuery);
       hasAutoSent.current = true;
       
-      // Add user message
       const userMessage = {
         id: Date.now(),
         text: initialQuery,
@@ -35,12 +37,14 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       
       setMessages([userMessage]);
       
-      // Send to backend
-      sendToBackend(initialQuery);
+      // Send to backend after a short delay
+      setTimeout(() => {
+        sendToBackend(initialQuery);
+      }, 100);
     }
   }, [initialQuery]);
 
-  // ✅ CRITICAL: This sends to backend correctly
+  // ✅ SEND TO RENDER BACKEND
   const sendToBackend = async (text) => {
     if (!text || !text.trim()) {
       console.log('⚠️ Empty text, skipping');
@@ -48,17 +52,17 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     }
 
     const trimmedText = text.trim();
-    console.log('📤 Sending to backend:', trimmedText);
+    console.log('📤 Sending to:', API_URL);
+    console.log('📤 Query:', trimmedText);
 
     setIsLoading(true);
 
     try {
-      // ✅ MUST SEND AS { query: "..." }
       const payload = { query: trimmedText };
       
       console.log('📦 Payload:', JSON.stringify(payload));
 
-      const response = await fetch('http://localhost:3001/api/chat', {
+      const response = await fetch(`${API_URL}/api/chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -71,16 +75,15 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       if (!response.ok) {
         const errorData = await response.json();
         console.error('❌ Error:', errorData);
-        throw new Error(errorData.error || 'Request failed');
+        throw new Error(errorData.error || `HTTP ${response.status}`);
       }
 
       const data = await response.json();
       console.log('✅ Response:', data);
 
-      // Add AI message
       const aiMessage = {
         id: Date.now() + 1,
-        text: data.response || 'No response',
+        text: data.response || 'No response received',
         sender: 'ai',
         timestamp: new Date().toISOString(),
         sources: data.sources || [],
@@ -93,7 +96,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       
       const errorMessage = {
         id: Date.now() + 1,
-        text: `Error: ${error.message}`,
+        text: `Error: ${error.message}. Backend: ${API_URL}`,
         sender: 'ai',
         timestamp: new Date().toISOString(),
         isError: true,
@@ -105,7 +108,6 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     }
   };
 
-  // Handle form submit
   const handleSubmit = (e) => {
     e.preventDefault();
     
@@ -113,7 +115,6 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
 
     console.log('📝 User input:', inputValue);
 
-    // Add user message
     const userMessage = {
       id: Date.now(),
       text: inputValue,
@@ -123,10 +124,8 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
 
     setMessages(prev => [...prev, userMessage]);
     
-    // Send to backend
     sendToBackend(inputValue);
     
-    // Clear input
     setInputValue('');
   };
 
