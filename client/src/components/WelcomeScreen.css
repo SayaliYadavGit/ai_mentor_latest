@@ -75,7 +75,7 @@
   font-size: 56px;
   font-weight: 400;
   color: #d1d5db;
-  margin: 0 0 24px 0;
+  margin: 0 0 8px 0;
   line-height: 1.2;
   font-family: 'Poppins', sans-serif;
 }
@@ -89,7 +89,7 @@
   font-size: 40px;
   font-weight: 600;
   color: #ffffff;
-  margin: 0 0 28px 0;
+  margin: 0 0 8px 0;
   line-height: 1.4;
   font-family: 'Poppins', sans-serif;
 }
@@ -107,9 +107,8 @@
 .action-buttons-dark {
   display: flex;
   gap: 24px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   animation: fadeInUp 0.8s ease 0.4s backwards;
-  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -138,8 +137,8 @@
 }
 
 .btn-icon-svg {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   object-fit: contain;
   flex-shrink: 0;
 }
@@ -183,7 +182,7 @@
 
 .search-input-dark::placeholder {
   color: #5a5a5a;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .submit-btn-dark {
@@ -216,6 +215,8 @@
 
 .submit-btn-dark svg {
   transform: rotate(0deg);
+  width: 16px;
+  height: 16px;
 }
 
 /* Animations */
@@ -250,10 +251,15 @@
   }
 }
 
+
+  .greeting-dark {
+    font-size: 4px;
+  }
+
 /* Responsive Design */
 @media (max-width: 1024px) {
   .greeting-dark {
-    font-size: 48px;
+    font-size: 20px;
   }
 
   .tagline-dark {
@@ -263,7 +269,7 @@
 
 @media (max-width: 768px) {
   .welcome-container-dark {
-    padding: 40px 16px;
+    padding: 24px 16px;
   }
 
   .top-section {
@@ -272,12 +278,12 @@
 
   .icon-container,
   .app-icon {
-    width: 110px;
-    height: 110px;
+    width: 96px;
+    height: 96px;
   }
 
   .main-header {
-    margin-bottom: 50px;
+    margin-bottom: 22px;
   }
 
   .greeting-dark {
@@ -293,44 +299,44 @@
   }
 
   .action-buttons-dark {
-    flex-direction: column;
-    width: 100%;
+    flex-direction: row;
+    width: 50%;
     max-width: 400px;
-    gap: 16px;
+    gap: 8px;
   }
 
   .action-btn-dark {
     width: 100%;
     justify-content: center;
-    padding: 16px 32px;
+    padding: 8px 8px;
   }
 
   .search-input-dark {
-    padding: 20px 70px 20px 24px;
+    padding: 8px 8px 8px 16px;
     font-size: 16px;
   }
 
   .submit-btn-dark {
-    width: 48px;
-    height: 48px;
+    width: 32px;
+    height: 32px;
   }
 }
 
 @media (max-width: 480px) {
   .greeting-dark {
-    font-size: 32px;
+    font-size: 16px;
   }
 
   .tagline-dark {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .capabilities-dark {
-    font-size: 15px;
+    font-size: 14px;
   }
 
   .action-btn-dark {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
