@@ -10,6 +10,68 @@
 }
 
 /* ============================
+   LOADING STATE - "THINKING..."
+   ============================ */
+
+.loading-message {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.loading-text {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.thinking-text {
+  font-weight: 500;
+  color: #e5e7eb;
+  font-size: 15px;
+}
+
+.processing-text {
+  font-size: 13px;
+  color: #9ca3af;
+  margin-top: 4px;
+}
+
+/* Typing indicator - keep existing styles but update positioning */
+.typing-indicator {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.typing-indicator span {
+  width: 6px;
+  height: 6px;
+  background: #6b7280;
+  border-radius: 50%;
+  animation: typingBounce 1.4s infinite ease-in-out;
+}
+
+.typing-indicator span:nth-child(1) {
+  animation-delay: -0.32s;
+}
+
+.typing-indicator span:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+@keyframes typingBounce {
+  0%, 80%, 100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  40% {
+    transform: translateY(-6px);
+    opacity: 1;
+  }
+}
+
+/* ============================
    LEFT SIDEBAR
    ============================ */
 

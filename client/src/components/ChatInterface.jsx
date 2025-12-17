@@ -4,14 +4,17 @@ import './ChatInterface.css';
 // Use Render backend
 const API_URL = import.meta.env.VITE_API_URL || 'https://ai-mentor-latest.onrender.com';
 
-// Sample questions for left sidebar
+// NEW sample questions
 const SAMPLE_QUESTIONS = [
-  "How do I open an account?",
-  "What documents do I need to sign up?",
-  "I uploaded my ID but it was rejected, why?",
-  "How do I open an account?",
-  "How do I open an account?",
-  "How do I open an account?"
+  "How do I download MT4?",
+  "Can I use Expert Advisors on MT4?",
+  "What's the minimum deposit required in Hantec Markets?",
+  "What's the difference between MT4 and MT5?",
+  "How does Hantec Social work?",
+  "What are the fees for copy trading?",
+  "What account types does Hantec offer?",
+  "What currency pairs can I trade?",
+  "Are there expiry dates for CFDs?"
 ];
 
 const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
@@ -53,6 +56,21 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     }
   }, [initialQuery]);
 
+  // Clean response text - REMOVE ** and [...] lines
+  const cleanResponseText = (text) => {
+    if (!text) return '';
+    
+    // Remove ** markdown bold
+    let cleaned = text.replace(/\*\*/g, '');
+    
+    // Remove lines that contain [...] (suggestions line)
+    cleaned = cleaned.split('\n')
+      .filter(line => !line.trim().match(/^\[.*\]$/))
+      .join('\n');
+    
+    return cleaned.trim();
+  };
+
   // Send to backend
   const sendToBackend = async (text) => {
     if (!text || !text.trim()) {
@@ -90,9 +108,12 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       const data = await response.json();
       console.log('✅ Response:', data);
 
+      // Clean the response text
+      const cleanedText = cleanResponseText(data.response || 'No response received');
+
       const aiMessage = {
         id: Date.now() + 1,
-        text: data.response || 'No response received',
+        text: cleanedText,
         sender: 'ai',
         timestamp: new Date().toISOString(),
         sources: data.sources || [],
@@ -158,12 +179,12 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     <div className="chat-interface-container">
       {/* LEFT SIDEBAR */}
       <div className="chat-sidebar">
-        {/* Logo - Using PrimaryLogo.svg */}
+        {/* Logo */}
         <div className="sidebar-logo">
           <img src="/PrimaryLogo.svg" alt="Hantec Halo" />
         </div>
 
-        {/* Sample Questions - Using message-text-circle-02.svg */}
+        {/* Sample Questions */}
         <div className="sidebar-questions">
           {SAMPLE_QUESTIONS.map((question, index) => (
             <button
@@ -208,7 +229,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
               key={message.id}
               className={`message ${message.sender === 'user' ? 'message-user' : 'message-ai'}`}
             >
-              {/* AI Avatar - Using chaticon.svg */}
+              {/* AI Avatar */}
               {message.sender === 'ai' && (
                 <div className="message-avatar">
                   <img src="/chaticon.svg" alt="AI" />
@@ -223,31 +244,34 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
                   </div>
                 )}
               </div>
-
-              {/* NO "Nice" button - removed as requested */}
             </div>
           ))}
 
+          {/* Loading State - "Thinking..." */}
           {isLoading && (
             <div className="message message-ai">
               <div className="message-avatar">
                 <img src="/chaticon.svg" alt="AI" />
               </div>
-              <div className="message-content">
-                <div className="typing-indicator">
-                  <span></span>
-                  <span></span>
-                  <span></span>
+              <div className="message-content loading-message">
+                <div className="loading-text">
+                  <span className="thinking-text">Thinking</span>
+                  <div className="typing-indicator">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
                 </div>
-              </div>
+                 </div>
             </div>
           )}
 
           <div ref={messagesEndRef} />
         </div>
 
-        {/* Input Form */}
+        {/* Input Form - DISCLAIMER MOVED ABOVE INPUT */}
         <div className="chat-input-container">
+          {/* Disclaimer above input */}
           <div className="beta-notice">
             Halo is currently in beta, with knowledge limited to the Hantec Markets website — verify key info
           </div>
@@ -257,7 +281,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
-              placeholder="Ask about Hantec & more"
+              placeholder="Okay!"
               disabled={isLoading}
               className="chat-input"
             />
