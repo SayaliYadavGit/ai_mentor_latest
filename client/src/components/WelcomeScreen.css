@@ -7,7 +7,7 @@
   justify-content: center;
   min-height: 100vh;
   width: 100%;
-  background: #0F0F0F; /* ← Changed from #0a0a0a */
+  background: #141414; /* ← Changed from #0a0a0a */
   padding: 60px 20px;
   font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   color: white;
@@ -82,7 +82,7 @@
 
 .brand-halo {
   color: #dc2626;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .tagline-dark {
@@ -96,7 +96,7 @@
 
 .capabilities-dark {
   font-size: 19px;
-  color: #6b7280;
+  color: #737373;
   margin: 0;
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
@@ -119,7 +119,7 @@
   gap: 12px;
   padding: 18px 36px;
   background: #212121; /* ← Changed from #1f2937 */
-  border: 1px solid #374151;
+  border: 1px solid #212121;
   border-radius: 36px;
   font-size: 17px;
   font-weight: 500;
@@ -160,9 +160,9 @@
   width: 100%;
   padding: 22px 80px 22px 28px;
   /* Thick stroke (outer) */
-  border: 2px solid #1B1B1B; /* ← Changed */
+  border: 4px solid #212121; /* ← Changed */
   /* Thin stroke (inner) - using box-shadow */
-  box-shadow: inset 0 0 0 1px #292929; /* ← Added thin inner stroke */
+  box-shadow: inset 0 0 0 1px #393939; /* ← Added thin inner stroke */
   border-radius: 50px;
   font-size: 17px;
   color: #d1d5db;
@@ -178,10 +178,11 @@
   box-shadow: 
     inset 0 0 0 1px #292929,
     0 0 0 4px rgba(107, 114, 128, 0.1);
+    outline:2px solid #6b6b6b;
 }
 
 .search-input-dark::placeholder {
-  color: #6b7280;
+  color: #5a5a5a;
   font-size: 16px;
 }
 
@@ -214,7 +215,7 @@
 }
 
 .submit-btn-dark svg {
-  transform: rotate(90deg);
+  transform: rotate(0deg);
 }
 
 /* Animations */
