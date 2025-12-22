@@ -567,6 +567,12 @@ export const PERSONALITY_RESPONSES = {
     "Hey! 😊 I'm doing great, thanks for asking! I'm ready to assist you with trading, platforms, accounts, and more. What brings you here today?",
     "Hello! I'm your trading mentor from Hantec Markets. Whether you're new to trading or experienced, I'm here to help. What can I do for you?",
   ],
+  about_ai: [
+    "I'm Halo, your AI assistant for Hantec Markets! 🤖 I'm here to help you with questions about our trading platforms, account types, products, and services. I can guide you through everything from opening an account to understanding our copy trading features.\n\nWhat would you like to know about Hantec Markets?",
+    "Nice to meet you! I'm Halo, created to assist traders at Hantec Markets. I can help you with platform tutorials, account information, trading products, and much more. Think of me as your 24/7 trading companion.\n\nHow can I help you today?",
+    "I'm Halo — your friendly AI assistant specialized in all things Hantec Markets. I'm here to answer your questions about MT4, MT5, Hantec Social, our account types, trading instruments, and everything in between.\n\nWhat would you like to explore?",
+    "Hello! I'm Halo, your Hantec Markets guide. 👋 I help traders navigate our platforms, understand products, and get the most out of their trading experience. I'm powered by AI, trained on Hantec's knowledge base, and always here to assist.\n\nWhat brings you here today?",
+  ],
   unrelated: [
     "Wrong chatbot, friend! I'm a trading expert, not Google. 😎 Try asking about leverage, spreads, or MT5!",
     "LOL, creative question! But I'm paid to talk about trading, not *that*. What do you *actually* want to know about Hantec? 💼",
@@ -603,6 +609,27 @@ export const PERSONALITY_RESPONSES = {
  */
 export function detectQueryCategory(query) {
   const lowerQuery = query.toLowerCase().trim();
+  
+  // ============================================
+  // NEW: ABOUT HALO / AI IDENTITY PATTERNS 🤖
+  // ============================================
+  const aboutAIPatterns = [
+    /what (is|are) (your|you're) name/i,
+    /who are you/i,
+    /what are you/i,
+    /tell me about yourself/i,
+    /what do you do/i,
+    /what can you do/i,
+    /how can you help/i,
+    /what's your name/i,
+    /whats your name/i,
+    /introduce yourself/i,
+    /what should i call you/i,
+  ];
+  
+  if (aboutAIPatterns.some(pattern => pattern.test(lowerQuery))) {
+    return 'about_ai';
+  }
   
   // Testing patterns
   const testPatterns = [

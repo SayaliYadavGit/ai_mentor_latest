@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import chatRouter from './routes/chat.js';  // FIXED: Import router, not function
+import feedbackRouter from './routes/feedback.js';
 
 dotenv.config();
 
@@ -88,3 +89,7 @@ app.listen(PORT, () => {
   console.log(`📍 API: http://localhost:${PORT}/api/chat`);
   console.log('═══════════════════════════════════════════════════════════');
 });
+
+// Mount routes
+app.use('/api/chat', chatRouter);
+app.use('/api/feedback', feedbackRouter); // ADD THIS LINE

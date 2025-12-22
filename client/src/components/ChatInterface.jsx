@@ -85,9 +85,22 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     setIsLoading(true);
 
     try {
-      const payload = { query: trimmedText };
+      // ============================================
+      // BUILD CONVERSATION HISTORY 💬
+      // ============================================
+      const conversationHistory = messages.map(msg => ({
+        role: msg.sender === 'user' ? 'user' : 'assistant',
+        content: msg.text
+      }));
       
-      console.log('📦 Payload:', JSON.stringify(payload));
+      console.log('📜 Conversation history:', conversationHistory.length, 'messages');
+      
+      const payload = { 
+        query: trimmedText,
+        conversationHistory: conversationHistory  // ✅ NOW INCLUDED!
+      };
+      
+      console.log('📦 Payload:', JSON.stringify(payload, null, 2));
 
       const response = await fetch(`${API_URL}/api/chat`, {
         method: 'POST',
@@ -238,11 +251,6 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
               
               <div className="message-content">
                 <p>{message.text}</p>
-                {message.sources && message.sources.length > 0 && (
-                  <div className="message-sources">
-                    <small>Sources: {message.sources.join(', ')}</small>
-                  </div>
-                )}
               </div>
             </div>
           ))}
@@ -262,7 +270,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
                     <span></span>
                   </div>
                 </div>
-                 </div>
+              </div>
             </div>
           )}
 
@@ -281,7 +289,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
-              placeholder="Okay!"
+              placeholder="Type your message..."
               disabled={isLoading}
               className="chat-input"
             />
