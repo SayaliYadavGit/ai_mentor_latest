@@ -12,6 +12,7 @@ import {
   getPersonalityResponse,
 } from './config.js';
 
+// ✅ KEEP: Local logging for Render logs (viewable in dashboard)
 import { logChatInteraction, logError } from '../utils/logger.js';
 
 import { ChatOpenAI } from '@langchain/openai';
@@ -19,6 +20,48 @@ import { PromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence } from '@langchain/core/runnables';
 import { searchVectorStore, initializeVectorStore } from './vectorStore.js';
+
+// ============================================
+// ✅ GOOGLE SHEETS LOGGING FUNCTION (Updated with Similarity Scores)
+// ============================================
+async function logToGoogleSheets(logData) {
+  const webhookUrl = process.env.GOOGLE_SHEETS_WEBHOOK_URL;
+  
+  if (!webhookUrl) {
+    // Only log once on startup to avoid spam
+    if (!logToGoogleSheets.warned) {
+      console.log('⚠️  Google Sheets webhook not configured (set GOOGLE_SHEETS_WEBHOOK_URL)');
+      logToGoogleSheets.warned = true;
+    }
+    return;
+  }
+  
+  try {
+    const response = await fetch(webhookUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        timestamp: new Date().toISOString(),
+        query: logData.query,
+        response: logData.response,
+        confidence: logData.confidence,
+        category: logData.queryCategory,
+        duration: logData.metadata?.duration || 0,
+        similarityScore: logData.metadata?.topScore || null, // ✅ TOP SIMILARITY SCORE
+        topScores: logData.metadata?.topScores || [], // ✅ TOP 3 SCORES ARRAY
+        sourcesCount: logData.sources?.length || 0
+      })
+    });
+    
+    if (!response.ok) {
+      console.error('❌ Google Sheets log failed:', response.status, response.statusText);
+    } else {
+      console.log('✅ Logged to Google Sheets successfully');
+    }
+  } catch (error) {
+    console.error('❌ Google Sheets logging error:', error.message);
+  }
+}
 
 const APP_CONFIG = {
   supportEmail: process.env.SUPPORT_EMAIL || 'support@hmarkets.com',
@@ -123,7 +166,7 @@ function extractLastQuestion(text) {
 }
 
 // ============================================
-// CORRECTED: Detect question type to handle Yes/No properly
+// Detect question type to handle Yes/No properly
 // ============================================
 function detectQuestionType(question) {
   if (!question) return 'unknown';
@@ -165,8 +208,7 @@ function detectQuestionType(question) {
 }
 
 // ============================================
-// CORRECTED: Detect BOTH affirmative AND negative responses
-// Now considers question type for proper handling
+// Detect BOTH affirmative AND negative responses
 // ============================================
 function detectFollowUpResponse(query, lastQuestion) {
   const lowerQuery = query.toLowerCase().trim();
@@ -174,191 +216,46 @@ function detectFollowUpResponse(query, lastQuestion) {
   // Detect question type
   const questionType = detectQuestionType(lastQuestion);
   
-  // ============================================
-  // AFFIRMATIVE PATTERNS ✅ - EXPANDED
-  // ============================================
+  // AFFIRMATIVE PATTERNS
   const affirmativePatterns = [
-    // Basic "yes" variations
-    /^yes$/i,
-    /^yeah$/i,
-    /^yep$/i,
-    /^yup$/i,
-    /^ya$/i,
-    /^yea$/i,
-    /^aye$/i,
-    
-    // Polite affirmatives
-    /^sure$/i,
-    /^of course$/i,
-    /^certainly$/i,
-    /^please$/i,
-    /^yes please$/i,
-    /^that would be great$/i,
-    /^that'd be great$/i,
-    /^that would be nice$/i,
-    /^i'd like that$/i,
-    /^i would like that$/i,
-    /^sounds good$/i,
-    /^sounds great$/i,
-    /^perfect$/i,
-    
-    // Agreement
-    /^ok$/i,
-    /^okay$/i,
-    /^alright$/i,
-    /^all right$/i,
-    /^cool$/i,
-    /^fine$/i,
-    /^works for me$/i,
-    /^that works$/i,
-    
-    // Enthusiasm
-    /^definitely$/i,
-    /^absolutely$/i,
-    /^for sure$/i,
-    /^indeed$/i,
-    /^why not$/i,
-    /^let's do it$/i,
-    /^let's go$/i,
-    /^i'm in$/i,
-    
-    // Request forms
-    /^tell me$/i,
-    /^tell me more$/i,
-    /^tell me about it$/i,
-    /^show me$/i,
-    /^explain$/i,
-    /^go ahead$/i,
-    /^go on$/i,
-    /^continue$/i,
-    /^proceed$/i,
-    
-    // Interest expressions
-    /^i'm interested$/i,
-    /^interested$/i,
-    /^i want to know$/i,
-    /^i would like to know$/i,
-    /^i'd like to know$/i,
-    /^i'd love to know$/i,
-    /^i want to learn$/i,
-    /^i'd like to learn$/i,
-    /^curious$/i,
-    /^i'm curious$/i,
-    
-    // Time-based affirmatives - NEW! ✨
-    /^now$/i,
-    /^right now$/i,
-    /^today$/i,
-    /^now please$/i,
-    
-    // Experience level responses (for knowledge questions)
-    /^familiar$/i,
-    /^very familiar$/i,
-    /^quite familiar$/i,
-    /^not familiar$/i,
-    /^not very familiar$/i,
-    /^somewhat familiar$/i,
-    /^a bit$/i,
-    /^a little$/i,
-    /^a little bit$/i,
-    /^beginner$/i,
-    /^intermediate$/i,
-    /^advanced$/i,
-    /^expert$/i,
-    /^new to this$/i,
-    /^new$/i,
-    /^learning$/i,
-    /^experienced$/i,
-    /^novice$/i,
-    /^just starting$/i,
-    /^getting started$/i,
-    /^pro$/i,
-    /^professional$/i,
-    
-    // Action requests - NEW! ✨
-    /^start$/i,
-    /^begin$/i,
-    /^let's start$/i,
-    /^help me$/i,
-    /^assist me$/i,
-    /^guide me$/i,
+    /^yes$/i, /^yeah$/i, /^yep$/i, /^yup$/i, /^ya$/i, /^yea$/i, /^aye$/i,
+    /^sure$/i, /^of course$/i, /^certainly$/i, /^please$/i, /^yes please$/i,
+    /^that would be great$/i, /^that'd be great$/i, /^that would be nice$/i,
+    /^i'd like that$/i, /^i would like that$/i, /^sounds good$/i, /^sounds great$/i,
+    /^perfect$/i, /^ok$/i, /^okay$/i, /^alright$/i, /^all right$/i, /^cool$/i,
+    /^fine$/i, /^works for me$/i, /^that works$/i, /^definitely$/i, /^absolutely$/i,
+    /^for sure$/i, /^indeed$/i, /^why not$/i, /^let's do it$/i, /^let's go$/i,
+    /^i'm in$/i, /^tell me$/i, /^tell me more$/i, /^tell me about it$/i,
+    /^show me$/i, /^explain$/i, /^go ahead$/i, /^go on$/i, /^continue$/i,
+    /^proceed$/i, /^i'm interested$/i, /^interested$/i, /^i want to know$/i,
+    /^i would like to know$/i, /^i'd like to know$/i, /^i'd love to know$/i,
+    /^i want to learn$/i, /^i'd like to learn$/i, /^curious$/i, /^i'm curious$/i,
+    /^now$/i, /^right now$/i, /^today$/i, /^now please$/i,
+    /^familiar$/i, /^very familiar$/i, /^quite familiar$/i, /^not familiar$/i,
+    /^not very familiar$/i, /^somewhat familiar$/i, /^a bit$/i, /^a little$/i,
+    /^a little bit$/i, /^beginner$/i, /^intermediate$/i, /^advanced$/i,
+    /^expert$/i, /^new to this$/i, /^new$/i, /^learning$/i, /^experienced$/i,
+    /^novice$/i, /^just starting$/i, /^getting started$/i, /^pro$/i,
+    /^professional$/i, /^start$/i, /^begin$/i, /^let's start$/i, /^help me$/i,
+    /^assist me$/i, /^guide me$/i,
   ];
   
-  // ============================================
-  // NEGATIVE PATTERNS ❌ - EXPANDED
-  // ============================================
+  // NEGATIVE PATTERNS
   const negativePatterns = [
-    // Basic "no" variations
-    /^no$/i,
-    /^nope$/i,
-    /^nah$/i,
-    /^na$/i,
-    /^nay$/i,
-    
-    // Polite declines
-    /^no thanks$/i,
-    /^no thank you$/i,
-    /^not interested$/i,
-    /^not really$/i,
-    /^i'm good$/i,
-    /^i'm ok$/i,
-    /^i'm okay$/i,
-    /^i'm fine$/i,
-    /^all good$/i,
-    
-    // "Not now" variations - NEW! ✨
-    /^not now$/i,
-    /^not right now$/i,
-    /^maybe later$/i,
-    /^later$/i,
-    /^some other time$/i,
-    /^another time$/i,
-    
-    // "Nothing" variations - NEW! ✨
-    /^nothing$/i,
-    /^nothing else$/i,
-    /^that's all$/i,
-    /^that's it$/i,
-    /^i'm done$/i,
-    /^all set$/i,
-    /^that'll be all$/i,
-    
-    // Action-based declines - NEW! ✨
-    /^skip$/i,
-    /^skip it$/i,
-    /^skip that$/i,
-    /^pass$/i,
-    /^move on$/i,
-    /^next$/i,
-    /^next topic$/i,
-    
-    // Uncertainty declines
-    /^i don't$/i,
-    /^i don't know$/i,
-    /^i don't think so$/i,
-    /^don't know$/i,
-    /^don't think$/i,
-    /^not sure$/i,
-    /^i'm not sure$/i,
-    /^unsure$/i,
-    
-    // Knowledge-level negatives (for knowledge questions)
-    /^haven't$/i,
-    /^not yet$/i,
-    /^never$/i,
-    /^i'm not$/i,
-    /^unfamiliar$/i,
-    /^not familiar$/i,
-    
-    // Dismissive responses - NEW! ✨
-    /^nvm$/i,
-    /^nevermind$/i,
-    /^never mind$/i,
-    /^forget it$/i,
-    /^doesn't matter$/i,
+    /^no$/i, /^nope$/i, /^nah$/i, /^na$/i, /^nay$/i, /^no thanks$/i,
+    /^no thank you$/i, /^not interested$/i, /^not really$/i, /^i'm good$/i,
+    /^i'm ok$/i, /^i'm okay$/i, /^i'm fine$/i, /^all good$/i, /^not now$/i,
+    /^not right now$/i, /^maybe later$/i, /^later$/i, /^some other time$/i,
+    /^another time$/i, /^nothing$/i, /^nothing else$/i, /^that's all$/i,
+    /^that's it$/i, /^i'm done$/i, /^all set$/i, /^that'll be all$/i,
+    /^skip$/i, /^skip it$/i, /^skip that$/i, /^pass$/i, /^move on$/i,
+    /^next$/i, /^next topic$/i, /^i don't$/i, /^i don't know$/i,
+    /^i don't think so$/i, /^don't know$/i, /^don't think$/i, /^not sure$/i,
+    /^i'm not sure$/i, /^unsure$/i, /^haven't$/i, /^not yet$/i, /^never$/i,
+    /^i'm not$/i, /^unfamiliar$/i, /^not familiar$/i, /^nvm$/i, /^nevermind$/i,
+    /^never mind$/i, /^forget it$/i, /^doesn't matter$/i,
   ];
   
-  // Check which pattern matches
   const isAffirmative = affirmativePatterns.some(pattern => pattern.test(lowerQuery));
   const isNegative = negativePatterns.some(pattern => pattern.test(lowerQuery));
   
@@ -371,28 +268,19 @@ function detectFollowUpResponse(query, lastQuestion) {
   }
   
   if (isNegative) {
-    // ============================================
-    // KEY LOGIC: Different behavior based on question type
-    // ============================================
-    
     if (questionType === 'interest') {
-      // User said "No" to "Would you like to know...?"
-      // DON'T provide the information, just acknowledge
       return { 
         isFollowUp: true, 
         responseType: 'declined',
         questionType: 'interest'
       };
     } else if (questionType === 'knowledge') {
-      // User said "No" to "How familiar are you...?"
-      // This means "not familiar", so provide beginner explanation
       return { 
         isFollowUp: true, 
         responseType: 'negative',
         questionType: 'knowledge'
       };
     } else {
-      // Unknown question type - treat conservatively as declined
       return { 
         isFollowUp: true, 
         responseType: 'declined',
@@ -409,33 +297,20 @@ function detectFollowUpResponse(query, lastQuestion) {
 }
 
 // ============================================
-// FIXED: Convert question to query based on response type
+// Convert question to query based on response type
 // ============================================
 function convertQuestionToQuery(question, responseType) {
   if (!question) return null;
   
-  // Remove question mark
   let query = question.replace(/\?$/, '').trim();
   
-  // Remove common question starters
   query = query
     .replace(/^(Would you like to know|Are you interested in|Do you want to know|Want to know|Interested in learning|How familiar are you with|Have you considered)/i, '')
     .trim();
   
-  // ============================================
-  // CONTEXT-AWARE QUERY CONVERSION 🎯
-  // ============================================
   if (responseType === 'negative') {
-    // User said "No" - they need basic explanation
-    // "Have you considered which traders to copy?" 
-    // → "how to choose traders to copy" (beginner-focused)
     query = `how to ${query}`;
   } else if (responseType === 'affirmative') {
-    // User said "Yes" - they want more details
-    // "How familiar are you with leverage?" 
-    // → "advanced leverage strategies" (detail-focused)
-    
-    // If query is about familiarity/experience, make it more advanced
     if (query.toLowerCase().includes('familiar') || query.toLowerCase().includes('experience')) {
       query = query.replace(/familiar|experience/gi, 'advanced strategies');
     }
@@ -459,7 +334,7 @@ export async function processQuery(query, conversationHistory = []) {
     }
 
     // ============================================
-    // FIXED: Check for BOTH affirmative AND negative follow-ups 🎯
+    // Check for follow-up responses
     // ============================================
     if (conversationHistory.length > 0) {
       const lastMessage = conversationHistory[conversationHistory.length - 1];
@@ -479,13 +354,10 @@ export async function processQuery(query, conversationHistory = []) {
           
           if (followUpDetection.isFollowUp) {
             
-            // ============================================
-            // CASE 1: User DECLINED (said "No" to interest question)
-            // ============================================
+            // CASE 1: User DECLINED
             if (followUpDetection.responseType === 'declined') {
               console.log('❌ User declined the offer - not providing information');
               
-              // Multiple polite acknowledgment variations
               const declinedResponses = [
                 "No problem! Is there anything else you'd like to know about Hantec Markets?",
                 "Sure, no worries! What else can I help you with?",
@@ -495,10 +367,8 @@ export async function processQuery(query, conversationHistory = []) {
                 "No problem at all! What else are you curious about?",
               ];
               
-              // Pick a random response for variety
               const randomResponse = declinedResponses[Math.floor(Math.random() * declinedResponses.length)];
               
-              // Generate a polite acknowledgment WITHOUT providing the info
               const declinedResponse = {
                 response: randomResponse,
                 confidence: 'high',
@@ -509,6 +379,7 @@ export async function processQuery(query, conversationHistory = []) {
                 },
               };
               
+              // ✅ LOG TO BOTH SYSTEMS
               logChatInteraction({
                 query: query,
                 response: declinedResponse.response,
@@ -519,21 +390,26 @@ export async function processQuery(query, conversationHistory = []) {
                 conversationLength: conversationHistory.length,
               });
               
+              await logToGoogleSheets({
+                query: query,
+                response: declinedResponse.response,
+                confidence: 'high',
+                queryCategory: 'follow-up-declined',
+                sources: [],
+                metadata: declinedResponse.metadata,
+              });
+              
               console.log('✅ Declined response sent');
               return declinedResponse;
             }
             
-            // ============================================
             // CASE 2: User said YES or indicated knowledge level
-            // ============================================
             console.log(`✅ ${followUpDetection.responseType.toUpperCase()} response detected!`);
             
-            // Convert the question into a searchable query
             const followUpQuery = convertQuestionToQuery(lastQuestion, followUpDetection.responseType);
             console.log('🔄 Converted to query:', followUpQuery);
             
             if (followUpQuery) {
-              // Override the query with the converted follow-up question
               query = followUpQuery;
               console.log('🎯 Proceeding with follow-up query:', query);
             }
@@ -546,7 +422,7 @@ export async function processQuery(query, conversationHistory = []) {
     const queryCategory = detectQueryCategory(query);
     console.log('🎭 Query category:', queryCategory);
     
-    // Handle inappropriate queries immediately
+    // Handle inappropriate queries
     if (queryCategory === 'inappropriate') {
       console.log('🚫 Inappropriate query blocked');
       
@@ -561,7 +437,6 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      // Log inappropriate query
       logChatInteraction({
         query: query,
         response: response.response,
@@ -572,10 +447,19 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'blocked',
+        queryCategory: 'inappropriate',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
     
-    // Handle testing queries with sass
+    // Handle testing queries
     if (queryCategory === 'testing') {
       console.log('🧪 Testing query detected');
       
@@ -599,12 +483,21 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'medium',
+        queryCategory: 'testing',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
     
-    // Handle silly queries with humor
+    // Handle silly queries
     if (queryCategory === 'silly') {
-      console.log('😄 Silly query detected - responding with personality');
+      console.log('😄 Silly query detected');
       
       const response = {
         response: getPersonalityResponse('silly'),
@@ -626,11 +519,21 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'low',
+        queryCategory: 'silly',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
     
+    // Handle greetings
     if (queryCategory === 'greeting') {
-      console.log('👋 Greeting detected - responding warmly');
+      console.log('👋 Greeting detected');
       
       const response = {
         response: getPersonalityResponse('greeting'),
@@ -652,9 +555,19 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'high',
+        queryCategory: 'greeting',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
 
+    // Handle "about AI" queries
     if (queryCategory === 'about_ai') {
       console.log('🤖 About AI query detected');
       
@@ -678,12 +591,21 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'high',
+        queryCategory: 'about_ai',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
     
-    // Handle completely unrelated queries
+    // Handle unrelated queries
     if (queryCategory === 'unrelated') {
-      console.log('🔀 Unrelated query detected - redirecting with sass');
+      console.log('🔀 Unrelated query detected');
       
       const response = {
         response: getPersonalityResponse('unrelated'),
@@ -705,17 +627,26 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'low',
+        queryCategory: 'unrelated',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
 
-    // If trading-related or unknown, continue with normal RAG processing
+    // Trading-related - proceed with RAG
     console.log('✅ Trading-related query - proceeding with RAG');
     
-    // Initialize vector store if needed
+    // Initialize vector store
     console.log('📚 Ensuring vector store is initialized...');
     await initializeVectorStore();
     
-    // Check for escalation triggers
+    // Check for escalation
     if (requiresEscalation(query)) {
       console.log('🚨 Escalation triggered');
       
@@ -742,20 +673,39 @@ export async function processQuery(query, conversationHistory = []) {
         conversationLength: conversationHistory.length,
       });
       
+      await logToGoogleSheets({
+        query: query,
+        response: response.response,
+        confidence: 'escalation',
+        queryCategory: 'escalation',
+        sources: [],
+        metadata: response.metadata,
+      });
+      
       return response;
     }
     
-    // Search vector store
+    // ============================================
+    // ✅ SEARCH VECTOR STORE & EXTRACT SIMILARITY SCORES
+    // ============================================
     console.log('📚 Searching knowledge base...');
     const results = await searchVectorStore(query);
     
+    // ✅ EXTRACT SIMILARITY SCORES
+    const topScore = results.length > 0 ? results[0].score : 0;
+    const topScores = results.slice(0, 3).map(r => r.score); // Top 3 scores
+    
+    console.log('📊 Similarity scores:', {
+      topScore: topScore.toFixed(3),
+      topThree: topScores.map(s => s.toFixed(3))
+    });
+    
     // Determine confidence level
-    const maxScore = results.length > 0 ? results[0].score : 0;
-    const confidence = getConfidenceLevel(maxScore, results.length);
+    const confidence = getConfidenceLevel(topScore, results.length);
     
-    console.log(`📊 Confidence: ${confidence} (max score: ${maxScore.toFixed(3)}, docs: ${results.length})`);
+    console.log(`📊 Confidence: ${confidence} (max score: ${topScore.toFixed(3)}, docs: ${results.length})`);
     
-    // Handle no knowledge case (LOW confidence)
+    // Handle no knowledge case
     if (confidence === 'low' || results.length === 0) {
       console.log('📭 No relevant knowledge found - using fallback');
       
@@ -769,6 +719,8 @@ What else would you like to know about Hantec Markets?`;
         sources: [],
         metadata: {
           retrievedDocs: 0,
+          topScore: 0,
+          topScores: [],
           duration: Date.now() - startTime,
         },
       };
@@ -781,6 +733,15 @@ What else would you like to know about Hantec Markets?`;
         sources: [],
         metadata: response.metadata,
         conversationLength: conversationHistory.length,
+      });
+      
+      await logToGoogleSheets({
+        query: query,
+        response: fallbackResponse,
+        confidence: 'low',
+        queryCategory: queryCategory,
+        sources: [],
+        metadata: response.metadata,
       });
       
       return response;
@@ -806,16 +767,16 @@ What else would you like to know about Hantec Markets?`;
     
     console.log('✅ AI response generated');
     
-    // Clean the response (removes risk warnings, suggestions, sources)
+    // Clean the response
     let finalResponse = cleanResponse(aiResponse.trim());
     
     const duration = Date.now() - startTime;
     console.log(`⏱️  Total processing time: ${duration}ms`);
     
     // ============================================
-    // LOG THE INTERACTION 📊
+    // ✅ LOG TO BOTH SYSTEMS WITH SIMILARITY SCORES
     // ============================================
-    logChatInteraction({
+    const logData = {
       query: query,
       response: finalResponse,
       confidence: confidence,
@@ -823,19 +784,29 @@ What else would you like to know about Hantec Markets?`;
       sources: results.map(r => r.metadata?.source || 'Knowledge Base').slice(0, 3),
       metadata: {
         retrievedDocs: results.length,
-        topScore: maxScore,
+        topScore: topScore, // ✅ TOP SIMILARITY SCORE
+        topScores: topScores, // ✅ TOP 3 SIMILARITY SCORES
         duration: duration,
       },
       conversationLength: conversationHistory.length,
-    });
+    };
+    
+    // Log to local system (Render logs - viewable in dashboard)
+    logChatInteraction(logData);
+    
+    // Log to Google Sheets (persistent storage)
+    await logToGoogleSheets(logData);
+    
+    console.log('✅ Chat logged to both systems');
     
     return {
       response: finalResponse,
       confidence: confidence,
-      sources: [], // Empty - don't send sources to frontend
+      sources: [], // Empty - don't send to frontend
       metadata: {
         retrievedDocs: results.length,
-        topScore: maxScore,
+        topScore: topScore,
+        topScores: topScores,
         duration: duration,
       },
     };
@@ -843,7 +814,7 @@ What else would you like to know about Hantec Markets?`;
   } catch (error) {
     console.error('❌ Error processing query:', error.message);
     
-    // LOG ERRORS TOO
+    // LOG ERRORS
     logError({
       query: query,
       error: error.message,
