@@ -12,8 +12,6 @@ import {
   getPersonalityResponse,
 } from './config.js';
 
-// ✅ KEEP: Local logging for Render logs (viewable in dashboard)
-import { logChatInteraction, logError } from '../utils/logger.js';
 
 import { ChatOpenAI } from '@langchain/openai';
 import { PromptTemplate } from '@langchain/core/prompts';
@@ -22,13 +20,12 @@ import { RunnableSequence } from '@langchain/core/runnables';
 import { searchVectorStore, initializeVectorStore } from './vectorStore.js';
 
 // ============================================
-// ✅ GOOGLE SHEETS LOGGING FUNCTION (Updated with Similarity Scores)
+// ✅ GOOGLE SHEETS LOGGING (ONLY LOGGING SYSTEM)
 // ============================================
 async function logToGoogleSheets(logData) {
   const webhookUrl = process.env.GOOGLE_SHEETS_WEBHOOK_URL;
   
   if (!webhookUrl) {
-    // Only log once on startup to avoid spam
     if (!logToGoogleSheets.warned) {
       console.log('⚠️  Google Sheets webhook not configured (set GOOGLE_SHEETS_WEBHOOK_URL)');
       logToGoogleSheets.warned = true;
@@ -47,8 +44,8 @@ async function logToGoogleSheets(logData) {
         confidence: logData.confidence,
         category: logData.queryCategory,
         duration: logData.metadata?.duration || 0,
-        similarityScore: logData.metadata?.topScore || null, // ✅ TOP SIMILARITY SCORE
-        topScores: logData.metadata?.topScores || [], // ✅ TOP 3 SCORES ARRAY
+        similarityScore: logData.metadata?.topScore || null,
+        topScores: logData.metadata?.topScores || [],
         sourcesCount: logData.sources?.length || 0
       })
     });
@@ -56,7 +53,7 @@ async function logToGoogleSheets(logData) {
     if (!response.ok) {
       console.error('❌ Google Sheets log failed:', response.status, response.statusText);
     } else {
-      console.log('✅ Logged to Google Sheets successfully');
+      console.log('✅ Logged to Google Sheets');
     }
   } catch (error) {
     console.error('❌ Google Sheets logging error:', error.message);
@@ -76,7 +73,7 @@ const model = new ChatOpenAI({
   openAIApiKey: process.env.OPENAI_API_KEY,
 });
 
-// Create prompt template with CLEAN instructions
+// Create prompt template
 const promptTemplate = PromptTemplate.fromTemplate(`
 {systemPrompt}
 
@@ -104,7 +101,7 @@ const chain = RunnableSequence.from([
   new StringOutputParser(),
 ]);
 
-// Clean response function - removes unwanted elements
+// Clean response function
 function cleanResponse(text) {
   if (!text) return '';
 
@@ -124,11 +121,10 @@ function cleanResponse(text) {
   cleaned = cleaned.replace(/\*\*You might also want to know:?\*\*[\s\S]*?(?=\n\n|$)/gi, '');
   cleaned = cleaned.replace(/You might also want to know:?[\s\S]*?(?=\n\n|$)/gi, '');
 
-  // Remove numbered lists that look like suggestions
+  // Remove numbered suggestion lists
   const lines = cleaned.split('\n');
   const filteredLines = lines.filter(line => {
     const trimmed = line.trim();
-    // Remove lines that look like suggestions
     if (/^\d+\.\s+(Would you like|Interested in|Need help|Want to|Are you)/i.test(trimmed)) {
       return false;
     }
@@ -152,10 +148,8 @@ function cleanResponse(text) {
 function extractLastQuestion(text) {
   if (!text) return null;
   
-  // Split by newlines and find the last question mark
   const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
   
-  // Look for the last line that ends with a question mark
   for (let i = lines.length - 1; i >= 0; i--) {
     if (lines[i].endsWith('?')) {
       return lines[i];
@@ -165,15 +159,12 @@ function extractLastQuestion(text) {
   return null;
 }
 
-// ============================================
-// Detect question type to handle Yes/No properly
-// ============================================
+// Detect question type
 function detectQuestionType(question) {
   if (!question) return 'unknown';
   
   const lowerQuestion = question.toLowerCase();
   
-  // INTEREST QUESTIONS (Yes/No) - Don't provide info when user says "No"
   const interestPatterns = [
     /would you like to know/i,
     /want to know/i,
@@ -188,10 +179,9 @@ function detectQuestionType(question) {
   ];
   
   if (interestPatterns.some(pattern => pattern.test(lowerQuestion))) {
-    return 'interest'; // Yes/No question about user's interest
+    return 'interest';
   }
   
-  // KNOWLEDGE/EXPERIENCE QUESTIONS - Provide info when user says "No" (not familiar)
   const knowledgePatterns = [
     /how familiar are you/i,
     /do you (know|understand)/i,
@@ -201,22 +191,17 @@ function detectQuestionType(question) {
   ];
   
   if (knowledgePatterns.some(pattern => pattern.test(lowerQuestion))) {
-    return 'knowledge'; // Experience/knowledge level question
+    return 'knowledge';
   }
   
   return 'unknown';
 }
 
-// ============================================
-// Detect BOTH affirmative AND negative responses
-// ============================================
+// Detect affirmative and negative responses
 function detectFollowUpResponse(query, lastQuestion) {
   const lowerQuery = query.toLowerCase().trim();
-  
-  // Detect question type
   const questionType = detectQuestionType(lastQuestion);
   
-  // AFFIRMATIVE PATTERNS
   const affirmativePatterns = [
     /^yes$/i, /^yeah$/i, /^yep$/i, /^yup$/i, /^ya$/i, /^yea$/i, /^aye$/i,
     /^sure$/i, /^of course$/i, /^certainly$/i, /^please$/i, /^yes please$/i,
@@ -240,7 +225,6 @@ function detectFollowUpResponse(query, lastQuestion) {
     /^assist me$/i, /^guide me$/i,
   ];
   
-  // NEGATIVE PATTERNS
   const negativePatterns = [
     /^no$/i, /^nope$/i, /^nah$/i, /^na$/i, /^nay$/i, /^no thanks$/i,
     /^no thank you$/i, /^not interested$/i, /^not really$/i, /^i'm good$/i,
@@ -296,9 +280,7 @@ function detectFollowUpResponse(query, lastQuestion) {
   };
 }
 
-// ============================================
-// Convert question to query based on response type
-// ============================================
+// Convert question to query
 function convertQuestionToQuery(question, responseType) {
   if (!question) return null;
   
@@ -328,19 +310,15 @@ export async function processQuery(query, conversationHistory = []) {
     console.log('📜 Conversation history length:', conversationHistory.length);
     const startTime = Date.now();
     
-    // Validate query
     if (!query || query.trim().length === 0) {
       throw new Error('Query cannot be empty');
     }
 
-    // ============================================
     // Check for follow-up responses
-    // ============================================
     if (conversationHistory.length > 0) {
       const lastMessage = conversationHistory[conversationHistory.length - 1];
       
       console.log('🔍 Last message role:', lastMessage.role);
-      console.log('🔍 Last message preview:', lastMessage.content?.substring(0, 100));
       
       if (lastMessage.role === 'assistant' && lastMessage.content) {
         const lastQuestion = extractLastQuestion(lastMessage.content);
@@ -354,9 +332,9 @@ export async function processQuery(query, conversationHistory = []) {
           
           if (followUpDetection.isFollowUp) {
             
-            // CASE 1: User DECLINED
+            // User declined
             if (followUpDetection.responseType === 'declined') {
-              console.log('❌ User declined the offer - not providing information');
+              console.log('❌ User declined');
               
               const declinedResponses = [
                 "No problem! Is there anything else you'd like to know about Hantec Markets?",
@@ -379,90 +357,68 @@ export async function processQuery(query, conversationHistory = []) {
                 },
               };
               
-              // ✅ LOG TO BOTH SYSTEMS
-              logChatInteraction({
+              // ✅ LOG TO GOOGLE SHEETS (ONLY)
+              logToGoogleSheets({
                 query: query,
                 response: declinedResponse.response,
                 confidence: 'high',
                 queryCategory: 'follow-up-declined',
                 sources: [],
                 metadata: declinedResponse.metadata,
-                conversationLength: conversationHistory.length,
+              }).catch(err => {
+                console.error('⚠️  Logging failed:', err.message);
               });
               
-              await logToGoogleSheets({
-                query: query,
-                response: declinedResponse.response,
-                confidence: 'high',
-                queryCategory: 'follow-up-declined',
-                sources: [],
-                metadata: declinedResponse.metadata,
-              });
-              
-              console.log('✅ Declined response sent');
               return declinedResponse;
             }
             
-            // CASE 2: User said YES or indicated knowledge level
-            console.log(`✅ ${followUpDetection.responseType.toUpperCase()} response detected!`);
+            // User affirmed
+            console.log(`✅ ${followUpDetection.responseType.toUpperCase()} response`);
             
             const followUpQuery = convertQuestionToQuery(lastQuestion, followUpDetection.responseType);
             console.log('🔄 Converted to query:', followUpQuery);
             
             if (followUpQuery) {
               query = followUpQuery;
-              console.log('🎯 Proceeding with follow-up query:', query);
+              console.log('🎯 Proceeding with:', query);
             }
           }
         }
       }
     }
 
-    // Personality & character check
+    // Personality check
     const queryCategory = detectQueryCategory(query);
-    console.log('🎭 Query category:', queryCategory);
+    console.log('🎭 Category:', queryCategory);
     
-    // Handle inappropriate queries
+    // Handle inappropriate
     if (queryCategory === 'inappropriate') {
-      console.log('🚫 Inappropriate query blocked');
-      
       const response = {
         response: getPersonalityResponse('inappropriate'),
         confidence: 'blocked',
         sources: [],
         metadata: {
           blocked: true,
-          reason: 'inappropriate',
           duration: Date.now() - startTime,
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'blocked',
         queryCategory: 'inappropriate',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'blocked',
-        queryCategory: 'inappropriate',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
     
-    // Handle testing queries
+    // Handle testing
     if (queryCategory === 'testing') {
-      console.log('🧪 Testing query detected');
-      
       const response = {
         response: getPersonalityResponse('testing'),
         confidence: 'medium',
@@ -473,32 +429,22 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'medium',
         queryCategory: 'testing',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'medium',
-        queryCategory: 'testing',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
     
-    // Handle silly queries
+    // Handle silly
     if (queryCategory === 'silly') {
-      console.log('😄 Silly query detected');
-      
       const response = {
         response: getPersonalityResponse('silly'),
         confidence: 'low',
@@ -509,23 +455,15 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'low',
         queryCategory: 'silly',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'low',
-        queryCategory: 'silly',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
@@ -533,8 +471,6 @@ export async function processQuery(query, conversationHistory = []) {
     
     // Handle greetings
     if (queryCategory === 'greeting') {
-      console.log('👋 Greeting detected');
-      
       const response = {
         response: getPersonalityResponse('greeting'),
         confidence: 'high',
@@ -545,32 +481,22 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'high',
         queryCategory: 'greeting',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'high',
-        queryCategory: 'greeting',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
 
-    // Handle "about AI" queries
+    // Handle about AI
     if (queryCategory === 'about_ai') {
-      console.log('🤖 About AI query detected');
-      
       const response = {
         response: getPersonalityResponse('about_ai'),
         confidence: 'high',
@@ -581,32 +507,22 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'high',
         queryCategory: 'about_ai',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'high',
-        queryCategory: 'about_ai',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
     
-    // Handle unrelated queries
+    // Handle unrelated
     if (queryCategory === 'unrelated') {
-      console.log('🔀 Unrelated query detected');
-      
       const response = {
         response: getPersonalityResponse('unrelated'),
         confidence: 'low',
@@ -617,39 +533,27 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'low',
         queryCategory: 'unrelated',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'low',
-        queryCategory: 'unrelated',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
 
-    // Trading-related - proceed with RAG
-    console.log('✅ Trading-related query - proceeding with RAG');
+    // Trading-related
+    console.log('✅ Trading query - RAG');
     
-    // Initialize vector store
-    console.log('📚 Ensuring vector store is initialized...');
     await initializeVectorStore();
     
-    // Check for escalation
+    // Escalation check
     if (requiresEscalation(query)) {
-      console.log('🚨 Escalation triggered');
-      
       const response = {
         response: RESPONSE_TEMPLATES.escalation(
           APP_CONFIG.supportEmail,
@@ -663,51 +567,40 @@ export async function processQuery(query, conversationHistory = []) {
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: response.response,
         confidence: 'escalation',
         queryCategory: 'escalation',
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: response.response,
-        confidence: 'escalation',
-        queryCategory: 'escalation',
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
     
-    // ============================================
-    // ✅ SEARCH VECTOR STORE & EXTRACT SIMILARITY SCORES
-    // ============================================
-    console.log('📚 Searching knowledge base...');
+    // Search knowledge base
+    console.log('📚 Searching...');
     const results = await searchVectorStore(query);
     
-    // ✅ EXTRACT SIMILARITY SCORES
+    // Extract similarity scores
     const topScore = results.length > 0 ? results[0].score : 0;
-    const topScores = results.slice(0, 3).map(r => r.score); // Top 3 scores
+    const topScores = results.slice(0, 3).map(r => r.score);
     
-    console.log('📊 Similarity scores:', {
+    console.log('📊 Scores:', {
       topScore: topScore.toFixed(3),
       topThree: topScores.map(s => s.toFixed(3))
     });
     
-    // Determine confidence level
     const confidence = getConfidenceLevel(topScore, results.length);
     
-    console.log(`📊 Confidence: ${confidence} (max score: ${topScore.toFixed(3)}, docs: ${results.length})`);
+    console.log(`📊 Confidence: ${confidence} (score: ${topScore.toFixed(3)}, docs: ${results.length})`);
     
-    // Handle no knowledge case
+    // Handle no knowledge
     if (confidence === 'low' || results.length === 0) {
-      console.log('📭 No relevant knowledge found - using fallback');
+      console.log('📭 No knowledge found');
       
       const fallbackResponse = `I don't have specific information about that in my knowledge base. For the most accurate details, please contact our support team at ${APP_CONFIG.supportEmail}.
 
@@ -725,29 +618,21 @@ What else would you like to know about Hantec Markets?`;
         },
       };
       
-      logChatInteraction({
+      logToGoogleSheets({
         query: query,
         response: fallbackResponse,
         confidence: 'low',
         queryCategory: queryCategory,
         sources: [],
         metadata: response.metadata,
-        conversationLength: conversationHistory.length,
-      });
-      
-      await logToGoogleSheets({
-        query: query,
-        response: fallbackResponse,
-        confidence: 'low',
-        queryCategory: queryCategory,
-        sources: [],
-        metadata: response.metadata,
+      }).catch(err => {
+        console.error('⚠️  Logging failed:', err.message);
       });
       
       return response;
     }
     
-    // Prepare context from retrieved documents
+    // Prepare context
     const context = results
       .map((result, idx) => {
         const source = result.metadata?.source || 'Knowledge Base';
@@ -755,27 +640,25 @@ What else would you like to know about Hantec Markets?`;
       })
       .join('\n\n---\n\n');
     
-    console.log(`📄 Using ${results.length} documents for context`);
+    console.log(`📄 Using ${results.length} documents`);
     
-    // Generate response using LangChain
-    console.log('🤖 Generating AI response...');
+    // Generate AI response
+    console.log('🤖 Generating...');
     const aiResponse = await chain.invoke({
       systemPrompt: SYSTEM_PROMPT,
       context: context,
       query: query,
     });
     
-    console.log('✅ AI response generated');
+    console.log('✅ Generated');
     
-    // Clean the response
+    // Clean response
     let finalResponse = cleanResponse(aiResponse.trim());
     
     const duration = Date.now() - startTime;
-    console.log(`⏱️  Total processing time: ${duration}ms`);
+    console.log(`⏱️  ${duration}ms`);
     
-    // ============================================
-    // ✅ LOG TO BOTH SYSTEMS WITH SIMILARITY SCORES
-    // ============================================
+    // ✅ LOG TO GOOGLE SHEETS (ONLY LOGGING SYSTEM)
     const logData = {
       query: query,
       response: finalResponse,
@@ -784,25 +667,22 @@ What else would you like to know about Hantec Markets?`;
       sources: results.map(r => r.metadata?.source || 'Knowledge Base').slice(0, 3),
       metadata: {
         retrievedDocs: results.length,
-        topScore: topScore, // ✅ TOP SIMILARITY SCORE
-        topScores: topScores, // ✅ TOP 3 SIMILARITY SCORES
+        topScore: topScore,
+        topScores: topScores,
         duration: duration,
       },
-      conversationLength: conversationHistory.length,
     };
     
-    // Log to local system (Render logs - viewable in dashboard)
-    logChatInteraction(logData);
+    logToGoogleSheets(logData).catch(err => {
+      console.error('⚠️  Logging failed:', err.message);
+    });
     
-    // Log to Google Sheets (persistent storage)
-    await logToGoogleSheets(logData);
-    
-    console.log('✅ Chat logged to both systems');
+    console.log('✅ Logged');
     
     return {
       response: finalResponse,
       confidence: confidence,
-      sources: [], // Empty - don't send to frontend
+      sources: [],
       metadata: {
         retrievedDocs: results.length,
         topScore: topScore,
@@ -812,14 +692,10 @@ What else would you like to know about Hantec Markets?`;
     };
     
   } catch (error) {
-    console.error('❌ Error processing query:', error.message);
+    console.error('❌ Error:', error.message);
     
-    // LOG ERRORS
-    logError({
-      query: query,
-      error: error.message,
-      stack: error.stack,
-    });
+    // Just log to console, no file logging
+    console.error('Stack:', error.stack);
     
     return {
       response: `I encountered an error processing your request. Please try again or contact support at ${APP_CONFIG.supportEmail}`,
@@ -833,7 +709,7 @@ What else would you like to know about Hantec Markets?`;
 }
 
 /**
- * Generate related questions based on query context
+ * Generate related questions
  */
 export async function generateRelatedQuestions(query) {
   try {
@@ -843,18 +719,16 @@ export async function generateRelatedQuestions(query) {
       return DEFAULT_RELATED_QUESTIONS.slice(0, 3);
     }
     
-    // For now, return defaults
-    // TODO: Use LLM to generate contextual questions from retrieved docs
     return DEFAULT_RELATED_QUESTIONS.slice(0, 3);
     
   } catch (error) {
-    console.error('Error generating related questions:', error.message);
+    console.error('Error generating questions:', error.message);
     return DEFAULT_RELATED_QUESTIONS.slice(0, 3);
   }
 }
 
 /**
- * Simple health check for the chain
+ * Health check
  */
 export async function healthCheck() {
   try {
