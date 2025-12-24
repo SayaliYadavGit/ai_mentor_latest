@@ -21,6 +21,10 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
   const [messages, setMessages] = useState([]);
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  
+  // ⭐ NEW: Track loading time
+  const [loadingTime, setLoadingTime] = useState(0);
+  
   const messagesEndRef = useRef(null);
   const hasAutoSent = useRef(false);
 
@@ -32,6 +36,29 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
+
+  // ⭐ NEW: Get loading message based on elapsed time
+  const getLoadingText = (seconds) => {
+    if (seconds < 10) return 'Thinking';
+    if (seconds < 30) return 'Waking up server';
+    if (seconds < 45) return 'Server processing';
+    if (seconds < 60) return 'Loading knowledge base';
+    return 'Almost there';
+  };
+
+  // ⭐ NEW: Timer that counts seconds during loading
+  useEffect(() => {
+    let interval;
+    if (isLoading) {
+      setLoadingTime(0);
+      interval = setInterval(() => {
+        setLoadingTime(prev => prev + 1);
+      }, 1000);
+    } else {
+      setLoadingTime(0);
+    }
+    return () => clearInterval(interval);
+  }, [isLoading]);
 
   // Auto-send initial query
   useEffect(() => {
@@ -85,9 +112,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
     setIsLoading(true);
 
     try {
-      // ============================================
-      // BUILD CONVERSATION HISTORY 💬
-      // ============================================
+      // Build conversation history
       const conversationHistory = messages.map(msg => ({
         role: msg.sender === 'user' ? 'user' : 'assistant',
         content: msg.text
@@ -97,7 +122,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
       
       const payload = { 
         query: trimmedText,
-        conversationHistory: conversationHistory  // ✅ NOW INCLUDED!
+        conversationHistory: conversationHistory
       };
       
       console.log('📦 Payload:', JSON.stringify(payload, null, 2));
@@ -255,7 +280,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
             </div>
           ))}
 
-          {/* Loading State - "Thinking..." */}
+          {/* ⭐ UPDATED: Simple text-only loading state (NO CSS NEEDED) */}
           {isLoading && (
             <div className="message message-ai">
               <div className="message-avatar">
@@ -263,7 +288,7 @@ const ChatInterface = ({ selectedOption, initialQuery, userName }) => {
               </div>
               <div className="message-content loading-message">
                 <div className="loading-text">
-                  <span className="thinking-text">Thinking</span>
+                  <span className="thinking-text">{getLoadingText(loadingTime)}</span>
                   <div className="typing-indicator">
                     <span></span>
                     <span></span>
